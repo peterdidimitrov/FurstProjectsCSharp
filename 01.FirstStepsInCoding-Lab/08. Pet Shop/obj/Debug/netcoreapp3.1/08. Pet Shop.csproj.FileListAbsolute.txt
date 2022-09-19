@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Lab\08. Pet Shop\bin\Debug\netcoreapp3.1\08. Pet Shop.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Lab\08. Pet Shop\bin\Debug\netcoreapp3.1\08. Pet Shop.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Lab\08. Pet Shop\bin\Debug\netcoreapp3.1\08. Pet Shop.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Lab\08. Pet Shop\bin\Debug\netcoreapp3.1\08. Pet Shop.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Lab\08. Pet Shop\bin\Debug\netcoreapp3.1\08. Pet Shop.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Lab\08. Pet Shop\bin\Debug\netcoreapp3.1\08. Pet Shop.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Lab\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Lab\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Lab\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Lab\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Lab\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Lab\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Lab\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Lab\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.genruntimeconfig.cache

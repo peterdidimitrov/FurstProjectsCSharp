@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\11.NestedLoops-Lab\03.Combinations\bin\Debug\netcoreapp3.1\03.Combinations.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\11.NestedLoops-Lab\03.Combinations\bin\Debug\netcoreapp3.1\03.Combinations.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\11.NestedLoops-Lab\03.Combinations\bin\Debug\netcoreapp3.1\03.Combinations.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\11.NestedLoops-Lab\03.Combinations\bin\Debug\netcoreapp3.1\03.Combinations.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\11.NestedLoops-Lab\03.Combinations\bin\Debug\netcoreapp3.1\03.Combinations.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\11.NestedLoops-Lab\03.Combinations\bin\Debug\netcoreapp3.1\03.Combinations.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\11.NestedLoops-Lab\03.Combinations\obj\Debug\netcoreapp3.1\03.Combinations.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\11.NestedLoops-Lab\03.Combinations\obj\Debug\netcoreapp3.1\03.Combinations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\11.NestedLoops-Lab\03.Combinations\obj\Debug\netcoreapp3.1\03.Combinations.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\11.NestedLoops-Lab\03.Combinations\obj\Debug\netcoreapp3.1\03.Combinations.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\11.NestedLoops-Lab\03.Combinations\obj\Debug\netcoreapp3.1\03.Combinations.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\11.NestedLoops-Lab\03.Combinations\obj\Debug\netcoreapp3.1\03.Combinations.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\11.NestedLoops-Lab\03.Combinations\obj\Debug\netcoreapp3.1\03.Combinations.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\11.NestedLoops-Lab\03.Combinations\obj\Debug\netcoreapp3.1\03.Combinations.genruntimeconfig.cache

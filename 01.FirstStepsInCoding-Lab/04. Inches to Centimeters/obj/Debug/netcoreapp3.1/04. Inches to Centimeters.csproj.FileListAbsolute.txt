@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Lab\04. Inches to Centimeters\bin\Debug\netcoreapp3.1\04. Inches to Centimeters.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Lab\04. Inches to Centimeters\bin\Debug\netcoreapp3.1\04. Inches to Centimeters.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Lab\04. Inches to Centimeters\bin\Debug\netcoreapp3.1\04. Inches to Centimeters.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Lab\04. Inches to Centimeters\bin\Debug\netcoreapp3.1\04. Inches to Centimeters.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Lab\04. Inches to Centimeters\bin\Debug\netcoreapp3.1\04. Inches to Centimeters.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Lab\04. Inches to Centimeters\bin\Debug\netcoreapp3.1\04. Inches to Centimeters.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\netcoreapp3.1\04. Inches to Centimeters.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\netcoreapp3.1\04. Inches to Centimeters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\netcoreapp3.1\04. Inches to Centimeters.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\netcoreapp3.1\04. Inches to Centimeters.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\netcoreapp3.1\04. Inches to Centimeters.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\netcoreapp3.1\04. Inches to Centimeters.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\netcoreapp3.1\04. Inches to Centimeters.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\netcoreapp3.1\04. Inches to Centimeters.genruntimeconfig.cache

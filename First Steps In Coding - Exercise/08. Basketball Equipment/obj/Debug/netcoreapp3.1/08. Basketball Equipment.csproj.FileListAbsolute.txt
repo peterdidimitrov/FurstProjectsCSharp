@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Exercise\08. Basketball Equipment\bin\Debug\netcoreapp3.1\08. Basketball Equipment.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Exercise\08. Basketball Equipment\bin\Debug\netcoreapp3.1\08. Basketball Equipment.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Exercise\08. Basketball Equipment\bin\Debug\netcoreapp3.1\08. Basketball Equipment.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Exercise\08. Basketball Equipment\bin\Debug\netcoreapp3.1\08. Basketball Equipment.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Exercise\08. Basketball Equipment\bin\Debug\netcoreapp3.1\08. Basketball Equipment.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Exercise\08. Basketball Equipment\bin\Debug\netcoreapp3.1\08. Basketball Equipment.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Exercise\08. Basketball Equipment\obj\Debug\netcoreapp3.1\08. Basketball Equipment.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Exercise\08. Basketball Equipment\obj\Debug\netcoreapp3.1\08. Basketball Equipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Exercise\08. Basketball Equipment\obj\Debug\netcoreapp3.1\08. Basketball Equipment.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Exercise\08. Basketball Equipment\obj\Debug\netcoreapp3.1\08. Basketball Equipment.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Exercise\08. Basketball Equipment\obj\Debug\netcoreapp3.1\08. Basketball Equipment.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Exercise\08. Basketball Equipment\obj\Debug\netcoreapp3.1\08. Basketball Equipment.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Exercise\08. Basketball Equipment\obj\Debug\netcoreapp3.1\08. Basketball Equipment.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Exercise\08. Basketball Equipment\obj\Debug\netcoreapp3.1\08. Basketball Equipment.genruntimeconfig.cache

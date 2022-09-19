@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\8.ForLoop-Exercise\04.CleverLily2\bin\Debug\netcoreapp3.1\04.CleverLily2.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\8.ForLoop-Exercise\04.CleverLily2\bin\Debug\netcoreapp3.1\04.CleverLily2.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\8.ForLoop-Exercise\04.CleverLily2\bin\Debug\netcoreapp3.1\04.CleverLily2.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\8.ForLoop-Exercise\04.CleverLily2\bin\Debug\netcoreapp3.1\04.CleverLily2.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\8.ForLoop-Exercise\04.CleverLily2\bin\Debug\netcoreapp3.1\04.CleverLily2.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\8.ForLoop-Exercise\04.CleverLily2\bin\Debug\netcoreapp3.1\04.CleverLily2.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\8.ForLoop-Exercise\04.CleverLily2\obj\Debug\netcoreapp3.1\04.CleverLily2.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\8.ForLoop-Exercise\04.CleverLily2\obj\Debug\netcoreapp3.1\04.CleverLily2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\8.ForLoop-Exercise\04.CleverLily2\obj\Debug\netcoreapp3.1\04.CleverLily2.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\8.ForLoop-Exercise\04.CleverLily2\obj\Debug\netcoreapp3.1\04.CleverLily2.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\8.ForLoop-Exercise\04.CleverLily2\obj\Debug\netcoreapp3.1\04.CleverLily2.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\8.ForLoop-Exercise\04.CleverLily2\obj\Debug\netcoreapp3.1\04.CleverLily2.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\8.ForLoop-Exercise\04.CleverLily2\obj\Debug\netcoreapp3.1\04.CleverLily2.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\8.ForLoop-Exercise\04.CleverLily2\obj\Debug\netcoreapp3.1\04.CleverLily2.genruntimeconfig.cache

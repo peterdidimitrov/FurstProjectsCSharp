@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\11.NestedLoops-Lab\01.Clock\bin\Debug\netcoreapp3.1\01.Clock.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\11.NestedLoops-Lab\01.Clock\bin\Debug\netcoreapp3.1\01.Clock.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\11.NestedLoops-Lab\01.Clock\bin\Debug\netcoreapp3.1\01.Clock.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\11.NestedLoops-Lab\01.Clock\bin\Debug\netcoreapp3.1\01.Clock.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\11.NestedLoops-Lab\01.Clock\bin\Debug\netcoreapp3.1\01.Clock.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\11.NestedLoops-Lab\01.Clock\bin\Debug\netcoreapp3.1\01.Clock.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\11.NestedLoops-Lab\01.Clock\obj\Debug\netcoreapp3.1\01.Clock.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\11.NestedLoops-Lab\01.Clock\obj\Debug\netcoreapp3.1\01.Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\11.NestedLoops-Lab\01.Clock\obj\Debug\netcoreapp3.1\01.Clock.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\11.NestedLoops-Lab\01.Clock\obj\Debug\netcoreapp3.1\01.Clock.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\11.NestedLoops-Lab\01.Clock\obj\Debug\netcoreapp3.1\01.Clock.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\11.NestedLoops-Lab\01.Clock\obj\Debug\netcoreapp3.1\01.Clock.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\11.NestedLoops-Lab\01.Clock\obj\Debug\netcoreapp3.1\01.Clock.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\11.NestedLoops-Lab\01.Clock\obj\Debug\netcoreapp3.1\01.Clock.genruntimeconfig.cache

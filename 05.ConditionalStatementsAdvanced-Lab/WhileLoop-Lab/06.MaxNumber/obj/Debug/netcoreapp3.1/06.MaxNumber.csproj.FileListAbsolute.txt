@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\WhileLoop-Lab\06.MaxNumber\bin\Debug\netcoreapp3.1\06.MaxNumber.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\WhileLoop-Lab\06.MaxNumber\bin\Debug\netcoreapp3.1\06.MaxNumber.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\WhileLoop-Lab\06.MaxNumber\bin\Debug\netcoreapp3.1\06.MaxNumber.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\WhileLoop-Lab\06.MaxNumber\bin\Debug\netcoreapp3.1\06.MaxNumber.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\WhileLoop-Lab\06.MaxNumber\bin\Debug\netcoreapp3.1\06.MaxNumber.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\WhileLoop-Lab\06.MaxNumber\bin\Debug\netcoreapp3.1\06.MaxNumber.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\WhileLoop-Lab\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\WhileLoop-Lab\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\WhileLoop-Lab\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\WhileLoop-Lab\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\WhileLoop-Lab\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\WhileLoop-Lab\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\WhileLoop-Lab\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\WhileLoop-Lab\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.genruntimeconfig.cache

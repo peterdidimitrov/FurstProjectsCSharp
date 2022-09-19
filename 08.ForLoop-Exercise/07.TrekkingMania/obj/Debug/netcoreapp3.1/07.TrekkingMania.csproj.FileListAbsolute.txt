@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\8.ForLoop-Exercise\07.TrekkingMania\bin\Debug\netcoreapp3.1\07.TrekkingMania.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\8.ForLoop-Exercise\07.TrekkingMania\bin\Debug\netcoreapp3.1\07.TrekkingMania.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\8.ForLoop-Exercise\07.TrekkingMania\bin\Debug\netcoreapp3.1\07.TrekkingMania.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\8.ForLoop-Exercise\07.TrekkingMania\bin\Debug\netcoreapp3.1\07.TrekkingMania.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\8.ForLoop-Exercise\07.TrekkingMania\bin\Debug\netcoreapp3.1\07.TrekkingMania.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\8.ForLoop-Exercise\07.TrekkingMania\bin\Debug\netcoreapp3.1\07.TrekkingMania.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\8.ForLoop-Exercise\07.TrekkingMania\obj\Debug\netcoreapp3.1\07.TrekkingMania.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\8.ForLoop-Exercise\07.TrekkingMania\obj\Debug\netcoreapp3.1\07.TrekkingMania.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\8.ForLoop-Exercise\07.TrekkingMania\obj\Debug\netcoreapp3.1\07.TrekkingMania.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\8.ForLoop-Exercise\07.TrekkingMania\obj\Debug\netcoreapp3.1\07.TrekkingMania.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\8.ForLoop-Exercise\07.TrekkingMania\obj\Debug\netcoreapp3.1\07.TrekkingMania.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\8.ForLoop-Exercise\07.TrekkingMania\obj\Debug\netcoreapp3.1\07.TrekkingMania.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\8.ForLoop-Exercise\07.TrekkingMania\obj\Debug\netcoreapp3.1\07.TrekkingMania.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\8.ForLoop-Exercise\07.TrekkingMania\obj\Debug\netcoreapp3.1\07.TrekkingMania.genruntimeconfig.cache

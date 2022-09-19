@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\08.OnTimeForTheExam\bin\Debug\netcoreapp3.1\08.OnTimeForTheExam.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\08.OnTimeForTheExam\bin\Debug\netcoreapp3.1\08.OnTimeForTheExam.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\08.OnTimeForTheExam\bin\Debug\netcoreapp3.1\08.OnTimeForTheExam.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\08.OnTimeForTheExam\bin\Debug\netcoreapp3.1\08.OnTimeForTheExam.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\08.OnTimeForTheExam\bin\Debug\netcoreapp3.1\08.OnTimeForTheExam.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\08.OnTimeForTheExam\bin\Debug\netcoreapp3.1\08.OnTimeForTheExam.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\08.OnTimeForTheExam\obj\Debug\netcoreapp3.1\08.OnTimeForTheExam.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\08.OnTimeForTheExam\obj\Debug\netcoreapp3.1\08.OnTimeForTheExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\08.OnTimeForTheExam\obj\Debug\netcoreapp3.1\08.OnTimeForTheExam.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\08.OnTimeForTheExam\obj\Debug\netcoreapp3.1\08.OnTimeForTheExam.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\08.OnTimeForTheExam\obj\Debug\netcoreapp3.1\08.OnTimeForTheExam.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\08.OnTimeForTheExam\obj\Debug\netcoreapp3.1\08.OnTimeForTheExam.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\08.OnTimeForTheExam\obj\Debug\netcoreapp3.1\08.OnTimeForTheExam.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\08.OnTimeForTheExam\obj\Debug\netcoreapp3.1\08.OnTimeForTheExam.genruntimeconfig.cache

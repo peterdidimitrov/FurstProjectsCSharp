@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\ConditionalStatements-Exercise\05.Godzillavs.Kong\obj\Debug\netcoreapp3.1\05.Godzillavs.Kong.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\ConditionalStatements-Exercise\05.Godzillavs.Kong\obj\Debug\netcoreapp3.1\05.Godzillavs.Kong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\ConditionalStatements-Exercise\05.Godzillavs.Kong\obj\Debug\netcoreapp3.1\05.Godzillavs.Kong.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\ConditionalStatements-Exercise\05.Godzillavs.Kong\obj\Debug\netcoreapp3.1\05.Godzillavs.Kong.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\ConditionalStatements-Exercise\05.Godzillavs.Kong\obj\Debug\netcoreapp3.1\05.Godzillavs.Kong.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\ConditionalStatements-Exercise\05.Godzillavs.Kong\bin\Debug\netcoreapp3.1\05.Godzillavs.Kong.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\ConditionalStatements-Exercise\05.Godzillavs.Kong\bin\Debug\netcoreapp3.1\05.Godzillavs.Kong.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\ConditionalStatements-Exercise\05.Godzillavs.Kong\bin\Debug\netcoreapp3.1\05.Godzillavs.Kong.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\ConditionalStatements-Exercise\05.Godzillavs.Kong\bin\Debug\netcoreapp3.1\05.Godzillavs.Kong.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\ConditionalStatements-Exercise\05.Godzillavs.Kong\bin\Debug\netcoreapp3.1\05.Godzillavs.Kong.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\ConditionalStatements-Exercise\05.Godzillavs.Kong\bin\Debug\netcoreapp3.1\05.Godzillavs.Kong.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\ConditionalStatements-Exercise\05.Godzillavs.Kong\obj\Debug\netcoreapp3.1\05.Godzillavs.Kong.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\ConditionalStatements-Exercise\05.Godzillavs.Kong\obj\Debug\netcoreapp3.1\05.Godzillavs.Kong.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\ConditionalStatements-Exercise\05.Godzillavs.Kong\obj\Debug\netcoreapp3.1\05.Godzillavs.Kong.genruntimeconfig.cache

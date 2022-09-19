@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\09.LeftAndRightSum\bin\Debug\netcoreapp3.1\09.LeftAndRightSum.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\09.LeftAndRightSum\bin\Debug\netcoreapp3.1\09.LeftAndRightSum.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\09.LeftAndRightSum\bin\Debug\netcoreapp3.1\09.LeftAndRightSum.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\09.LeftAndRightSum\bin\Debug\netcoreapp3.1\09.LeftAndRightSum.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\09.LeftAndRightSum\bin\Debug\netcoreapp3.1\09.LeftAndRightSum.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\09.LeftAndRightSum\bin\Debug\netcoreapp3.1\09.LeftAndRightSum.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\09.LeftAndRightSum\obj\Debug\netcoreapp3.1\09.LeftAndRightSum.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\09.LeftAndRightSum\obj\Debug\netcoreapp3.1\09.LeftAndRightSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\09.LeftAndRightSum\obj\Debug\netcoreapp3.1\09.LeftAndRightSum.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\09.LeftAndRightSum\obj\Debug\netcoreapp3.1\09.LeftAndRightSum.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\09.LeftAndRightSum\obj\Debug\netcoreapp3.1\09.LeftAndRightSum.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\09.LeftAndRightSum\obj\Debug\netcoreapp3.1\09.LeftAndRightSum.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\09.LeftAndRightSum\obj\Debug\netcoreapp3.1\09.LeftAndRightSum.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\09.LeftAndRightSum\obj\Debug\netcoreapp3.1\09.LeftAndRightSum.genruntimeconfig.cache

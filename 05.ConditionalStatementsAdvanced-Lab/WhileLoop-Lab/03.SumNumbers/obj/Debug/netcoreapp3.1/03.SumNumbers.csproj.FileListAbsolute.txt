@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\WhileLoop-Lab\03.SumNumbers\bin\Debug\netcoreapp3.1\03.SumNumbers.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\WhileLoop-Lab\03.SumNumbers\bin\Debug\netcoreapp3.1\03.SumNumbers.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\WhileLoop-Lab\03.SumNumbers\bin\Debug\netcoreapp3.1\03.SumNumbers.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\WhileLoop-Lab\03.SumNumbers\bin\Debug\netcoreapp3.1\03.SumNumbers.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\WhileLoop-Lab\03.SumNumbers\bin\Debug\netcoreapp3.1\03.SumNumbers.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\WhileLoop-Lab\03.SumNumbers\bin\Debug\netcoreapp3.1\03.SumNumbers.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\WhileLoop-Lab\03.SumNumbers\obj\Debug\netcoreapp3.1\03.SumNumbers.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\WhileLoop-Lab\03.SumNumbers\obj\Debug\netcoreapp3.1\03.SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\WhileLoop-Lab\03.SumNumbers\obj\Debug\netcoreapp3.1\03.SumNumbers.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\WhileLoop-Lab\03.SumNumbers\obj\Debug\netcoreapp3.1\03.SumNumbers.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\WhileLoop-Lab\03.SumNumbers\obj\Debug\netcoreapp3.1\03.SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\WhileLoop-Lab\03.SumNumbers\obj\Debug\netcoreapp3.1\03.SumNumbers.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\WhileLoop-Lab\03.SumNumbers\obj\Debug\netcoreapp3.1\03.SumNumbers.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\WhileLoop-Lab\03.SumNumbers\obj\Debug\netcoreapp3.1\03.SumNumbers.genruntimeconfig.cache

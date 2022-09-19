@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\03.Numbers1.NWithStep3\obj\Debug\netcoreapp3.1\03.Numbers1.NWithStep3.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\03.Numbers1.NWithStep3\obj\Debug\netcoreapp3.1\03.Numbers1.NWithStep3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\03.Numbers1.NWithStep3\obj\Debug\netcoreapp3.1\03.Numbers1.NWithStep3.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\03.Numbers1.NWithStep3\obj\Debug\netcoreapp3.1\03.Numbers1.NWithStep3.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\03.Numbers1.NWithStep3\obj\Debug\netcoreapp3.1\03.Numbers1.NWithStep3.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\03.Numbers1.NWithStep3\bin\Debug\netcoreapp3.1\03.Numbers1.NWithStep3.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\03.Numbers1.NWithStep3\bin\Debug\netcoreapp3.1\03.Numbers1.NWithStep3.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\03.Numbers1.NWithStep3\bin\Debug\netcoreapp3.1\03.Numbers1.NWithStep3.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\03.Numbers1.NWithStep3\bin\Debug\netcoreapp3.1\03.Numbers1.NWithStep3.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\03.Numbers1.NWithStep3\bin\Debug\netcoreapp3.1\03.Numbers1.NWithStep3.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\03.Numbers1.NWithStep3\bin\Debug\netcoreapp3.1\03.Numbers1.NWithStep3.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\03.Numbers1.NWithStep3\obj\Debug\netcoreapp3.1\03.Numbers1.NWithStep3.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\03.Numbers1.NWithStep3\obj\Debug\netcoreapp3.1\03.Numbers1.NWithStep3.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\03.Numbers1.NWithStep3\obj\Debug\netcoreapp3.1\03.Numbers1.NWithStep3.genruntimeconfig.cache

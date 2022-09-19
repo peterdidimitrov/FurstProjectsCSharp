@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\04.FishingBoat\bin\Debug\netcoreapp3.1\04.FishingBoat.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\04.FishingBoat\bin\Debug\netcoreapp3.1\04.FishingBoat.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\04.FishingBoat\bin\Debug\netcoreapp3.1\04.FishingBoat.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\04.FishingBoat\bin\Debug\netcoreapp3.1\04.FishingBoat.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\04.FishingBoat\bin\Debug\netcoreapp3.1\04.FishingBoat.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\04.FishingBoat\bin\Debug\netcoreapp3.1\04.FishingBoat.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\04.FishingBoat\obj\Debug\netcoreapp3.1\04.FishingBoat.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\04.FishingBoat\obj\Debug\netcoreapp3.1\04.FishingBoat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\04.FishingBoat\obj\Debug\netcoreapp3.1\04.FishingBoat.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\04.FishingBoat\obj\Debug\netcoreapp3.1\04.FishingBoat.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\04.FishingBoat\obj\Debug\netcoreapp3.1\04.FishingBoat.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\04.FishingBoat\obj\Debug\netcoreapp3.1\04.FishingBoat.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\04.FishingBoat\obj\Debug\netcoreapp3.1\04.FishingBoat.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\04.FishingBoat\obj\Debug\netcoreapp3.1\04.FishingBoat.genruntimeconfig.cache

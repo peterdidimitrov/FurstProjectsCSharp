@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\13.NestedLoops-Exercise\01.NumberPyramid\obj\Debug\netcoreapp3.1\01.NumberPyramid.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\13.NestedLoops-Exercise\01.NumberPyramid\obj\Debug\netcoreapp3.1\01.NumberPyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\13.NestedLoops-Exercise\01.NumberPyramid\obj\Debug\netcoreapp3.1\01.NumberPyramid.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\13.NestedLoops-Exercise\01.NumberPyramid\obj\Debug\netcoreapp3.1\01.NumberPyramid.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\13.NestedLoops-Exercise\01.NumberPyramid\obj\Debug\netcoreapp3.1\01.NumberPyramid.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\13.NestedLoops-Exercise\01.NumberPyramid\bin\Debug\netcoreapp3.1\01.NumberPyramid.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\13.NestedLoops-Exercise\01.NumberPyramid\bin\Debug\netcoreapp3.1\01.NumberPyramid.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\13.NestedLoops-Exercise\01.NumberPyramid\bin\Debug\netcoreapp3.1\01.NumberPyramid.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\13.NestedLoops-Exercise\01.NumberPyramid\bin\Debug\netcoreapp3.1\01.NumberPyramid.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\13.NestedLoops-Exercise\01.NumberPyramid\bin\Debug\netcoreapp3.1\01.NumberPyramid.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\13.NestedLoops-Exercise\01.NumberPyramid\bin\Debug\netcoreapp3.1\01.NumberPyramid.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\13.NestedLoops-Exercise\01.NumberPyramid\obj\Debug\netcoreapp3.1\01.NumberPyramid.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\13.NestedLoops-Exercise\01.NumberPyramid\obj\Debug\netcoreapp3.1\01.NumberPyramid.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\13.NestedLoops-Exercise\01.NumberPyramid\obj\Debug\netcoreapp3.1\01.NumberPyramid.genruntimeconfig.cache

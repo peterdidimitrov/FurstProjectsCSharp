@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNum\bin\Debug\netcoreapp3.1\06.OperationsBetweenNum.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNum\bin\Debug\netcoreapp3.1\06.OperationsBetweenNum.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNum\bin\Debug\netcoreapp3.1\06.OperationsBetweenNum.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNum\bin\Debug\netcoreapp3.1\06.OperationsBetweenNum.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNum\bin\Debug\netcoreapp3.1\06.OperationsBetweenNum.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNum\bin\Debug\netcoreapp3.1\06.OperationsBetweenNum.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNum\obj\Debug\netcoreapp3.1\06.OperationsBetweenNum.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNum\obj\Debug\netcoreapp3.1\06.OperationsBetweenNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNum\obj\Debug\netcoreapp3.1\06.OperationsBetweenNum.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNum\obj\Debug\netcoreapp3.1\06.OperationsBetweenNum.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNum\obj\Debug\netcoreapp3.1\06.OperationsBetweenNum.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNum\obj\Debug\netcoreapp3.1\06.OperationsBetweenNum.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNum\obj\Debug\netcoreapp3.1\06.OperationsBetweenNum.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNum\obj\Debug\netcoreapp3.1\06.OperationsBetweenNum.genruntimeconfig.cache

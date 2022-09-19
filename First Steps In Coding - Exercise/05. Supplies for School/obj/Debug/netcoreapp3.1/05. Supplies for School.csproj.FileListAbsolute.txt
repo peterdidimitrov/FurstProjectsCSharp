@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Exercise\05. Supplies for School\obj\Debug\netcoreapp3.1\05. Supplies for School.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Exercise\05. Supplies for School\obj\Debug\netcoreapp3.1\05. Supplies for School.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Exercise\05. Supplies for School\obj\Debug\netcoreapp3.1\05. Supplies for School.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Exercise\05. Supplies for School\obj\Debug\netcoreapp3.1\05. Supplies for School.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Exercise\05. Supplies for School\obj\Debug\netcoreapp3.1\05. Supplies for School.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Exercise\05. Supplies for School\bin\Debug\netcoreapp3.1\05. Supplies for School.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Exercise\05. Supplies for School\bin\Debug\netcoreapp3.1\05. Supplies for School.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Exercise\05. Supplies for School\bin\Debug\netcoreapp3.1\05. Supplies for School.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Exercise\05. Supplies for School\bin\Debug\netcoreapp3.1\05. Supplies for School.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Exercise\05. Supplies for School\bin\Debug\netcoreapp3.1\05. Supplies for School.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Exercise\05. Supplies for School\bin\Debug\netcoreapp3.1\05. Supplies for School.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Exercise\05. Supplies for School\obj\Debug\netcoreapp3.1\05. Supplies for School.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Exercise\05. Supplies for School\obj\Debug\netcoreapp3.1\05. Supplies for School.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Exercise\05. Supplies for School\obj\Debug\netcoreapp3.1\05. Supplies for School.genruntimeconfig.cache

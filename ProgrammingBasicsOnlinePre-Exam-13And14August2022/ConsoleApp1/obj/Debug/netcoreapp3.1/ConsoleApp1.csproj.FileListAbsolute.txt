@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\ProgrammingBasicsOnlinePre-Exam-13And14August2022\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\ProgrammingBasicsOnlinePre-Exam-13And14August2022\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\ProgrammingBasicsOnlinePre-Exam-13And14August2022\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\ProgrammingBasicsOnlinePre-Exam-13And14August2022\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\ProgrammingBasicsOnlinePre-Exam-13And14August2022\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\ProgrammingBasicsOnlinePre-Exam-13And14August2022\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\ProgrammingBasicsOnlinePre-Exam-13And14August2022\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\ProgrammingBasicsOnlinePre-Exam-13And14August2022\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\ProgrammingBasicsOnlinePre-Exam-13And14August2022\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\ProgrammingBasicsOnlinePre-Exam-13And14August2022\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\ProgrammingBasicsOnlinePre-Exam-13And14August2022\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\ProgrammingBasicsOnlinePre-Exam-13And14August2022\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\ProgrammingBasicsOnlinePre-Exam-13And14August2022\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\ProgrammingBasicsOnlinePre-Exam-13And14August2022\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

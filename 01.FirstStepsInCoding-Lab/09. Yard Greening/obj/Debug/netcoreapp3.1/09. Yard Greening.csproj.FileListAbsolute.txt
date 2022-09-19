@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Lab\09. Yard Greening\bin\Debug\netcoreapp3.1\09. Yard Greening.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Lab\09. Yard Greening\bin\Debug\netcoreapp3.1\09. Yard Greening.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Lab\09. Yard Greening\bin\Debug\netcoreapp3.1\09. Yard Greening.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Lab\09. Yard Greening\bin\Debug\netcoreapp3.1\09. Yard Greening.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Lab\09. Yard Greening\bin\Debug\netcoreapp3.1\09. Yard Greening.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Lab\09. Yard Greening\bin\Debug\netcoreapp3.1\09. Yard Greening.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Lab\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Lab\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Lab\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Lab\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Lab\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Lab\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Lab\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\First Steps In Coding - Lab\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.genruntimeconfig.cache

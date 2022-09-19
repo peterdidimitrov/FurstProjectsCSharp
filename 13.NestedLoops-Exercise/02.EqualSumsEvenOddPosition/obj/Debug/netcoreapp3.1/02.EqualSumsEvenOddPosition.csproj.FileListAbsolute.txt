@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\13.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\13.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\13.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\13.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\13.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\13.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\bin\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\13.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\bin\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\13.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\bin\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\13.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\bin\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\13.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\bin\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\13.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\bin\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\13.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\13.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\13.NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.genruntimeconfig.cache

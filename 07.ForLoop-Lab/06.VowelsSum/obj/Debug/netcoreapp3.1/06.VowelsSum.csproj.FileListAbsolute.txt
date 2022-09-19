@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\06.VowelsSum\bin\Debug\netcoreapp3.1\06.VowelsSum.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\06.VowelsSum\bin\Debug\netcoreapp3.1\06.VowelsSum.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\06.VowelsSum\bin\Debug\netcoreapp3.1\06.VowelsSum.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\06.VowelsSum\bin\Debug\netcoreapp3.1\06.VowelsSum.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\06.VowelsSum\bin\Debug\netcoreapp3.1\06.VowelsSum.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\06.VowelsSum\bin\Debug\netcoreapp3.1\06.VowelsSum.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\06.VowelsSum\obj\Debug\netcoreapp3.1\06.VowelsSum.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\06.VowelsSum\obj\Debug\netcoreapp3.1\06.VowelsSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\06.VowelsSum\obj\Debug\netcoreapp3.1\06.VowelsSum.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\06.VowelsSum\obj\Debug\netcoreapp3.1\06.VowelsSum.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\06.VowelsSum\obj\Debug\netcoreapp3.1\06.VowelsSum.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\06.VowelsSum\obj\Debug\netcoreapp3.1\06.VowelsSum.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\06.VowelsSum\obj\Debug\netcoreapp3.1\06.VowelsSum.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\06.VowelsSum\obj\Debug\netcoreapp3.1\06.VowelsSum.genruntimeconfig.cache

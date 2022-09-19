@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\ConditionalStatements-Lab\03.EvenOrOdd\bin\Debug\netcoreapp3.1\03.EvenOrOdd.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\ConditionalStatements-Lab\03.EvenOrOdd\bin\Debug\netcoreapp3.1\03.EvenOrOdd.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\ConditionalStatements-Lab\03.EvenOrOdd\bin\Debug\netcoreapp3.1\03.EvenOrOdd.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\ConditionalStatements-Lab\03.EvenOrOdd\bin\Debug\netcoreapp3.1\03.EvenOrOdd.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\ConditionalStatements-Lab\03.EvenOrOdd\bin\Debug\netcoreapp3.1\03.EvenOrOdd.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\ConditionalStatements-Lab\03.EvenOrOdd\bin\Debug\netcoreapp3.1\03.EvenOrOdd.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\ConditionalStatements-Lab\03.EvenOrOdd\obj\Debug\netcoreapp3.1\03.EvenOrOdd.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\ConditionalStatements-Lab\03.EvenOrOdd\obj\Debug\netcoreapp3.1\03.EvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\ConditionalStatements-Lab\03.EvenOrOdd\obj\Debug\netcoreapp3.1\03.EvenOrOdd.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\ConditionalStatements-Lab\03.EvenOrOdd\obj\Debug\netcoreapp3.1\03.EvenOrOdd.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\ConditionalStatements-Lab\03.EvenOrOdd\obj\Debug\netcoreapp3.1\03.EvenOrOdd.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\ConditionalStatements-Lab\03.EvenOrOdd\obj\Debug\netcoreapp3.1\03.EvenOrOdd.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\ConditionalStatements-Lab\03.EvenOrOdd\obj\Debug\netcoreapp3.1\03.EvenOrOdd.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\ConditionalStatements-Lab\03.EvenOrOdd\obj\Debug\netcoreapp3.1\03.EvenOrOdd.genruntimeconfig.cache

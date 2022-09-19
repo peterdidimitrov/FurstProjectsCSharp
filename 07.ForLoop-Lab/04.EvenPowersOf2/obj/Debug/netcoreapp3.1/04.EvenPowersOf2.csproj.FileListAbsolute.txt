@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\04.EvenPowersOf2\obj\Debug\netcoreapp3.1\04.EvenPowersOf2.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\04.EvenPowersOf2\obj\Debug\netcoreapp3.1\04.EvenPowersOf2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\04.EvenPowersOf2\obj\Debug\netcoreapp3.1\04.EvenPowersOf2.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\04.EvenPowersOf2\obj\Debug\netcoreapp3.1\04.EvenPowersOf2.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\04.EvenPowersOf2\obj\Debug\netcoreapp3.1\04.EvenPowersOf2.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\04.EvenPowersOf2\bin\Debug\netcoreapp3.1\04.EvenPowersOf2.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\04.EvenPowersOf2\bin\Debug\netcoreapp3.1\04.EvenPowersOf2.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\04.EvenPowersOf2\bin\Debug\netcoreapp3.1\04.EvenPowersOf2.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\04.EvenPowersOf2\bin\Debug\netcoreapp3.1\04.EvenPowersOf2.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\04.EvenPowersOf2\bin\Debug\netcoreapp3.1\04.EvenPowersOf2.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\04.EvenPowersOf2\bin\Debug\netcoreapp3.1\04.EvenPowersOf2.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\04.EvenPowersOf2\obj\Debug\netcoreapp3.1\04.EvenPowersOf2.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\04.EvenPowersOf2\obj\Debug\netcoreapp3.1\04.EvenPowersOf2.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\07.ForLoop-Lab\04.EvenPowersOf2\obj\Debug\netcoreapp3.1\04.EvenPowersOf2.genruntimeconfig.cache

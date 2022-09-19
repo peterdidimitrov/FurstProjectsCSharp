@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\netcoreapp3.1\07.HotelRoom.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\netcoreapp3.1\07.HotelRoom.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\netcoreapp3.1\07.HotelRoom.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\netcoreapp3.1\07.HotelRoom.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\netcoreapp3.1\07.HotelRoom.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\netcoreapp3.1\07.HotelRoom.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\netcoreapp3.1\07.HotelRoom.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\netcoreapp3.1\07.HotelRoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\netcoreapp3.1\07.HotelRoom.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\netcoreapp3.1\07.HotelRoom.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\netcoreapp3.1\07.HotelRoom.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\netcoreapp3.1\07.HotelRoom.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\netcoreapp3.1\07.HotelRoom.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\05.ConditionalStatementsAdvanced-Lab\6.ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\netcoreapp3.1\07.HotelRoom.genruntimeconfig.cache
