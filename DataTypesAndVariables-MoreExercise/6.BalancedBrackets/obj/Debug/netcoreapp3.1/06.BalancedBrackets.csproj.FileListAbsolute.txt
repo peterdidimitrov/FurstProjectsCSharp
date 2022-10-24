@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-MoreExercise\6.BalancedBrackets\bin\Debug\netcoreapp3.1\06.BalancedBrackets.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-MoreExercise\6.BalancedBrackets\bin\Debug\netcoreapp3.1\06.BalancedBrackets.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-MoreExercise\6.BalancedBrackets\bin\Debug\netcoreapp3.1\06.BalancedBrackets.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-MoreExercise\6.BalancedBrackets\bin\Debug\netcoreapp3.1\06.BalancedBrackets.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-MoreExercise\6.BalancedBrackets\bin\Debug\netcoreapp3.1\06.BalancedBrackets.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-MoreExercise\6.BalancedBrackets\bin\Debug\netcoreapp3.1\06.BalancedBrackets.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-MoreExercise\6.BalancedBrackets\obj\Debug\netcoreapp3.1\06.BalancedBrackets.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-MoreExercise\6.BalancedBrackets\obj\Debug\netcoreapp3.1\06.BalancedBrackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-MoreExercise\6.BalancedBrackets\obj\Debug\netcoreapp3.1\06.BalancedBrackets.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-MoreExercise\6.BalancedBrackets\obj\Debug\netcoreapp3.1\06.BalancedBrackets.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-MoreExercise\6.BalancedBrackets\obj\Debug\netcoreapp3.1\06.BalancedBrackets.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-MoreExercise\6.BalancedBrackets\obj\Debug\netcoreapp3.1\06.BalancedBrackets.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-MoreExercise\6.BalancedBrackets\obj\Debug\netcoreapp3.1\06.BalancedBrackets.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-MoreExercise\6.BalancedBrackets\obj\Debug\netcoreapp3.1\06.BalancedBrackets.genruntimeconfig.cache

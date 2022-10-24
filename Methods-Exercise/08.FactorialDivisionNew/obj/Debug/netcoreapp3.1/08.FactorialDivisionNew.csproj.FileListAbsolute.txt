@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Exercise\08.FactorialDivisionNew\bin\Debug\netcoreapp3.1\08.FactorialDivisionNew.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Exercise\08.FactorialDivisionNew\bin\Debug\netcoreapp3.1\08.FactorialDivisionNew.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Exercise\08.FactorialDivisionNew\bin\Debug\netcoreapp3.1\08.FactorialDivisionNew.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Exercise\08.FactorialDivisionNew\bin\Debug\netcoreapp3.1\08.FactorialDivisionNew.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Exercise\08.FactorialDivisionNew\bin\Debug\netcoreapp3.1\08.FactorialDivisionNew.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Exercise\08.FactorialDivisionNew\bin\Debug\netcoreapp3.1\08.FactorialDivisionNew.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Exercise\08.FactorialDivisionNew\obj\Debug\netcoreapp3.1\08.FactorialDivisionNew.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Exercise\08.FactorialDivisionNew\obj\Debug\netcoreapp3.1\08.FactorialDivisionNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Exercise\08.FactorialDivisionNew\obj\Debug\netcoreapp3.1\08.FactorialDivisionNew.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Exercise\08.FactorialDivisionNew\obj\Debug\netcoreapp3.1\08.FactorialDivisionNew.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Exercise\08.FactorialDivisionNew\obj\Debug\netcoreapp3.1\08.FactorialDivisionNew.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Exercise\08.FactorialDivisionNew\obj\Debug\netcoreapp3.1\08.FactorialDivisionNew.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Exercise\08.FactorialDivisionNew\obj\Debug\netcoreapp3.1\08.FactorialDivisionNew.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Exercise\08.FactorialDivisionNew\obj\Debug\netcoreapp3.1\08.FactorialDivisionNew.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.BlackFlag\bin\Debug\netcoreapp3.1\01.BlackFlag.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.BlackFlag\bin\Debug\netcoreapp3.1\01.BlackFlag.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.BlackFlag\bin\Debug\netcoreapp3.1\01.BlackFlag.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.BlackFlag\bin\Debug\netcoreapp3.1\01.BlackFlag.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.BlackFlag\bin\Debug\netcoreapp3.1\01.BlackFlag.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.BlackFlag\bin\Debug\netcoreapp3.1\01.BlackFlag.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.BlackFlag\obj\Debug\netcoreapp3.1\01.BlackFlag.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.BlackFlag\obj\Debug\netcoreapp3.1\01.BlackFlag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.BlackFlag\obj\Debug\netcoreapp3.1\01.BlackFlag.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.BlackFlag\obj\Debug\netcoreapp3.1\01.BlackFlag.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.BlackFlag\obj\Debug\netcoreapp3.1\01.BlackFlag.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.BlackFlag\obj\Debug\netcoreapp3.1\01.BlackFlag.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.BlackFlag\obj\Debug\netcoreapp3.1\01.BlackFlag.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.BlackFlag\obj\Debug\netcoreapp3.1\01.BlackFlag.genruntimeconfig.cache

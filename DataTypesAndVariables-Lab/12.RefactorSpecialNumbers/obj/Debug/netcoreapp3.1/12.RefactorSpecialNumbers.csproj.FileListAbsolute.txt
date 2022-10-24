@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\12.RefactorSpecialNumbers\bin\Debug\netcoreapp3.1\12.RefactorSpecialNumbers.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\12.RefactorSpecialNumbers\bin\Debug\netcoreapp3.1\12.RefactorSpecialNumbers.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\12.RefactorSpecialNumbers\bin\Debug\netcoreapp3.1\12.RefactorSpecialNumbers.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\12.RefactorSpecialNumbers\bin\Debug\netcoreapp3.1\12.RefactorSpecialNumbers.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\12.RefactorSpecialNumbers\bin\Debug\netcoreapp3.1\12.RefactorSpecialNumbers.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\12.RefactorSpecialNumbers\bin\Debug\netcoreapp3.1\12.RefactorSpecialNumbers.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\12.RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\12.RefactorSpecialNumbers.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\12.RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\12.RefactorSpecialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\12.RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\12.RefactorSpecialNumbers.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\12.RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\12.RefactorSpecialNumbers.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\12.RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\12.RefactorSpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\12.RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\12.RefactorSpecialNumbers.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\12.RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\12.RefactorSpecialNumbers.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\12.RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\12.RefactorSpecialNumbers.genruntimeconfig.cache

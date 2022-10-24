@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.SoftUniReception\bin\Debug\netcoreapp3.1\01.SoftUniReception.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.SoftUniReception\bin\Debug\netcoreapp3.1\01.SoftUniReception.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.SoftUniReception\bin\Debug\netcoreapp3.1\01.SoftUniReception.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.SoftUniReception\bin\Debug\netcoreapp3.1\01.SoftUniReception.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.SoftUniReception\bin\Debug\netcoreapp3.1\01.SoftUniReception.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.SoftUniReception\bin\Debug\netcoreapp3.1\01.SoftUniReception.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.SoftUniReception\obj\Debug\netcoreapp3.1\01.SoftUniReception.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.SoftUniReception\obj\Debug\netcoreapp3.1\01.SoftUniReception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.SoftUniReception\obj\Debug\netcoreapp3.1\01.SoftUniReception.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.SoftUniReception\obj\Debug\netcoreapp3.1\01.SoftUniReception.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.SoftUniReception\obj\Debug\netcoreapp3.1\01.SoftUniReception.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.SoftUniReception\obj\Debug\netcoreapp3.1\01.SoftUniReception.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.SoftUniReception\obj\Debug\netcoreapp3.1\01.SoftUniReception.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.SoftUniReception\obj\Debug\netcoreapp3.1\01.SoftUniReception.genruntimeconfig.cache

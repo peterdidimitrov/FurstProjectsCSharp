@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Lab\05.SumEvenNumbers\bin\Debug\netcoreapp3.1\05.SumEvenNumbers.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Lab\05.SumEvenNumbers\bin\Debug\netcoreapp3.1\05.SumEvenNumbers.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Lab\05.SumEvenNumbers\bin\Debug\netcoreapp3.1\05.SumEvenNumbers.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Lab\05.SumEvenNumbers\bin\Debug\netcoreapp3.1\05.SumEvenNumbers.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Lab\05.SumEvenNumbers\bin\Debug\netcoreapp3.1\05.SumEvenNumbers.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Lab\05.SumEvenNumbers\bin\Debug\netcoreapp3.1\05.SumEvenNumbers.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Lab\05.SumEvenNumbers\obj\Debug\netcoreapp3.1\05.SumEvenNumbers.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Lab\05.SumEvenNumbers\obj\Debug\netcoreapp3.1\05.SumEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Lab\05.SumEvenNumbers\obj\Debug\netcoreapp3.1\05.SumEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Lab\05.SumEvenNumbers\obj\Debug\netcoreapp3.1\05.SumEvenNumbers.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Lab\05.SumEvenNumbers\obj\Debug\netcoreapp3.1\05.SumEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Lab\05.SumEvenNumbers\obj\Debug\netcoreapp3.1\05.SumEvenNumbers.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Lab\05.SumEvenNumbers\obj\Debug\netcoreapp3.1\05.SumEvenNumbers.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Lab\05.SumEvenNumbers\obj\Debug\netcoreapp3.1\05.SumEvenNumbers.genruntimeconfig.cache

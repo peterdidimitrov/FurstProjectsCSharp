@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\Lists-Lab\03.MergingLists\obj\Debug\netcoreapp3.1\03.MergingLists.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Lists-Lab\03.MergingLists\obj\Debug\netcoreapp3.1\03.MergingLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\Lists-Lab\03.MergingLists\obj\Debug\netcoreapp3.1\03.MergingLists.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Lists-Lab\03.MergingLists\obj\Debug\netcoreapp3.1\03.MergingLists.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\Lists-Lab\03.MergingLists\obj\Debug\netcoreapp3.1\03.MergingLists.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Lists-Lab\03.MergingLists\bin\Debug\netcoreapp3.1\03.MergingLists.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\Lists-Lab\03.MergingLists\bin\Debug\netcoreapp3.1\03.MergingLists.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Lists-Lab\03.MergingLists\bin\Debug\netcoreapp3.1\03.MergingLists.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Lists-Lab\03.MergingLists\bin\Debug\netcoreapp3.1\03.MergingLists.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Lists-Lab\03.MergingLists\bin\Debug\netcoreapp3.1\03.MergingLists.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\Lists-Lab\03.MergingLists\bin\Debug\netcoreapp3.1\03.MergingLists.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\Lists-Lab\03.MergingLists\obj\Debug\netcoreapp3.1\03.MergingLists.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\Lists-Lab\03.MergingLists\obj\Debug\netcoreapp3.1\03.MergingLists.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\Lists-Lab\03.MergingLists\obj\Debug\netcoreapp3.1\03.MergingLists.genruntimeconfig.cache

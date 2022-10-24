@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\03.RecursiveFibonacci\bin\Debug\netcoreapp3.1\03.RecursiveFibonacci.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\03.RecursiveFibonacci\bin\Debug\netcoreapp3.1\03.RecursiveFibonacci.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\03.RecursiveFibonacci\bin\Debug\netcoreapp3.1\03.RecursiveFibonacci.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\03.RecursiveFibonacci\bin\Debug\netcoreapp3.1\03.RecursiveFibonacci.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\03.RecursiveFibonacci\bin\Debug\netcoreapp3.1\03.RecursiveFibonacci.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\03.RecursiveFibonacci\bin\Debug\netcoreapp3.1\03.RecursiveFibonacci.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\03.RecursiveFibonacci\obj\Debug\netcoreapp3.1\03.RecursiveFibonacci.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\03.RecursiveFibonacci\obj\Debug\netcoreapp3.1\03.RecursiveFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\03.RecursiveFibonacci\obj\Debug\netcoreapp3.1\03.RecursiveFibonacci.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\03.RecursiveFibonacci\obj\Debug\netcoreapp3.1\03.RecursiveFibonacci.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\03.RecursiveFibonacci\obj\Debug\netcoreapp3.1\03.RecursiveFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\03.RecursiveFibonacci\obj\Debug\netcoreapp3.1\03.RecursiveFibonacci.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\03.RecursiveFibonacci\obj\Debug\netcoreapp3.1\03.RecursiveFibonacci.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\03.RecursiveFibonacci\obj\Debug\netcoreapp3.1\03.RecursiveFibonacci.genruntimeconfig.cache

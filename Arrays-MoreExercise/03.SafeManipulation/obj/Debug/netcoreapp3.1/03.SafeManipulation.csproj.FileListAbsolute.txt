@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\03.SafeManipulation\bin\Debug\netcoreapp3.1\03.SafeManipulation.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\03.SafeManipulation\bin\Debug\netcoreapp3.1\03.SafeManipulation.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\03.SafeManipulation\bin\Debug\netcoreapp3.1\03.SafeManipulation.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\03.SafeManipulation\bin\Debug\netcoreapp3.1\03.SafeManipulation.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\03.SafeManipulation\bin\Debug\netcoreapp3.1\03.SafeManipulation.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\03.SafeManipulation\bin\Debug\netcoreapp3.1\03.SafeManipulation.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\03.SafeManipulation\obj\Debug\netcoreapp3.1\03.SafeManipulation.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\03.SafeManipulation\obj\Debug\netcoreapp3.1\03.SafeManipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\03.SafeManipulation\obj\Debug\netcoreapp3.1\03.SafeManipulation.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\03.SafeManipulation\obj\Debug\netcoreapp3.1\03.SafeManipulation.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\03.SafeManipulation\obj\Debug\netcoreapp3.1\03.SafeManipulation.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\03.SafeManipulation\obj\Debug\netcoreapp3.1\03.SafeManipulation.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\03.SafeManipulation\obj\Debug\netcoreapp3.1\03.SafeManipulation.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\03.SafeManipulation\obj\Debug\netcoreapp3.1\03.SafeManipulation.genruntimeconfig.cache

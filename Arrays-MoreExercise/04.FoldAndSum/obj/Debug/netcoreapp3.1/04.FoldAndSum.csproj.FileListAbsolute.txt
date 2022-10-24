@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\04.FoldAndSum\bin\Debug\netcoreapp3.1\04.FoldAndSum.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\04.FoldAndSum\bin\Debug\netcoreapp3.1\04.FoldAndSum.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\04.FoldAndSum\bin\Debug\netcoreapp3.1\04.FoldAndSum.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\04.FoldAndSum\bin\Debug\netcoreapp3.1\04.FoldAndSum.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\04.FoldAndSum\bin\Debug\netcoreapp3.1\04.FoldAndSum.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\04.FoldAndSum\bin\Debug\netcoreapp3.1\04.FoldAndSum.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\04.FoldAndSum\obj\Debug\netcoreapp3.1\04.FoldAndSum.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\04.FoldAndSum\obj\Debug\netcoreapp3.1\04.FoldAndSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\04.FoldAndSum\obj\Debug\netcoreapp3.1\04.FoldAndSum.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\04.FoldAndSum\obj\Debug\netcoreapp3.1\04.FoldAndSum.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\04.FoldAndSum\obj\Debug\netcoreapp3.1\04.FoldAndSum.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\04.FoldAndSum\obj\Debug\netcoreapp3.1\04.FoldAndSum.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\04.FoldAndSum\obj\Debug\netcoreapp3.1\04.FoldAndSum.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\04.FoldAndSum\obj\Debug\netcoreapp3.1\04.FoldAndSum.genruntimeconfig.cache

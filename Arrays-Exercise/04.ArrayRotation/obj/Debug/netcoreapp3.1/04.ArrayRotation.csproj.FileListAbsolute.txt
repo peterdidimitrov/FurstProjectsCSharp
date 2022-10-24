@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Exercise\04.ArrayRotation\bin\Debug\netcoreapp3.1\04.ArrayRotation.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Exercise\04.ArrayRotation\bin\Debug\netcoreapp3.1\04.ArrayRotation.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Exercise\04.ArrayRotation\bin\Debug\netcoreapp3.1\04.ArrayRotation.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Exercise\04.ArrayRotation\bin\Debug\netcoreapp3.1\04.ArrayRotation.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Exercise\04.ArrayRotation\bin\Debug\netcoreapp3.1\04.ArrayRotation.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Exercise\04.ArrayRotation\bin\Debug\netcoreapp3.1\04.ArrayRotation.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Exercise\04.ArrayRotation\obj\Debug\netcoreapp3.1\04.ArrayRotation.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Exercise\04.ArrayRotation\obj\Debug\netcoreapp3.1\04.ArrayRotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Exercise\04.ArrayRotation\obj\Debug\netcoreapp3.1\04.ArrayRotation.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Exercise\04.ArrayRotation\obj\Debug\netcoreapp3.1\04.ArrayRotation.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Exercise\04.ArrayRotation\obj\Debug\netcoreapp3.1\04.ArrayRotation.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Exercise\04.ArrayRotation\obj\Debug\netcoreapp3.1\04.ArrayRotation.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Exercise\04.ArrayRotation\obj\Debug\netcoreapp3.1\04.ArrayRotation.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Exercise\04.ArrayRotation\obj\Debug\netcoreapp3.1\04.ArrayRotation.genruntimeconfig.cache

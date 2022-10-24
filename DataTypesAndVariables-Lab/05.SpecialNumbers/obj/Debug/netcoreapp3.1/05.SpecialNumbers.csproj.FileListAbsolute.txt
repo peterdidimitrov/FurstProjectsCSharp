@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\05.SpecialNumbers\bin\Debug\netcoreapp3.1\05.SpecialNumbers.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\05.SpecialNumbers\bin\Debug\netcoreapp3.1\05.SpecialNumbers.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\05.SpecialNumbers\bin\Debug\netcoreapp3.1\05.SpecialNumbers.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\05.SpecialNumbers\bin\Debug\netcoreapp3.1\05.SpecialNumbers.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\05.SpecialNumbers\bin\Debug\netcoreapp3.1\05.SpecialNumbers.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\05.SpecialNumbers\bin\Debug\netcoreapp3.1\05.SpecialNumbers.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\05.SpecialNumbers\obj\Debug\netcoreapp3.1\05.SpecialNumbers.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\05.SpecialNumbers\obj\Debug\netcoreapp3.1\05.SpecialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\05.SpecialNumbers\obj\Debug\netcoreapp3.1\05.SpecialNumbers.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\05.SpecialNumbers\obj\Debug\netcoreapp3.1\05.SpecialNumbers.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\05.SpecialNumbers\obj\Debug\netcoreapp3.1\05.SpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\05.SpecialNumbers\obj\Debug\netcoreapp3.1\05.SpecialNumbers.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\05.SpecialNumbers\obj\Debug\netcoreapp3.1\05.SpecialNumbers.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\05.SpecialNumbers\obj\Debug\netcoreapp3.1\05.SpecialNumbers.genruntimeconfig.cache

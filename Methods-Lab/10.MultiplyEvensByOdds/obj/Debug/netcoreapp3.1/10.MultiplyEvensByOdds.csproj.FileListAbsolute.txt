@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Lab\10.MultiplyEvensByOdds\bin\Debug\netcoreapp3.1\10.MultiplyEvensByOdds.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Lab\10.MultiplyEvensByOdds\bin\Debug\netcoreapp3.1\10.MultiplyEvensByOdds.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Lab\10.MultiplyEvensByOdds\bin\Debug\netcoreapp3.1\10.MultiplyEvensByOdds.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Lab\10.MultiplyEvensByOdds\bin\Debug\netcoreapp3.1\10.MultiplyEvensByOdds.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Lab\10.MultiplyEvensByOdds\bin\Debug\netcoreapp3.1\10.MultiplyEvensByOdds.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Lab\10.MultiplyEvensByOdds\bin\Debug\netcoreapp3.1\10.MultiplyEvensByOdds.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Lab\10.MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\10.MultiplyEvensByOdds.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Lab\10.MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\10.MultiplyEvensByOdds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Lab\10.MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\10.MultiplyEvensByOdds.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Lab\10.MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\10.MultiplyEvensByOdds.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Lab\10.MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\10.MultiplyEvensByOdds.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Lab\10.MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\10.MultiplyEvensByOdds.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Lab\10.MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\10.MultiplyEvensByOdds.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Lab\10.MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\10.MultiplyEvensByOdds.genruntimeconfig.cache

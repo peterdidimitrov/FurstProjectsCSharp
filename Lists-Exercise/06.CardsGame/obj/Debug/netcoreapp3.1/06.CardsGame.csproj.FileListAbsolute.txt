@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\Lists-Exercise\06.CardsGame\bin\Debug\netcoreapp3.1\06.CardsGame.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\Lists-Exercise\06.CardsGame\bin\Debug\netcoreapp3.1\06.CardsGame.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Lists-Exercise\06.CardsGame\bin\Debug\netcoreapp3.1\06.CardsGame.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Lists-Exercise\06.CardsGame\bin\Debug\netcoreapp3.1\06.CardsGame.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Lists-Exercise\06.CardsGame\bin\Debug\netcoreapp3.1\06.CardsGame.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\Lists-Exercise\06.CardsGame\bin\Debug\netcoreapp3.1\06.CardsGame.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\Lists-Exercise\06.CardsGame\obj\Debug\netcoreapp3.1\06.CardsGame.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Lists-Exercise\06.CardsGame\obj\Debug\netcoreapp3.1\06.CardsGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\Lists-Exercise\06.CardsGame\obj\Debug\netcoreapp3.1\06.CardsGame.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Lists-Exercise\06.CardsGame\obj\Debug\netcoreapp3.1\06.CardsGame.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\Lists-Exercise\06.CardsGame\obj\Debug\netcoreapp3.1\06.CardsGame.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Lists-Exercise\06.CardsGame\obj\Debug\netcoreapp3.1\06.CardsGame.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\Lists-Exercise\06.CardsGame\obj\Debug\netcoreapp3.1\06.CardsGame.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\Lists-Exercise\06.CardsGame\obj\Debug\netcoreapp3.1\06.CardsGame.genruntimeconfig.cache

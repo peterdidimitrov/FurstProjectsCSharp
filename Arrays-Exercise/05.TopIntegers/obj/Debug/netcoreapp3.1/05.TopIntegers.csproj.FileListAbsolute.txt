@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Exercise\05.TopIntegers\obj\Debug\netcoreapp3.1\05.TopIntegers.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Exercise\05.TopIntegers\obj\Debug\netcoreapp3.1\05.TopIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Exercise\05.TopIntegers\obj\Debug\netcoreapp3.1\05.TopIntegers.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Exercise\05.TopIntegers\obj\Debug\netcoreapp3.1\05.TopIntegers.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Exercise\05.TopIntegers\obj\Debug\netcoreapp3.1\05.TopIntegers.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Exercise\05.TopIntegers\bin\Debug\netcoreapp3.1\05.TopIntegers.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Exercise\05.TopIntegers\bin\Debug\netcoreapp3.1\05.TopIntegers.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Exercise\05.TopIntegers\bin\Debug\netcoreapp3.1\05.TopIntegers.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Exercise\05.TopIntegers\bin\Debug\netcoreapp3.1\05.TopIntegers.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Exercise\05.TopIntegers\bin\Debug\netcoreapp3.1\05.TopIntegers.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Exercise\05.TopIntegers\bin\Debug\netcoreapp3.1\05.TopIntegers.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Exercise\05.TopIntegers\obj\Debug\netcoreapp3.1\05.TopIntegers.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Exercise\05.TopIntegers\obj\Debug\netcoreapp3.1\05.TopIntegers.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Exercise\05.TopIntegers\obj\Debug\netcoreapp3.1\05.TopIntegers.genruntimeconfig.cache

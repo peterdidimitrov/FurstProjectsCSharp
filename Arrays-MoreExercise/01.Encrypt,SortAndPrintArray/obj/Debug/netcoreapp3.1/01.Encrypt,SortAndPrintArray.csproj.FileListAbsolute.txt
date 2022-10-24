@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\01.Encrypt,SortAndPrintArray\bin\Debug\netcoreapp3.1\01.Encrypt,SortAndPrintArray.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\01.Encrypt,SortAndPrintArray\bin\Debug\netcoreapp3.1\01.Encrypt,SortAndPrintArray.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\01.Encrypt,SortAndPrintArray\bin\Debug\netcoreapp3.1\01.Encrypt,SortAndPrintArray.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\01.Encrypt,SortAndPrintArray\bin\Debug\netcoreapp3.1\01.Encrypt,SortAndPrintArray.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\01.Encrypt,SortAndPrintArray\bin\Debug\netcoreapp3.1\01.Encrypt,SortAndPrintArray.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\01.Encrypt,SortAndPrintArray\bin\Debug\netcoreapp3.1\01.Encrypt,SortAndPrintArray.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\01.Encrypt,SortAndPrintArray\obj\Debug\netcoreapp3.1\01.Encrypt,SortAndPrintArray.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\01.Encrypt,SortAndPrintArray\obj\Debug\netcoreapp3.1\01.Encrypt,SortAndPrintArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\01.Encrypt,SortAndPrintArray\obj\Debug\netcoreapp3.1\01.Encrypt,SortAndPrintArray.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\01.Encrypt,SortAndPrintArray\obj\Debug\netcoreapp3.1\01.Encrypt,SortAndPrintArray.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\01.Encrypt,SortAndPrintArray\obj\Debug\netcoreapp3.1\01.Encrypt,SortAndPrintArray.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\01.Encrypt,SortAndPrintArray\obj\Debug\netcoreapp3.1\01.Encrypt,SortAndPrintArray.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\01.Encrypt,SortAndPrintArray\obj\Debug\netcoreapp3.1\01.Encrypt,SortAndPrintArray.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\01.Encrypt,SortAndPrintArray\obj\Debug\netcoreapp3.1\01.Encrypt,SortAndPrintArray.genruntimeconfig.cache

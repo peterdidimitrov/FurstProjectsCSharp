@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\08.TownInfo\bin\Debug\netcoreapp3.1\08.TownInfo.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\08.TownInfo\bin\Debug\netcoreapp3.1\08.TownInfo.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\08.TownInfo\bin\Debug\netcoreapp3.1\08.TownInfo.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\08.TownInfo\bin\Debug\netcoreapp3.1\08.TownInfo.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\08.TownInfo\bin\Debug\netcoreapp3.1\08.TownInfo.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\08.TownInfo\bin\Debug\netcoreapp3.1\08.TownInfo.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\08.TownInfo\obj\Debug\netcoreapp3.1\08.TownInfo.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\08.TownInfo\obj\Debug\netcoreapp3.1\08.TownInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\08.TownInfo\obj\Debug\netcoreapp3.1\08.TownInfo.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\08.TownInfo\obj\Debug\netcoreapp3.1\08.TownInfo.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\08.TownInfo\obj\Debug\netcoreapp3.1\08.TownInfo.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\08.TownInfo\obj\Debug\netcoreapp3.1\08.TownInfo.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\08.TownInfo\obj\Debug\netcoreapp3.1\08.TownInfo.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\08.TownInfo\obj\Debug\netcoreapp3.1\08.TownInfo.genruntimeconfig.cache

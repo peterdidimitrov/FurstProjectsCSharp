@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\02.PascalTriangle\bin\Debug\netcoreapp3.1\02.PascalTriangle.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\02.PascalTriangle\bin\Debug\netcoreapp3.1\02.PascalTriangle.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\02.PascalTriangle\bin\Debug\netcoreapp3.1\02.PascalTriangle.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\02.PascalTriangle\bin\Debug\netcoreapp3.1\02.PascalTriangle.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\02.PascalTriangle\bin\Debug\netcoreapp3.1\02.PascalTriangle.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\02.PascalTriangle\bin\Debug\netcoreapp3.1\02.PascalTriangle.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\02.PascalTriangle\obj\Debug\netcoreapp3.1\02.PascalTriangle.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\02.PascalTriangle\obj\Debug\netcoreapp3.1\02.PascalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\02.PascalTriangle\obj\Debug\netcoreapp3.1\02.PascalTriangle.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\02.PascalTriangle\obj\Debug\netcoreapp3.1\02.PascalTriangle.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\02.PascalTriangle\obj\Debug\netcoreapp3.1\02.PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\02.PascalTriangle\obj\Debug\netcoreapp3.1\02.PascalTriangle.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\02.PascalTriangle\obj\Debug\netcoreapp3.1\02.PascalTriangle.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\02.PascalTriangle\obj\Debug\netcoreapp3.1\02.PascalTriangle.genruntimeconfig.cache

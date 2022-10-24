@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-MoreExercise\4.RefactoringPrimeChecker\bin\Debug\netcoreapp3.1\4.RefactoringPrimeChecker.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-MoreExercise\4.RefactoringPrimeChecker\bin\Debug\netcoreapp3.1\4.RefactoringPrimeChecker.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-MoreExercise\4.RefactoringPrimeChecker\bin\Debug\netcoreapp3.1\4.RefactoringPrimeChecker.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-MoreExercise\4.RefactoringPrimeChecker\bin\Debug\netcoreapp3.1\4.RefactoringPrimeChecker.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-MoreExercise\4.RefactoringPrimeChecker\bin\Debug\netcoreapp3.1\4.RefactoringPrimeChecker.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-MoreExercise\4.RefactoringPrimeChecker\bin\Debug\netcoreapp3.1\4.RefactoringPrimeChecker.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-MoreExercise\4.RefactoringPrimeChecker\obj\Debug\netcoreapp3.1\4.RefactoringPrimeChecker.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-MoreExercise\4.RefactoringPrimeChecker\obj\Debug\netcoreapp3.1\4.RefactoringPrimeChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-MoreExercise\4.RefactoringPrimeChecker\obj\Debug\netcoreapp3.1\4.RefactoringPrimeChecker.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-MoreExercise\4.RefactoringPrimeChecker\obj\Debug\netcoreapp3.1\4.RefactoringPrimeChecker.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-MoreExercise\4.RefactoringPrimeChecker\obj\Debug\netcoreapp3.1\4.RefactoringPrimeChecker.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-MoreExercise\4.RefactoringPrimeChecker\obj\Debug\netcoreapp3.1\4.RefactoringPrimeChecker.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-MoreExercise\4.RefactoringPrimeChecker\obj\Debug\netcoreapp3.1\4.RefactoringPrimeChecker.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-MoreExercise\4.RefactoringPrimeChecker\obj\Debug\netcoreapp3.1\4.RefactoringPrimeChecker.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Exercise\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Exercise\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Exercise\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Exercise\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Exercise\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Exercise\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Exercise\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Exercise\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Exercise\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Exercise\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Exercise\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Exercise\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Exercise\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Exercise\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.genruntimeconfig.cache

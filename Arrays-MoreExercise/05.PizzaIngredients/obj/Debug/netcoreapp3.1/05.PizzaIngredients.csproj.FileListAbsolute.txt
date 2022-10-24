@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\05.PizzaIngredients\bin\Debug\netcoreapp3.1\05.PizzaIngredients.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\05.PizzaIngredients\bin\Debug\netcoreapp3.1\05.PizzaIngredients.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\05.PizzaIngredients\bin\Debug\netcoreapp3.1\05.PizzaIngredients.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\05.PizzaIngredients\bin\Debug\netcoreapp3.1\05.PizzaIngredients.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\05.PizzaIngredients\bin\Debug\netcoreapp3.1\05.PizzaIngredients.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\05.PizzaIngredients\bin\Debug\netcoreapp3.1\05.PizzaIngredients.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\05.PizzaIngredients\obj\Debug\netcoreapp3.1\05.PizzaIngredients.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\05.PizzaIngredients\obj\Debug\netcoreapp3.1\05.PizzaIngredients.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\05.PizzaIngredients\obj\Debug\netcoreapp3.1\05.PizzaIngredients.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\05.PizzaIngredients\obj\Debug\netcoreapp3.1\05.PizzaIngredients.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\05.PizzaIngredients\obj\Debug\netcoreapp3.1\05.PizzaIngredients.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\05.PizzaIngredients\obj\Debug\netcoreapp3.1\05.PizzaIngredients.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\05.PizzaIngredients\obj\Debug\netcoreapp3.1\05.PizzaIngredients.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\05.PizzaIngredients\obj\Debug\netcoreapp3.1\05.PizzaIngredients.genruntimeconfig.cache

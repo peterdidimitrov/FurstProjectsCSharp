@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\11.RefactorVolumeOfPyramid\bin\Debug\netcoreapp3.1\11.RefactorVolumeOfPyramid.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\11.RefactorVolumeOfPyramid\bin\Debug\netcoreapp3.1\11.RefactorVolumeOfPyramid.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\11.RefactorVolumeOfPyramid\bin\Debug\netcoreapp3.1\11.RefactorVolumeOfPyramid.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\11.RefactorVolumeOfPyramid\bin\Debug\netcoreapp3.1\11.RefactorVolumeOfPyramid.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\11.RefactorVolumeOfPyramid\bin\Debug\netcoreapp3.1\11.RefactorVolumeOfPyramid.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\11.RefactorVolumeOfPyramid\bin\Debug\netcoreapp3.1\11.RefactorVolumeOfPyramid.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\11.RefactorVolumeOfPyramid\obj\Debug\netcoreapp3.1\11.RefactorVolumeOfPyramid.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\11.RefactorVolumeOfPyramid\obj\Debug\netcoreapp3.1\11.RefactorVolumeOfPyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\11.RefactorVolumeOfPyramid\obj\Debug\netcoreapp3.1\11.RefactorVolumeOfPyramid.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\11.RefactorVolumeOfPyramid\obj\Debug\netcoreapp3.1\11.RefactorVolumeOfPyramid.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\11.RefactorVolumeOfPyramid\obj\Debug\netcoreapp3.1\11.RefactorVolumeOfPyramid.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\11.RefactorVolumeOfPyramid\obj\Debug\netcoreapp3.1\11.RefactorVolumeOfPyramid.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\11.RefactorVolumeOfPyramid\obj\Debug\netcoreapp3.1\11.RefactorVolumeOfPyramid.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\11.RefactorVolumeOfPyramid\obj\Debug\netcoreapp3.1\11.RefactorVolumeOfPyramid.genruntimeconfig.cache

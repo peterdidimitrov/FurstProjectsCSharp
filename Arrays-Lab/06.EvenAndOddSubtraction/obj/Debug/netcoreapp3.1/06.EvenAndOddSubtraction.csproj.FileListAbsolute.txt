@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Lab\06.EvenAndOddSubtraction\bin\Debug\netcoreapp3.1\06.EvenAndOddSubtraction.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Lab\06.EvenAndOddSubtraction\bin\Debug\netcoreapp3.1\06.EvenAndOddSubtraction.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Lab\06.EvenAndOddSubtraction\bin\Debug\netcoreapp3.1\06.EvenAndOddSubtraction.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Lab\06.EvenAndOddSubtraction\bin\Debug\netcoreapp3.1\06.EvenAndOddSubtraction.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Lab\06.EvenAndOddSubtraction\bin\Debug\netcoreapp3.1\06.EvenAndOddSubtraction.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Lab\06.EvenAndOddSubtraction\bin\Debug\netcoreapp3.1\06.EvenAndOddSubtraction.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Lab\06.EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\06.EvenAndOddSubtraction.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Lab\06.EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\06.EvenAndOddSubtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Lab\06.EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\06.EvenAndOddSubtraction.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Lab\06.EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\06.EvenAndOddSubtraction.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Lab\06.EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\06.EvenAndOddSubtraction.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Lab\06.EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\06.EvenAndOddSubtraction.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Lab\06.EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\06.EvenAndOddSubtraction.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Lab\06.EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\06.EvenAndOddSubtraction.genruntimeconfig.cache

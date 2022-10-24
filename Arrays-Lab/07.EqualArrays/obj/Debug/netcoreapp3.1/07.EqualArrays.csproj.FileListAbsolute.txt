@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Lab\07.EqualArrays\bin\Debug\netcoreapp3.1\07.EqualArrays.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Lab\07.EqualArrays\bin\Debug\netcoreapp3.1\07.EqualArrays.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Lab\07.EqualArrays\bin\Debug\netcoreapp3.1\07.EqualArrays.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Lab\07.EqualArrays\bin\Debug\netcoreapp3.1\07.EqualArrays.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Lab\07.EqualArrays\bin\Debug\netcoreapp3.1\07.EqualArrays.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Lab\07.EqualArrays\bin\Debug\netcoreapp3.1\07.EqualArrays.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Lab\07.EqualArrays\obj\Debug\netcoreapp3.1\07.EqualArrays.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Lab\07.EqualArrays\obj\Debug\netcoreapp3.1\07.EqualArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Lab\07.EqualArrays\obj\Debug\netcoreapp3.1\07.EqualArrays.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Lab\07.EqualArrays\obj\Debug\netcoreapp3.1\07.EqualArrays.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Lab\07.EqualArrays\obj\Debug\netcoreapp3.1\07.EqualArrays.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Lab\07.EqualArrays\obj\Debug\netcoreapp3.1\07.EqualArrays.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Lab\07.EqualArrays\obj\Debug\netcoreapp3.1\07.EqualArrays.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-Lab\07.EqualArrays\obj\Debug\netcoreapp3.1\07.EqualArrays.genruntimeconfig.cache

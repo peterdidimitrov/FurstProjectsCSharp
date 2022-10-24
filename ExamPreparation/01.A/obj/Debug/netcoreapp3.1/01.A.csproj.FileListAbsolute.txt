@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.A\bin\Debug\netcoreapp3.1\01.A.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.A\bin\Debug\netcoreapp3.1\01.A.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.A\bin\Debug\netcoreapp3.1\01.A.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.A\bin\Debug\netcoreapp3.1\01.A.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.A\bin\Debug\netcoreapp3.1\01.A.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.A\bin\Debug\netcoreapp3.1\01.A.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.A\obj\Debug\netcoreapp3.1\01.A.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.A\obj\Debug\netcoreapp3.1\01.A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.A\obj\Debug\netcoreapp3.1\01.A.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.A\obj\Debug\netcoreapp3.1\01.A.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.A\obj\Debug\netcoreapp3.1\01.A.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.A\obj\Debug\netcoreapp3.1\01.A.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.A\obj\Debug\netcoreapp3.1\01.A.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.A\obj\Debug\netcoreapp3.1\01.A.genruntimeconfig.cache

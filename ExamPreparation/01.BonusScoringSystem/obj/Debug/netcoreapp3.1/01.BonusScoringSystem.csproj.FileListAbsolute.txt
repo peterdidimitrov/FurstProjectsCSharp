@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.BonusScoringSystem\bin\Debug\netcoreapp3.1\01.BonusScoringSystem.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.BonusScoringSystem\bin\Debug\netcoreapp3.1\01.BonusScoringSystem.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.BonusScoringSystem\bin\Debug\netcoreapp3.1\01.BonusScoringSystem.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.BonusScoringSystem\bin\Debug\netcoreapp3.1\01.BonusScoringSystem.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.BonusScoringSystem\bin\Debug\netcoreapp3.1\01.BonusScoringSystem.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.BonusScoringSystem\bin\Debug\netcoreapp3.1\01.BonusScoringSystem.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.BonusScoringSystem\obj\Debug\netcoreapp3.1\01.BonusScoringSystem.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.BonusScoringSystem\obj\Debug\netcoreapp3.1\01.BonusScoringSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.BonusScoringSystem\obj\Debug\netcoreapp3.1\01.BonusScoringSystem.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.BonusScoringSystem\obj\Debug\netcoreapp3.1\01.BonusScoringSystem.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.BonusScoringSystem\obj\Debug\netcoreapp3.1\01.BonusScoringSystem.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.BonusScoringSystem\obj\Debug\netcoreapp3.1\01.BonusScoringSystem.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.BonusScoringSystem\obj\Debug\netcoreapp3.1\01.BonusScoringSystem.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.BonusScoringSystem\obj\Debug\netcoreapp3.1\01.BonusScoringSystem.genruntimeconfig.cache

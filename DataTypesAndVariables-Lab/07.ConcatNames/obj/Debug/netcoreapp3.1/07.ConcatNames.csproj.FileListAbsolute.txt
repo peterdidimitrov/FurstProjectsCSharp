@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\07.ConcatNames\bin\Debug\netcoreapp3.1\07.ConcatNames.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\07.ConcatNames\bin\Debug\netcoreapp3.1\07.ConcatNames.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\07.ConcatNames\bin\Debug\netcoreapp3.1\07.ConcatNames.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\07.ConcatNames\bin\Debug\netcoreapp3.1\07.ConcatNames.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\07.ConcatNames\bin\Debug\netcoreapp3.1\07.ConcatNames.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\07.ConcatNames\bin\Debug\netcoreapp3.1\07.ConcatNames.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\07.ConcatNames\obj\Debug\netcoreapp3.1\07.ConcatNames.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\07.ConcatNames\obj\Debug\netcoreapp3.1\07.ConcatNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\07.ConcatNames\obj\Debug\netcoreapp3.1\07.ConcatNames.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\07.ConcatNames\obj\Debug\netcoreapp3.1\07.ConcatNames.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\07.ConcatNames\obj\Debug\netcoreapp3.1\07.ConcatNames.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\07.ConcatNames\obj\Debug\netcoreapp3.1\07.ConcatNames.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\07.ConcatNames\obj\Debug\netcoreapp3.1\07.ConcatNames.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\07.ConcatNames\obj\Debug\netcoreapp3.1\07.ConcatNames.genruntimeconfig.cache

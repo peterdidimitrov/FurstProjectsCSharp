@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-MoreExercise\02.FromLeftToTheRight\bin\Debug\netcoreapp3.1\02.FromLeftToTheRight.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-MoreExercise\02.FromLeftToTheRight\bin\Debug\netcoreapp3.1\02.FromLeftToTheRight.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-MoreExercise\02.FromLeftToTheRight\bin\Debug\netcoreapp3.1\02.FromLeftToTheRight.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-MoreExercise\02.FromLeftToTheRight\bin\Debug\netcoreapp3.1\02.FromLeftToTheRight.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-MoreExercise\02.FromLeftToTheRight\bin\Debug\netcoreapp3.1\02.FromLeftToTheRight.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-MoreExercise\02.FromLeftToTheRight\bin\Debug\netcoreapp3.1\02.FromLeftToTheRight.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-MoreExercise\02.FromLeftToTheRight\obj\Debug\netcoreapp3.1\02.FromLeftToTheRight.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-MoreExercise\02.FromLeftToTheRight\obj\Debug\netcoreapp3.1\02.FromLeftToTheRight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-MoreExercise\02.FromLeftToTheRight\obj\Debug\netcoreapp3.1\02.FromLeftToTheRight.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-MoreExercise\02.FromLeftToTheRight\obj\Debug\netcoreapp3.1\02.FromLeftToTheRight.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-MoreExercise\02.FromLeftToTheRight\obj\Debug\netcoreapp3.1\02.FromLeftToTheRight.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-MoreExercise\02.FromLeftToTheRight\obj\Debug\netcoreapp3.1\02.FromLeftToTheRight.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-MoreExercise\02.FromLeftToTheRight\obj\Debug\netcoreapp3.1\02.FromLeftToTheRight.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-MoreExercise\02.FromLeftToTheRight\obj\Debug\netcoreapp3.1\02.FromLeftToTheRight.genruntimeconfig.cache

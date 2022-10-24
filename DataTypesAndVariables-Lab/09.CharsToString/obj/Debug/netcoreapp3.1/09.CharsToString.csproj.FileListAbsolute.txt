@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\09.CharsToString\bin\Debug\netcoreapp3.1\09.CharsToString.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\09.CharsToString\bin\Debug\netcoreapp3.1\09.CharsToString.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\09.CharsToString\bin\Debug\netcoreapp3.1\09.CharsToString.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\09.CharsToString\bin\Debug\netcoreapp3.1\09.CharsToString.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\09.CharsToString\bin\Debug\netcoreapp3.1\09.CharsToString.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\09.CharsToString\bin\Debug\netcoreapp3.1\09.CharsToString.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\09.CharsToString\obj\Debug\netcoreapp3.1\09.CharsToString.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\09.CharsToString\obj\Debug\netcoreapp3.1\09.CharsToString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\09.CharsToString\obj\Debug\netcoreapp3.1\09.CharsToString.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\09.CharsToString\obj\Debug\netcoreapp3.1\09.CharsToString.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\09.CharsToString\obj\Debug\netcoreapp3.1\09.CharsToString.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\09.CharsToString\obj\Debug\netcoreapp3.1\09.CharsToString.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\09.CharsToString\obj\Debug\netcoreapp3.1\09.CharsToString.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\DataTypesAndVariables-Lab\09.CharsToString\obj\Debug\netcoreapp3.1\09.CharsToString.genruntimeconfig.cache

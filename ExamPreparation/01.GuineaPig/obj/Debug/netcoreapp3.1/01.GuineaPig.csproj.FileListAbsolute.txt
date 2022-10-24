@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.GuineaPig\bin\Debug\netcoreapp3.1\01.GuineaPig.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.GuineaPig\bin\Debug\netcoreapp3.1\01.GuineaPig.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.GuineaPig\bin\Debug\netcoreapp3.1\01.GuineaPig.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.GuineaPig\bin\Debug\netcoreapp3.1\01.GuineaPig.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.GuineaPig\bin\Debug\netcoreapp3.1\01.GuineaPig.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.GuineaPig\bin\Debug\netcoreapp3.1\01.GuineaPig.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.GuineaPig\obj\Debug\netcoreapp3.1\01.GuineaPig.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.GuineaPig\obj\Debug\netcoreapp3.1\01.GuineaPig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.GuineaPig\obj\Debug\netcoreapp3.1\01.GuineaPig.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.GuineaPig\obj\Debug\netcoreapp3.1\01.GuineaPig.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.GuineaPig\obj\Debug\netcoreapp3.1\01.GuineaPig.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.GuineaPig\obj\Debug\netcoreapp3.1\01.GuineaPig.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.GuineaPig\obj\Debug\netcoreapp3.1\01.GuineaPig.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\01.GuineaPig\obj\Debug\netcoreapp3.1\01.GuineaPig.genruntimeconfig.cache

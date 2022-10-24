@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\03.ManOWar\bin\Debug\netcoreapp3.1\03.ManOWar.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\03.ManOWar\bin\Debug\netcoreapp3.1\03.ManOWar.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\03.ManOWar\bin\Debug\netcoreapp3.1\03.ManOWar.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\03.ManOWar\bin\Debug\netcoreapp3.1\03.ManOWar.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\03.ManOWar\bin\Debug\netcoreapp3.1\03.ManOWar.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\03.ManOWar\bin\Debug\netcoreapp3.1\03.ManOWar.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\03.ManOWar\obj\Debug\netcoreapp3.1\03.ManOWar.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\03.ManOWar\obj\Debug\netcoreapp3.1\03.ManOWar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\03.ManOWar\obj\Debug\netcoreapp3.1\03.ManOWar.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\03.ManOWar\obj\Debug\netcoreapp3.1\03.ManOWar.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\03.ManOWar\obj\Debug\netcoreapp3.1\03.ManOWar.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\03.ManOWar\obj\Debug\netcoreapp3.1\03.ManOWar.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\03.ManOWar\obj\Debug\netcoreapp3.1\03.ManOWar.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\ExamPreparation\03.ManOWar\obj\Debug\netcoreapp3.1\03.ManOWar.genruntimeconfig.cache

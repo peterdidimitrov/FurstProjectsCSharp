@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Exercise\07.NxNMatrix\bin\Debug\netcoreapp3.1\07.NxNMatrix.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Exercise\07.NxNMatrix\bin\Debug\netcoreapp3.1\07.NxNMatrix.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Exercise\07.NxNMatrix\bin\Debug\netcoreapp3.1\07.NxNMatrix.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Exercise\07.NxNMatrix\bin\Debug\netcoreapp3.1\07.NxNMatrix.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Exercise\07.NxNMatrix\bin\Debug\netcoreapp3.1\07.NxNMatrix.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Exercise\07.NxNMatrix\bin\Debug\netcoreapp3.1\07.NxNMatrix.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Exercise\07.NxNMatrix\obj\Debug\netcoreapp3.1\07.NxNMatrix.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Exercise\07.NxNMatrix\obj\Debug\netcoreapp3.1\07.NxNMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Exercise\07.NxNMatrix\obj\Debug\netcoreapp3.1\07.NxNMatrix.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Exercise\07.NxNMatrix\obj\Debug\netcoreapp3.1\07.NxNMatrix.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Exercise\07.NxNMatrix\obj\Debug\netcoreapp3.1\07.NxNMatrix.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Exercise\07.NxNMatrix\obj\Debug\netcoreapp3.1\07.NxNMatrix.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Exercise\07.NxNMatrix\obj\Debug\netcoreapp3.1\07.NxNMatrix.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Exercise\07.NxNMatrix\obj\Debug\netcoreapp3.1\07.NxNMatrix.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Lab\09.GreaterOfTwoValues\bin\Debug\netcoreapp3.1\09.GreaterOfTwoValues.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Lab\09.GreaterOfTwoValues\bin\Debug\netcoreapp3.1\09.GreaterOfTwoValues.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Lab\09.GreaterOfTwoValues\bin\Debug\netcoreapp3.1\09.GreaterOfTwoValues.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Lab\09.GreaterOfTwoValues\bin\Debug\netcoreapp3.1\09.GreaterOfTwoValues.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Lab\09.GreaterOfTwoValues\bin\Debug\netcoreapp3.1\09.GreaterOfTwoValues.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Lab\09.GreaterOfTwoValues\bin\Debug\netcoreapp3.1\09.GreaterOfTwoValues.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Lab\09.GreaterOfTwoValues\obj\Debug\netcoreapp3.1\09.GreaterOfTwoValues.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Lab\09.GreaterOfTwoValues\obj\Debug\netcoreapp3.1\09.GreaterOfTwoValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Lab\09.GreaterOfTwoValues\obj\Debug\netcoreapp3.1\09.GreaterOfTwoValues.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Lab\09.GreaterOfTwoValues\obj\Debug\netcoreapp3.1\09.GreaterOfTwoValues.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Lab\09.GreaterOfTwoValues\obj\Debug\netcoreapp3.1\09.GreaterOfTwoValues.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Lab\09.GreaterOfTwoValues\obj\Debug\netcoreapp3.1\09.GreaterOfTwoValues.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Lab\09.GreaterOfTwoValues\obj\Debug\netcoreapp3.1\09.GreaterOfTwoValues.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\Methods-Lab\09.GreaterOfTwoValues\obj\Debug\netcoreapp3.1\09.GreaterOfTwoValues.genruntimeconfig.cache

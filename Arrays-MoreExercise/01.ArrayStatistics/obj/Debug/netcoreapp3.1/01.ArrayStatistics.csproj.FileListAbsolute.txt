@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\01.ArrayStatistics\bin\Debug\netcoreapp3.1\01.ArrayStatistics.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\01.ArrayStatistics\bin\Debug\netcoreapp3.1\01.ArrayStatistics.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\01.ArrayStatistics\bin\Debug\netcoreapp3.1\01.ArrayStatistics.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\01.ArrayStatistics\bin\Debug\netcoreapp3.1\01.ArrayStatistics.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\01.ArrayStatistics\bin\Debug\netcoreapp3.1\01.ArrayStatistics.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\01.ArrayStatistics\bin\Debug\netcoreapp3.1\01.ArrayStatistics.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\01.ArrayStatistics\obj\Debug\netcoreapp3.1\01.ArrayStatistics.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\01.ArrayStatistics\obj\Debug\netcoreapp3.1\01.ArrayStatistics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\01.ArrayStatistics\obj\Debug\netcoreapp3.1\01.ArrayStatistics.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\01.ArrayStatistics\obj\Debug\netcoreapp3.1\01.ArrayStatistics.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\01.ArrayStatistics\obj\Debug\netcoreapp3.1\01.ArrayStatistics.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\01.ArrayStatistics\obj\Debug\netcoreapp3.1\01.ArrayStatistics.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\01.ArrayStatistics\obj\Debug\netcoreapp3.1\01.ArrayStatistics.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\Arrays-MoreExercise\01.ArrayStatistics\obj\Debug\netcoreapp3.1\01.ArrayStatistics.genruntimeconfig.cache

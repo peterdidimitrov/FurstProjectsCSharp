@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\Lists-Exercise\07.AppendArrays\bin\Debug\netcoreapp3.1\07.AppendArrays.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\Lists-Exercise\07.AppendArrays\bin\Debug\netcoreapp3.1\07.AppendArrays.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Lists-Exercise\07.AppendArrays\bin\Debug\netcoreapp3.1\07.AppendArrays.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Lists-Exercise\07.AppendArrays\bin\Debug\netcoreapp3.1\07.AppendArrays.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\Lists-Exercise\07.AppendArrays\bin\Debug\netcoreapp3.1\07.AppendArrays.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\Lists-Exercise\07.AppendArrays\bin\Debug\netcoreapp3.1\07.AppendArrays.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\Lists-Exercise\07.AppendArrays\obj\Debug\netcoreapp3.1\07.AppendArrays.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Lists-Exercise\07.AppendArrays\obj\Debug\netcoreapp3.1\07.AppendArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\Lists-Exercise\07.AppendArrays\obj\Debug\netcoreapp3.1\07.AppendArrays.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Lists-Exercise\07.AppendArrays\obj\Debug\netcoreapp3.1\07.AppendArrays.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\Lists-Exercise\07.AppendArrays\obj\Debug\netcoreapp3.1\07.AppendArrays.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\Lists-Exercise\07.AppendArrays\obj\Debug\netcoreapp3.1\07.AppendArrays.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\Lists-Exercise\07.AppendArrays\obj\Debug\netcoreapp3.1\07.AppendArrays.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\Lists-Exercise\07.AppendArrays\obj\Debug\netcoreapp3.1\07.AppendArrays.genruntimeconfig.cache
