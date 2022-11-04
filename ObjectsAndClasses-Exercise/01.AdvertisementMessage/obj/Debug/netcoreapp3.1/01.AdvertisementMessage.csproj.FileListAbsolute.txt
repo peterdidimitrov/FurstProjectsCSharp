@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Exercise\01.AdvertisementMessage\bin\Debug\netcoreapp3.1\01.AdvertisementMessage.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Exercise\01.AdvertisementMessage\bin\Debug\netcoreapp3.1\01.AdvertisementMessage.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Exercise\01.AdvertisementMessage\bin\Debug\netcoreapp3.1\01.AdvertisementMessage.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Exercise\01.AdvertisementMessage\bin\Debug\netcoreapp3.1\01.AdvertisementMessage.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Exercise\01.AdvertisementMessage\bin\Debug\netcoreapp3.1\01.AdvertisementMessage.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Exercise\01.AdvertisementMessage\bin\Debug\netcoreapp3.1\01.AdvertisementMessage.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Exercise\01.AdvertisementMessage\obj\Debug\netcoreapp3.1\01.AdvertisementMessage.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Exercise\01.AdvertisementMessage\obj\Debug\netcoreapp3.1\01.AdvertisementMessage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Exercise\01.AdvertisementMessage\obj\Debug\netcoreapp3.1\01.AdvertisementMessage.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Exercise\01.AdvertisementMessage\obj\Debug\netcoreapp3.1\01.AdvertisementMessage.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Exercise\01.AdvertisementMessage\obj\Debug\netcoreapp3.1\01.AdvertisementMessage.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Exercise\01.AdvertisementMessage\obj\Debug\netcoreapp3.1\01.AdvertisementMessage.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Exercise\01.AdvertisementMessage\obj\Debug\netcoreapp3.1\01.AdvertisementMessage.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Exercise\01.AdvertisementMessage\obj\Debug\netcoreapp3.1\01.AdvertisementMessage.genruntimeconfig.cache

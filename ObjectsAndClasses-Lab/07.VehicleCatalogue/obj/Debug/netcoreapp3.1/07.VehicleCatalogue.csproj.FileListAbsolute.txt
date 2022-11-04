@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\07.VehicleCatalogue\obj\Debug\netcoreapp3.1\07.VehicleCatalogue.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\07.VehicleCatalogue\obj\Debug\netcoreapp3.1\07.VehicleCatalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\07.VehicleCatalogue\obj\Debug\netcoreapp3.1\07.VehicleCatalogue.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\07.VehicleCatalogue\obj\Debug\netcoreapp3.1\07.VehicleCatalogue.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\07.VehicleCatalogue\obj\Debug\netcoreapp3.1\07.VehicleCatalogue.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\07.VehicleCatalogue\bin\Debug\netcoreapp3.1\07.VehicleCatalogue.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\07.VehicleCatalogue\bin\Debug\netcoreapp3.1\07.VehicleCatalogue.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\07.VehicleCatalogue\bin\Debug\netcoreapp3.1\07.VehicleCatalogue.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\07.VehicleCatalogue\bin\Debug\netcoreapp3.1\07.VehicleCatalogue.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\07.VehicleCatalogue\bin\Debug\netcoreapp3.1\07.VehicleCatalogue.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\07.VehicleCatalogue\bin\Debug\netcoreapp3.1\07.VehicleCatalogue.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\07.VehicleCatalogue\obj\Debug\netcoreapp3.1\07.VehicleCatalogue.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\07.VehicleCatalogue\obj\Debug\netcoreapp3.1\07.VehicleCatalogue.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\07.VehicleCatalogue\obj\Debug\netcoreapp3.1\07.VehicleCatalogue.genruntimeconfig.cache

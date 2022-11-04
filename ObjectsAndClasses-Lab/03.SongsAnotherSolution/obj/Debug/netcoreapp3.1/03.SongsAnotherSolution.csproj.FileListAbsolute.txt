@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\03.SongsAnotherSolution\bin\Debug\netcoreapp3.1\03.SongsAnotherSolution.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\03.SongsAnotherSolution\bin\Debug\netcoreapp3.1\03.SongsAnotherSolution.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\03.SongsAnotherSolution\bin\Debug\netcoreapp3.1\03.SongsAnotherSolution.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\03.SongsAnotherSolution\bin\Debug\netcoreapp3.1\03.SongsAnotherSolution.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\03.SongsAnotherSolution\bin\Debug\netcoreapp3.1\03.SongsAnotherSolution.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\03.SongsAnotherSolution\bin\Debug\netcoreapp3.1\03.SongsAnotherSolution.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\03.SongsAnotherSolution\obj\Debug\netcoreapp3.1\03.SongsAnotherSolution.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\03.SongsAnotherSolution\obj\Debug\netcoreapp3.1\03.SongsAnotherSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\03.SongsAnotherSolution\obj\Debug\netcoreapp3.1\03.SongsAnotherSolution.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\03.SongsAnotherSolution\obj\Debug\netcoreapp3.1\03.SongsAnotherSolution.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\03.SongsAnotherSolution\obj\Debug\netcoreapp3.1\03.SongsAnotherSolution.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\03.SongsAnotherSolution\obj\Debug\netcoreapp3.1\03.SongsAnotherSolution.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\03.SongsAnotherSolution\obj\Debug\netcoreapp3.1\03.SongsAnotherSolution.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\03.SongsAnotherSolution\obj\Debug\netcoreapp3.1\03.SongsAnotherSolution.genruntimeconfig.cache

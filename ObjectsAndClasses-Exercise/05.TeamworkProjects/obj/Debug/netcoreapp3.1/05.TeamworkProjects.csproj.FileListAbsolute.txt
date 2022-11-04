@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Exercise\05.TeamworkProjects\bin\Debug\netcoreapp3.1\05.TeamworkProjects.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Exercise\05.TeamworkProjects\bin\Debug\netcoreapp3.1\05.TeamworkProjects.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Exercise\05.TeamworkProjects\bin\Debug\netcoreapp3.1\05.TeamworkProjects.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Exercise\05.TeamworkProjects\bin\Debug\netcoreapp3.1\05.TeamworkProjects.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Exercise\05.TeamworkProjects\bin\Debug\netcoreapp3.1\05.TeamworkProjects.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Exercise\05.TeamworkProjects\bin\Debug\netcoreapp3.1\05.TeamworkProjects.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Exercise\05.TeamworkProjects\obj\Debug\netcoreapp3.1\05.TeamworkProjects.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Exercise\05.TeamworkProjects\obj\Debug\netcoreapp3.1\05.TeamworkProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Exercise\05.TeamworkProjects\obj\Debug\netcoreapp3.1\05.TeamworkProjects.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Exercise\05.TeamworkProjects\obj\Debug\netcoreapp3.1\05.TeamworkProjects.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Exercise\05.TeamworkProjects\obj\Debug\netcoreapp3.1\05.TeamworkProjects.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Exercise\05.TeamworkProjects\obj\Debug\netcoreapp3.1\05.TeamworkProjects.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Exercise\05.TeamworkProjects\obj\Debug\netcoreapp3.1\05.TeamworkProjects.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Exercise\05.TeamworkProjects\obj\Debug\netcoreapp3.1\05.TeamworkProjects.genruntimeconfig.cache

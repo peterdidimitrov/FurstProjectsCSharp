@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\05.Students2.0AnotherSolution\bin\Debug\netcoreapp3.1\05.Students2.0AnotherSolution.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\05.Students2.0AnotherSolution\bin\Debug\netcoreapp3.1\05.Students2.0AnotherSolution.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\05.Students2.0AnotherSolution\bin\Debug\netcoreapp3.1\05.Students2.0AnotherSolution.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\05.Students2.0AnotherSolution\bin\Debug\netcoreapp3.1\05.Students2.0AnotherSolution.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\05.Students2.0AnotherSolution\bin\Debug\netcoreapp3.1\05.Students2.0AnotherSolution.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\05.Students2.0AnotherSolution\bin\Debug\netcoreapp3.1\05.Students2.0AnotherSolution.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\05.Students2.0AnotherSolution\obj\Debug\netcoreapp3.1\05.Students2.0AnotherSolution.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\05.Students2.0AnotherSolution\obj\Debug\netcoreapp3.1\05.Students2.0AnotherSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\05.Students2.0AnotherSolution\obj\Debug\netcoreapp3.1\05.Students2.0AnotherSolution.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\05.Students2.0AnotherSolution\obj\Debug\netcoreapp3.1\05.Students2.0AnotherSolution.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\05.Students2.0AnotherSolution\obj\Debug\netcoreapp3.1\05.Students2.0AnotherSolution.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\05.Students2.0AnotherSolution\obj\Debug\netcoreapp3.1\05.Students2.0AnotherSolution.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\05.Students2.0AnotherSolution\obj\Debug\netcoreapp3.1\05.Students2.0AnotherSolution.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\05.Students2.0AnotherSolution\obj\Debug\netcoreapp3.1\05.Students2.0AnotherSolution.genruntimeconfig.cache

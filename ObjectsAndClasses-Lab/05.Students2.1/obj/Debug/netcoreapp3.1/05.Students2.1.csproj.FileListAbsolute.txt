@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\05.Students2.1\bin\Debug\netcoreapp3.1\05.Students2.1.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\05.Students2.1\bin\Debug\netcoreapp3.1\05.Students2.1.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\05.Students2.1\bin\Debug\netcoreapp3.1\05.Students2.1.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\05.Students2.1\bin\Debug\netcoreapp3.1\05.Students2.1.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\05.Students2.1\bin\Debug\netcoreapp3.1\05.Students2.1.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\05.Students2.1\bin\Debug\netcoreapp3.1\05.Students2.1.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\05.Students2.1\obj\Debug\netcoreapp3.1\05.Students2.1.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\05.Students2.1\obj\Debug\netcoreapp3.1\05.Students2.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\05.Students2.1\obj\Debug\netcoreapp3.1\05.Students2.1.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\05.Students2.1\obj\Debug\netcoreapp3.1\05.Students2.1.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\05.Students2.1\obj\Debug\netcoreapp3.1\05.Students2.1.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\05.Students2.1\obj\Debug\netcoreapp3.1\05.Students2.1.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\05.Students2.1\obj\Debug\netcoreapp3.1\05.Students2.1.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Lab\05.Students2.1\obj\Debug\netcoreapp3.1\05.Students2.1.genruntimeconfig.cache

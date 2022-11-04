@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Exercise\02.Articles\bin\Debug\netcoreapp3.1\02.Articles.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Exercise\02.Articles\bin\Debug\netcoreapp3.1\02.Articles.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Exercise\02.Articles\bin\Debug\netcoreapp3.1\02.Articles.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Exercise\02.Articles\bin\Debug\netcoreapp3.1\02.Articles.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Exercise\02.Articles\bin\Debug\netcoreapp3.1\02.Articles.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Exercise\02.Articles\bin\Debug\netcoreapp3.1\02.Articles.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Exercise\02.Articles\obj\Debug\netcoreapp3.1\02.Articles.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Exercise\02.Articles\obj\Debug\netcoreapp3.1\02.Articles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Exercise\02.Articles\obj\Debug\netcoreapp3.1\02.Articles.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Exercise\02.Articles\obj\Debug\netcoreapp3.1\02.Articles.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Exercise\02.Articles\obj\Debug\netcoreapp3.1\02.Articles.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Exercise\02.Articles\obj\Debug\netcoreapp3.1\02.Articles.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Exercise\02.Articles\obj\Debug\netcoreapp3.1\02.Articles.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\ObjectsAndClasses-Exercise\02.Articles\obj\Debug\netcoreapp3.1\02.Articles.genruntimeconfig.cache

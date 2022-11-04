@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\AssociativeArrays-Lab\03.WordSynonyms\bin\Debug\netcoreapp3.1\03.WordSynonyms.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\AssociativeArrays-Lab\03.WordSynonyms\bin\Debug\netcoreapp3.1\03.WordSynonyms.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\AssociativeArrays-Lab\03.WordSynonyms\bin\Debug\netcoreapp3.1\03.WordSynonyms.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\AssociativeArrays-Lab\03.WordSynonyms\bin\Debug\netcoreapp3.1\03.WordSynonyms.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\AssociativeArrays-Lab\03.WordSynonyms\bin\Debug\netcoreapp3.1\03.WordSynonyms.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\AssociativeArrays-Lab\03.WordSynonyms\bin\Debug\netcoreapp3.1\03.WordSynonyms.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\AssociativeArrays-Lab\03.WordSynonyms\obj\Debug\netcoreapp3.1\03.WordSynonyms.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\AssociativeArrays-Lab\03.WordSynonyms\obj\Debug\netcoreapp3.1\03.WordSynonyms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\AssociativeArrays-Lab\03.WordSynonyms\obj\Debug\netcoreapp3.1\03.WordSynonyms.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\AssociativeArrays-Lab\03.WordSynonyms\obj\Debug\netcoreapp3.1\03.WordSynonyms.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\AssociativeArrays-Lab\03.WordSynonyms\obj\Debug\netcoreapp3.1\03.WordSynonyms.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\AssociativeArrays-Lab\03.WordSynonyms\obj\Debug\netcoreapp3.1\03.WordSynonyms.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\AssociativeArrays-Lab\03.WordSynonyms\obj\Debug\netcoreapp3.1\03.WordSynonyms.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\AssociativeArrays-Lab\03.WordSynonyms\obj\Debug\netcoreapp3.1\03.WordSynonyms.genruntimeconfig.cache
