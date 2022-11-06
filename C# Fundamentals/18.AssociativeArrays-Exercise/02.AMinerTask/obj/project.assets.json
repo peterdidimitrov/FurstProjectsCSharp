@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\C# Fundamentals\\AssociativeArrays-Exercise\\02.AMinerTask\\02.AMinerTask.csproj",
+      "projectUniqueName": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\C# Fundamentals\\18.AssociativeArrays-Exercise\\02.AMinerTask\\02.AMinerTask.csproj",
       "projectName": "02.AMinerTask",
-      "projectPath": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\C# Fundamentals\\AssociativeArrays-Exercise\\02.AMinerTask\\02.AMinerTask.csproj",
+      "projectPath": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\C# Fundamentals\\18.AssociativeArrays-Exercise\\02.AMinerTask\\02.AMinerTask.csproj",
       "packagesPath": "C:\\Users\\fuji\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\C# Fundamentals\\AssociativeArrays-Exercise\\02.AMinerTask\\obj\\",
+      "outputPath": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\C# Fundamentals\\18.AssociativeArrays-Exercise\\02.AMinerTask\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
