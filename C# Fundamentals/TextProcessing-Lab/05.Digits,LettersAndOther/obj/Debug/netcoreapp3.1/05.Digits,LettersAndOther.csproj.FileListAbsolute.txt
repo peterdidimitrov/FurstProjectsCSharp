@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Lab\05.Digits,LettersAndOther\bin\Debug\netcoreapp3.1\05.Digits,LettersAndOther.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Lab\05.Digits,LettersAndOther\bin\Debug\netcoreapp3.1\05.Digits,LettersAndOther.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Lab\05.Digits,LettersAndOther\bin\Debug\netcoreapp3.1\05.Digits,LettersAndOther.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Lab\05.Digits,LettersAndOther\bin\Debug\netcoreapp3.1\05.Digits,LettersAndOther.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Lab\05.Digits,LettersAndOther\bin\Debug\netcoreapp3.1\05.Digits,LettersAndOther.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Lab\05.Digits,LettersAndOther\bin\Debug\netcoreapp3.1\05.Digits,LettersAndOther.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Lab\05.Digits,LettersAndOther\obj\Debug\netcoreapp3.1\05.Digits,LettersAndOther.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Lab\05.Digits,LettersAndOther\obj\Debug\netcoreapp3.1\05.Digits,LettersAndOther.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Lab\05.Digits,LettersAndOther\obj\Debug\netcoreapp3.1\05.Digits,LettersAndOther.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Lab\05.Digits,LettersAndOther\obj\Debug\netcoreapp3.1\05.Digits,LettersAndOther.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Lab\05.Digits,LettersAndOther\obj\Debug\netcoreapp3.1\05.Digits,LettersAndOther.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Lab\05.Digits,LettersAndOther\obj\Debug\netcoreapp3.1\05.Digits,LettersAndOther.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Lab\05.Digits,LettersAndOther\obj\Debug\netcoreapp3.1\05.Digits,LettersAndOther.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Lab\05.Digits,LettersAndOther\obj\Debug\netcoreapp3.1\05.Digits,LettersAndOther.genruntimeconfig.cache
