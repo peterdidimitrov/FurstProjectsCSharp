@@ -1,8 +1,6 @@
-﻿using System;
-using System.Linq;
-
-namespace _07.StringExplosion
+﻿namespace _07.StringExplosion
 {
+    using System;
     internal class Program
     {
         static void Main(string[] args)

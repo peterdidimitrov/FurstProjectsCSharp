@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yXIKd7XSSNX3fK47CQfVkSJ/Pw9syeGG/Zn6V0HggO2wg30hkC+oD1/wujPt0UzbtRjH/HqwXUEJODah1NaZ8w==",
+  "dgSpecHash": "Y7JCJ5YPcgWpjQxRHRK3Q9ISzWjMqIOHX8q8F8oRIb4KNqQL9mhdVSIEyw/WaPp69khNKQ21b7F5E2yNTp+scg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\C# Fundamentals\\TextProcessing-Exercise\\01.ValidUsernames\\01.ValidUsernames.csproj",
+  "projectFilePath": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\C# Fundamentals\\20.TextProcessing-Exercise\\01.ValidUsernames\\01.ValidUsernames.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

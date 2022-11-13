@@ -1,9 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
+﻿
 namespace _05.Multiply_Big_Number
 {
+    using System;
+    using System.Collections.Generic;
     class Program
     {
         static void Main(string[] args)

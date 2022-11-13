@@ -1,9 +1,6 @@
 ﻿namespace _01.ValidUsernames
 {
     using System;
-    using System.Collections.Generic;
-    using System.Linq;
-    using System.Text;
 
     public class Program
     {

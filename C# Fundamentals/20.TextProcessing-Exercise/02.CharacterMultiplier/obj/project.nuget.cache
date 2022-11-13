@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YcqFfRxP2+g8GqcL95vbN5yDCHDys0lswvGSvT16IyfqgQcVfBxegZCdlKuLPuXQ0/riHUNWkhARPhsAG2mv1A==",
+  "dgSpecHash": "ysNqYb8gv8HSRfXOBaiUvx5+p6juNsnauGxZkAeHov/W4e5+7CwTVRcnmH1T6pYb7oZnOJ9ihHVBba87ly3DOg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\C# Fundamentals\\TextProcessing-Exercise\\02.CharacterMultiplier\\02.CharacterMultiplier.csproj",
+  "projectFilePath": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\C# Fundamentals\\20.TextProcessing-Exercise\\02.CharacterMultiplier\\02.CharacterMultiplier.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

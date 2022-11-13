@@ -1,7 +1,6 @@
 ﻿namespace _08.LettersChangeNumbers
 {
     using System;
-
     class Program
     {
         static void Main(string[] args)

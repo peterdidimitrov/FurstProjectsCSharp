@@ -1,7 +1,7 @@
-﻿using System;
-
+﻿
 namespace _07.StringExplosionAnotherSolution
 {
+using System;
     class Program
     {
         static void Main()

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\C# Fundamentals\\TextProcessing-Exercise\\08.LettersChangeNumbers\\08.LettersChangeNumbers.csproj": {}
+    "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\C# Fundamentals\\20.TextProcessing-Exercise\\08.LettersChangeNumbers\\08.LettersChangeNumbers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\C# Fundamentals\\TextProcessing-Exercise\\08.LettersChangeNumbers\\08.LettersChangeNumbers.csproj": {
+    "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\C# Fundamentals\\20.TextProcessing-Exercise\\08.LettersChangeNumbers\\08.LettersChangeNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\C# Fundamentals\\TextProcessing-Exercise\\08.LettersChangeNumbers\\08.LettersChangeNumbers.csproj",
+        "projectUniqueName": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\C# Fundamentals\\20.TextProcessing-Exercise\\08.LettersChangeNumbers\\08.LettersChangeNumbers.csproj",
         "projectName": "08.LettersChangeNumbers",
-        "projectPath": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\C# Fundamentals\\TextProcessing-Exercise\\08.LettersChangeNumbers\\08.LettersChangeNumbers.csproj",
+        "projectPath": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\C# Fundamentals\\20.TextProcessing-Exercise\\08.LettersChangeNumbers\\08.LettersChangeNumbers.csproj",
         "packagesPath": "C:\\Users\\fuji\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\C# Fundamentals\\TextProcessing-Exercise\\08.LettersChangeNumbers\\obj\\",
+        "outputPath": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\C# Fundamentals\\20.TextProcessing-Exercise\\08.LettersChangeNumbers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

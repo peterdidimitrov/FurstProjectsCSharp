@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\C# Fundamentals\\TextProcessing-Exercise\\01.ValidUsernames\\01.ValidUsernames.csproj": {}
+    "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\C# Fundamentals\\20.TextProcessing-Exercise\\01.ValidUsernames\\01.ValidUsernames.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\C# Fundamentals\\TextProcessing-Exercise\\01.ValidUsernames\\01.ValidUsernames.csproj": {
+    "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\C# Fundamentals\\20.TextProcessing-Exercise\\01.ValidUsernames\\01.ValidUsernames.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\C# Fundamentals\\TextProcessing-Exercise\\01.ValidUsernames\\01.ValidUsernames.csproj",
+        "projectUniqueName": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\C# Fundamentals\\20.TextProcessing-Exercise\\01.ValidUsernames\\01.ValidUsernames.csproj",
         "projectName": "01.ValidUsernames",
-        "projectPath": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\C# Fundamentals\\TextProcessing-Exercise\\01.ValidUsernames\\01.ValidUsernames.csproj",
+        "projectPath": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\C# Fundamentals\\20.TextProcessing-Exercise\\01.ValidUsernames\\01.ValidUsernames.csproj",
         "packagesPath": "C:\\Users\\fuji\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\C# Fundamentals\\TextProcessing-Exercise\\01.ValidUsernames\\obj\\",
+        "outputPath": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\C# Fundamentals\\20.TextProcessing-Exercise\\01.ValidUsernames\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

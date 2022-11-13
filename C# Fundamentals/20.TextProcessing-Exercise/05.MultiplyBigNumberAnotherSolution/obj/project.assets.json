@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\C# Fundamentals\\TextProcessing-Exercise\\05.MultiplyBigNumberAnotherSolution\\05.MultiplyBigNumberAnotherSolution.csproj",
+      "projectUniqueName": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\C# Fundamentals\\20.TextProcessing-Exercise\\05.MultiplyBigNumberAnotherSolution\\05.MultiplyBigNumberAnotherSolution.csproj",
       "projectName": "05.MultiplyBigNumberAnotherSolution",
-      "projectPath": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\C# Fundamentals\\TextProcessing-Exercise\\05.MultiplyBigNumberAnotherSolution\\05.MultiplyBigNumberAnotherSolution.csproj",
+      "projectPath": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\C# Fundamentals\\20.TextProcessing-Exercise\\05.MultiplyBigNumberAnotherSolution\\05.MultiplyBigNumberAnotherSolution.csproj",
       "packagesPath": "C:\\Users\\fuji\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\C# Fundamentals\\TextProcessing-Exercise\\05.MultiplyBigNumberAnotherSolution\\obj\\",
+      "outputPath": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\C# Fundamentals\\20.TextProcessing-Exercise\\05.MultiplyBigNumberAnotherSolution\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

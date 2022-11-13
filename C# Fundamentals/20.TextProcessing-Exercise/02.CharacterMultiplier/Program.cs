@@ -1,18 +1,22 @@
-﻿using System;
-using System.Numerics;
-namespace _02.CharacterMultiplier
+﻿namespace _02.CharacterMultiplier
 {
+    using System;
     internal class Program
     {
         static void Main(string[] args)
         {
             string[] input = Console.ReadLine()
                 .Split(" ", StringSplitOptions.RemoveEmptyEntries);
-            
+
             string str1 = input[0];
             string str2 = input[1];
+            int sum = GetStringSum(str1, str2);
+            Console.WriteLine(sum);
+        }
 
-            BigInteger sum = 0;
+        private static int GetStringSum(string str1, string str2)
+        {
+            int sum = 0;
 
             if (str1.Length >= str2.Length)
             {
@@ -36,7 +40,7 @@ namespace _02.CharacterMultiplier
                     sum += (int)str2[i];
                 }
             }
-            Console.WriteLine(sum);
+            return sum;
         }
     }
 }
