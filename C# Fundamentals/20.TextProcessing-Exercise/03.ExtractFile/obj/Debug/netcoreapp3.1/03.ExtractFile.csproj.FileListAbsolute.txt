@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\03.ExtractFile\bin\Debug\netcoreapp3.1\03.ExtractFile.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\03.ExtractFile\bin\Debug\netcoreapp3.1\03.ExtractFile.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\03.ExtractFile\bin\Debug\netcoreapp3.1\03.ExtractFile.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\03.ExtractFile\bin\Debug\netcoreapp3.1\03.ExtractFile.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\03.ExtractFile\bin\Debug\netcoreapp3.1\03.ExtractFile.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\03.ExtractFile\bin\Debug\netcoreapp3.1\03.ExtractFile.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.genruntimeconfig.cache

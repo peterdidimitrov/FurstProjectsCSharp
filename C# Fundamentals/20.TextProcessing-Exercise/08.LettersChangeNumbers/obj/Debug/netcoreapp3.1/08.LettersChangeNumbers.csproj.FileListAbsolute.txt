@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\08.LettersChangeNumbers\bin\Debug\netcoreapp3.1\08.LettersChangeNumbers.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\08.LettersChangeNumbers\bin\Debug\netcoreapp3.1\08.LettersChangeNumbers.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\08.LettersChangeNumbers\bin\Debug\netcoreapp3.1\08.LettersChangeNumbers.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\08.LettersChangeNumbers\bin\Debug\netcoreapp3.1\08.LettersChangeNumbers.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\08.LettersChangeNumbers\bin\Debug\netcoreapp3.1\08.LettersChangeNumbers.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\08.LettersChangeNumbers\bin\Debug\netcoreapp3.1\08.LettersChangeNumbers.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\08.LettersChangeNumbers\obj\Debug\netcoreapp3.1\08.LettersChangeNumbers.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\08.LettersChangeNumbers\obj\Debug\netcoreapp3.1\08.LettersChangeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\08.LettersChangeNumbers\obj\Debug\netcoreapp3.1\08.LettersChangeNumbers.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\08.LettersChangeNumbers\obj\Debug\netcoreapp3.1\08.LettersChangeNumbers.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\08.LettersChangeNumbers\obj\Debug\netcoreapp3.1\08.LettersChangeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\08.LettersChangeNumbers\obj\Debug\netcoreapp3.1\08.LettersChangeNumbers.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\08.LettersChangeNumbers\obj\Debug\netcoreapp3.1\08.LettersChangeNumbers.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\08.LettersChangeNumbers\obj\Debug\netcoreapp3.1\08.LettersChangeNumbers.genruntimeconfig.cache

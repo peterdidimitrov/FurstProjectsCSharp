@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\07.StringExplosionAnotherSolution\bin\Debug\netcoreapp3.1\07.StringExplosionAnotherSolution.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\07.StringExplosionAnotherSolution\bin\Debug\netcoreapp3.1\07.StringExplosionAnotherSolution.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\07.StringExplosionAnotherSolution\bin\Debug\netcoreapp3.1\07.StringExplosionAnotherSolution.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\07.StringExplosionAnotherSolution\bin\Debug\netcoreapp3.1\07.StringExplosionAnotherSolution.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\07.StringExplosionAnotherSolution\bin\Debug\netcoreapp3.1\07.StringExplosionAnotherSolution.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\07.StringExplosionAnotherSolution\bin\Debug\netcoreapp3.1\07.StringExplosionAnotherSolution.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\07.StringExplosionAnotherSolution\obj\Debug\netcoreapp3.1\07.StringExplosionAnotherSolution.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\07.StringExplosionAnotherSolution\obj\Debug\netcoreapp3.1\07.StringExplosionAnotherSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\07.StringExplosionAnotherSolution\obj\Debug\netcoreapp3.1\07.StringExplosionAnotherSolution.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\07.StringExplosionAnotherSolution\obj\Debug\netcoreapp3.1\07.StringExplosionAnotherSolution.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\07.StringExplosionAnotherSolution\obj\Debug\netcoreapp3.1\07.StringExplosionAnotherSolution.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\07.StringExplosionAnotherSolution\obj\Debug\netcoreapp3.1\07.StringExplosionAnotherSolution.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\07.StringExplosionAnotherSolution\obj\Debug\netcoreapp3.1\07.StringExplosionAnotherSolution.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\07.StringExplosionAnotherSolution\obj\Debug\netcoreapp3.1\07.StringExplosionAnotherSolution.genruntimeconfig.cache

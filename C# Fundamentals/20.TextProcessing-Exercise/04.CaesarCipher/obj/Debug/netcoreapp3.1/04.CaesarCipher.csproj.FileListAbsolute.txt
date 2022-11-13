@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\04.CaesarCipher\bin\Debug\netcoreapp3.1\04.CaesarCipher.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\04.CaesarCipher\bin\Debug\netcoreapp3.1\04.CaesarCipher.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\04.CaesarCipher\bin\Debug\netcoreapp3.1\04.CaesarCipher.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\04.CaesarCipher\bin\Debug\netcoreapp3.1\04.CaesarCipher.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\04.CaesarCipher\bin\Debug\netcoreapp3.1\04.CaesarCipher.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\04.CaesarCipher\bin\Debug\netcoreapp3.1\04.CaesarCipher.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\04.CaesarCipher\obj\Debug\netcoreapp3.1\04.CaesarCipher.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\04.CaesarCipher\obj\Debug\netcoreapp3.1\04.CaesarCipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\04.CaesarCipher\obj\Debug\netcoreapp3.1\04.CaesarCipher.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\04.CaesarCipher\obj\Debug\netcoreapp3.1\04.CaesarCipher.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\04.CaesarCipher\obj\Debug\netcoreapp3.1\04.CaesarCipher.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\04.CaesarCipher\obj\Debug\netcoreapp3.1\04.CaesarCipher.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\04.CaesarCipher\obj\Debug\netcoreapp3.1\04.CaesarCipher.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\04.CaesarCipher\obj\Debug\netcoreapp3.1\04.CaesarCipher.genruntimeconfig.cache

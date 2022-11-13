@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\05.MultiplyBigNumberAnotherSolution\bin\Debug\netcoreapp3.1\05.MultiplyBigNumberAnotherSolution.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\05.MultiplyBigNumberAnotherSolution\bin\Debug\netcoreapp3.1\05.MultiplyBigNumberAnotherSolution.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\05.MultiplyBigNumberAnotherSolution\bin\Debug\netcoreapp3.1\05.MultiplyBigNumberAnotherSolution.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\05.MultiplyBigNumberAnotherSolution\bin\Debug\netcoreapp3.1\05.MultiplyBigNumberAnotherSolution.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\05.MultiplyBigNumberAnotherSolution\bin\Debug\netcoreapp3.1\05.MultiplyBigNumberAnotherSolution.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\05.MultiplyBigNumberAnotherSolution\bin\Debug\netcoreapp3.1\05.MultiplyBigNumberAnotherSolution.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\05.MultiplyBigNumberAnotherSolution\obj\Debug\netcoreapp3.1\05.MultiplyBigNumberAnotherSolution.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\05.MultiplyBigNumberAnotherSolution\obj\Debug\netcoreapp3.1\05.MultiplyBigNumberAnotherSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\05.MultiplyBigNumberAnotherSolution\obj\Debug\netcoreapp3.1\05.MultiplyBigNumberAnotherSolution.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\05.MultiplyBigNumberAnotherSolution\obj\Debug\netcoreapp3.1\05.MultiplyBigNumberAnotherSolution.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\05.MultiplyBigNumberAnotherSolution\obj\Debug\netcoreapp3.1\05.MultiplyBigNumberAnotherSolution.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\05.MultiplyBigNumberAnotherSolution\obj\Debug\netcoreapp3.1\05.MultiplyBigNumberAnotherSolution.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\05.MultiplyBigNumberAnotherSolution\obj\Debug\netcoreapp3.1\05.MultiplyBigNumberAnotherSolution.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\TextProcessing-Exercise\05.MultiplyBigNumberAnotherSolution\obj\Debug\netcoreapp3.1\05.MultiplyBigNumberAnotherSolution.genruntimeconfig.cache
