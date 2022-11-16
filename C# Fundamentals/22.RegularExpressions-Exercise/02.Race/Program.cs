@@ -9,56 +9,60 @@
     {
         public static void Main(string[] args)
         {
-            char[] separators = { ',', ' ' };
-            List<string> names = Console.ReadLine()
-                .Split(separators, StringSplitOptions.RemoveEmptyEntries)
-                .ToList();
             var regexName = @"(?<name>[A-Za-z])";
             var regexDistance = @"(?<distance>\d+)";
-
+            
+            var sumOfDigits = 0;
+            
             var racersInfo = new Dictionary<string, int>();
+            List<string> names = Console.ReadLine()
+                .Split(", ", StringSplitOptions.RemoveEmptyEntries)
+                .ToList();
             string input;
             while ((input = Console.ReadLine()) != "end of race")
             {
-                var existedNames = Regex.Matches(input, regexName);
-                var existedDistance = Regex.Matches(input, regexDistance);
+                var matchedNames = Regex.Matches(input, regexName);
+                var matchedDigits = Regex.Matches(input, regexDistance);
 
-                string currentName = "";
-                string currentDistance = "";
+                string currentName = string.Join("", matchedNames);
+                string currentDistance = string.Join("", matchedDigits);
 
-                foreach (Match item in existedNames)
+                sumOfDigits = 0;
+                for (int i = 0; i < currentDistance.Length; i++)
                 {
-                    var name = item.Groups["name"].Value;
-                    currentName += name;
-                }
-                foreach (Match item in existedDistance)
-                {
-                    var distance = item.Groups["distance"].Value;
-                    currentDistance += distance;
+                    sumOfDigits += int.Parse(currentDistance[i].ToString());
                 }
                 if (names.Contains(currentName))
                 {
                     if (!racersInfo.ContainsKey(currentName))
                     {
-                        racersInfo.Add(currentName, int.Parse(currentDistance));
+                        racersInfo.Add(currentName, sumOfDigits);
                     }
                     else
                     {
-                        racersInfo[currentName] += int.Parse(currentDistance);
+                        racersInfo[currentName] += sumOfDigits;
                     }
-                }
+                } 
             }
-            List<string> finalists = new List<string>();
+            var winners = racersInfo.OrderByDescending(x => x.Value).Take(3);
+            var firstPlace = winners.Take(1);
+            var secondPlace = winners.OrderByDescending(x => x.Value)
+                .Take(2).OrderBy(x => x.Value)
+                .Take(1);
+            var thirdPlace = winners.OrderBy(x => x.Value).Take(1);
 
-            foreach (var item in racersInfo.OrderByDescending(key => key.Value))
+            foreach (var firstName in firstPlace)
             {
-                //Console.WriteLine($"{item.Key} -> {item.Value}");
-                finalists.Add(item.Key);
+                Console.WriteLine($"1st place: {firstName.Key}");
             }
-
-            Console.WriteLine($"1st place: {finalists[0]}");
-            Console.WriteLine($"2nd place: {finalists[1]}");
-            Console.WriteLine($"3rd place: {finalists[2]}");
+            foreach (var secondName in secondPlace)
+            {
+                Console.WriteLine($"2nd place: {secondName.Key}");
+            }
+            foreach (var thirdName in thirdPlace)
+            {
+                Console.WriteLine($"3rd place: {thirdName.Key}");
+            }
         }
     }
 }

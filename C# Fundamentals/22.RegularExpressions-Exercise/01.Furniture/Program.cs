@@ -9,9 +9,9 @@
         {
             var regex = @"(>>(?<furniture>[A-za-z\s]+)<<)(?<price>\d+(.\d+)?)!(?<quantity>\d+)\b";
             double spendMoney = 0;
-            string input;
 
             Console.WriteLine("Bought furniture:");
+            string input;
             while ((input = Console.ReadLine()) != "Purchase")
             {
                 var futnituresMathches = Regex.Matches(input, regex);
