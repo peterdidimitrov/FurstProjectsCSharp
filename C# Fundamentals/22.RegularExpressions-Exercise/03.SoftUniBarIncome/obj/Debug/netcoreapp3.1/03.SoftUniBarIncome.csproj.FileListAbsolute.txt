@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\22.RegularExpressions-Exercise\03.SoftUniBarIncome\bin\Debug\netcoreapp3.1\03.SoftUniBarIncome.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\22.RegularExpressions-Exercise\03.SoftUniBarIncome\bin\Debug\netcoreapp3.1\03.SoftUniBarIncome.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\22.RegularExpressions-Exercise\03.SoftUniBarIncome\bin\Debug\netcoreapp3.1\03.SoftUniBarIncome.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\22.RegularExpressions-Exercise\03.SoftUniBarIncome\bin\Debug\netcoreapp3.1\03.SoftUniBarIncome.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\22.RegularExpressions-Exercise\03.SoftUniBarIncome\bin\Debug\netcoreapp3.1\03.SoftUniBarIncome.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\22.RegularExpressions-Exercise\03.SoftUniBarIncome\bin\Debug\netcoreapp3.1\03.SoftUniBarIncome.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\22.RegularExpressions-Exercise\03.SoftUniBarIncome\obj\Debug\netcoreapp3.1\03.SoftUniBarIncome.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\22.RegularExpressions-Exercise\03.SoftUniBarIncome\obj\Debug\netcoreapp3.1\03.SoftUniBarIncome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\22.RegularExpressions-Exercise\03.SoftUniBarIncome\obj\Debug\netcoreapp3.1\03.SoftUniBarIncome.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\22.RegularExpressions-Exercise\03.SoftUniBarIncome\obj\Debug\netcoreapp3.1\03.SoftUniBarIncome.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\22.RegularExpressions-Exercise\03.SoftUniBarIncome\obj\Debug\netcoreapp3.1\03.SoftUniBarIncome.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\22.RegularExpressions-Exercise\03.SoftUniBarIncome\obj\Debug\netcoreapp3.1\03.SoftUniBarIncome.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\22.RegularExpressions-Exercise\03.SoftUniBarIncome\obj\Debug\netcoreapp3.1\03.SoftUniBarIncome.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\22.RegularExpressions-Exercise\03.SoftUniBarIncome\obj\Debug\netcoreapp3.1\03.SoftUniBarIncome.genruntimeconfig.cache
