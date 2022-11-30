@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\Arrays-Exercise\\06.EqualSumAnotherSolution\\06.EqualSumAnotherSolution.csproj",
+      "projectUniqueName": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\C# Fundamentals\\08. Arrays-Exercise\\06.EqualSumAnotherSolution\\06.EqualSumAnotherSolution.csproj",
       "projectName": "06.EqualSumAnotherSolution",
-      "projectPath": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\Arrays-Exercise\\06.EqualSumAnotherSolution\\06.EqualSumAnotherSolution.csproj",
+      "projectPath": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\C# Fundamentals\\08. Arrays-Exercise\\06.EqualSumAnotherSolution\\06.EqualSumAnotherSolution.csproj",
       "packagesPath": "C:\\Users\\fuji\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\Arrays-Exercise\\06.EqualSumAnotherSolution\\obj\\",
+      "outputPath": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\C# Fundamentals\\08. Arrays-Exercise\\06.EqualSumAnotherSolution\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

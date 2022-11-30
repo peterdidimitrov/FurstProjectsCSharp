@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hS04/QMarSM7ofm0KU06jZHjhYI4Z+p8cnF0YjBo9QUvpRQEiR/6/kGx4ljZLATQwUfhD3KJeAX9d648ScD2DQ==",
+  "dgSpecHash": "2h01M++XCzfHVEPF0m3hJyzY2257UNd1OEwNW3wse2h39tj1oy8fXWnw+d1kvDZWgGOwFcH8QElozjBh5B3tQQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\Methods-Exercise\\02.VowelsCountWhitArray\\02.VowelsCountWhitArray.csproj",
+  "projectFilePath": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\C# Fundamentals\\13.Methods-Exercise\\02.VowelsCountWhitArray\\02.VowelsCountWhitArray.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

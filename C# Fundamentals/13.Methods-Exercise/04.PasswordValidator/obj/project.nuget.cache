@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3YHN+Wv2HirvNAGvI7FWtAvNqaKAy7acYT9b9WiqVUhIEzxSXGZ1LOOz4pCtophWqz5ROL30b7Re9O8EELVHhQ==",
+  "dgSpecHash": "5YPbNnpZ//zQhY5y3LabipXomG5uIolJYyfLNzYOZeMyqwMOx6T6JhHnLbr7Fu6xj8BhoXEJjMzVRFCgKEezBg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\Methods-Exercise\\04.PasswordValidator\\04.PasswordValidator.csproj",
+  "projectFilePath": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\C# Fundamentals\\13.Methods-Exercise\\04.PasswordValidator\\04.PasswordValidator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

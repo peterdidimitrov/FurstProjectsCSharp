@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\Methods-Exercise\\05.AddAndSubtract\\05.AddAndSubtract.csproj",
+      "projectUniqueName": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\C# Fundamentals\\13.Methods-Exercise\\05.AddAndSubtract\\05.AddAndSubtract.csproj",
       "projectName": "05.AddAndSubtract",
-      "projectPath": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\Methods-Exercise\\05.AddAndSubtract\\05.AddAndSubtract.csproj",
+      "projectPath": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\C# Fundamentals\\13.Methods-Exercise\\05.AddAndSubtract\\05.AddAndSubtract.csproj",
       "packagesPath": "C:\\Users\\fuji\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\Methods-Exercise\\05.AddAndSubtract\\obj\\",
+      "outputPath": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\C# Fundamentals\\13.Methods-Exercise\\05.AddAndSubtract\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

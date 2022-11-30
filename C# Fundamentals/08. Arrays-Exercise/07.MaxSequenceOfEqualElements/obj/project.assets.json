@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\Arrays-Exercise\\07.MaxSequenceOfEqualElements\\07.MaxSequenceOfEqualElements.csproj",
+      "projectUniqueName": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\C# Fundamentals\\08. Arrays-Exercise\\07.MaxSequenceOfEqualElements\\07.MaxSequenceOfEqualElements.csproj",
       "projectName": "07.MaxSequenceOfEqualElements",
-      "projectPath": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\Arrays-Exercise\\07.MaxSequenceOfEqualElements\\07.MaxSequenceOfEqualElements.csproj",
+      "projectPath": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\C# Fundamentals\\08. Arrays-Exercise\\07.MaxSequenceOfEqualElements\\07.MaxSequenceOfEqualElements.csproj",
       "packagesPath": "C:\\Users\\fuji\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\Arrays-Exercise\\07.MaxSequenceOfEqualElements\\obj\\",
+      "outputPath": "C:\\Users\\fuji\\Desktop\\FurstProjectsC#\\C# Fundamentals\\08. Arrays-Exercise\\07.MaxSequenceOfEqualElements\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

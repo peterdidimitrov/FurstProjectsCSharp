@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\04.ProgrammingFundamentalsFinalExam\02.FancyBarcodes\bin\Debug\netcoreapp3.1\02.FancyBarcodes.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\04.ProgrammingFundamentalsFinalExam\02.FancyBarcodes\bin\Debug\netcoreapp3.1\02.FancyBarcodes.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\04.ProgrammingFundamentalsFinalExam\02.FancyBarcodes\bin\Debug\netcoreapp3.1\02.FancyBarcodes.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\04.ProgrammingFundamentalsFinalExam\02.FancyBarcodes\bin\Debug\netcoreapp3.1\02.FancyBarcodes.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\04.ProgrammingFundamentalsFinalExam\02.FancyBarcodes\bin\Debug\netcoreapp3.1\02.FancyBarcodes.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\04.ProgrammingFundamentalsFinalExam\02.FancyBarcodes\bin\Debug\netcoreapp3.1\02.FancyBarcodes.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\04.ProgrammingFundamentalsFinalExam\02.FancyBarcodes\obj\Debug\netcoreapp3.1\02.FancyBarcodes.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\04.ProgrammingFundamentalsFinalExam\02.FancyBarcodes\obj\Debug\netcoreapp3.1\02.FancyBarcodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\04.ProgrammingFundamentalsFinalExam\02.FancyBarcodes\obj\Debug\netcoreapp3.1\02.FancyBarcodes.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\04.ProgrammingFundamentalsFinalExam\02.FancyBarcodes\obj\Debug\netcoreapp3.1\02.FancyBarcodes.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\04.ProgrammingFundamentalsFinalExam\02.FancyBarcodes\obj\Debug\netcoreapp3.1\02.FancyBarcodes.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\04.ProgrammingFundamentalsFinalExam\02.FancyBarcodes\obj\Debug\netcoreapp3.1\02.FancyBarcodes.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\04.ProgrammingFundamentalsFinalExam\02.FancyBarcodes\obj\Debug\netcoreapp3.1\02.FancyBarcodes.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\04.ProgrammingFundamentalsFinalExam\02.FancyBarcodes\obj\Debug\netcoreapp3.1\02.FancyBarcodes.genruntimeconfig.cache
