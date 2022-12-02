@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\05.ProgrammingFundamentalsFinalExam\01.ActivationKeys\bin\Debug\netcoreapp3.1\01.ActivationKeys.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\05.ProgrammingFundamentalsFinalExam\01.ActivationKeys\bin\Debug\netcoreapp3.1\01.ActivationKeys.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\05.ProgrammingFundamentalsFinalExam\01.ActivationKeys\bin\Debug\netcoreapp3.1\01.ActivationKeys.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\05.ProgrammingFundamentalsFinalExam\01.ActivationKeys\bin\Debug\netcoreapp3.1\01.ActivationKeys.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\05.ProgrammingFundamentalsFinalExam\01.ActivationKeys\bin\Debug\netcoreapp3.1\01.ActivationKeys.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\05.ProgrammingFundamentalsFinalExam\01.ActivationKeys\bin\Debug\netcoreapp3.1\01.ActivationKeys.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\05.ProgrammingFundamentalsFinalExam\01.ActivationKeys\obj\Debug\netcoreapp3.1\01.ActivationKeys.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\05.ProgrammingFundamentalsFinalExam\01.ActivationKeys\obj\Debug\netcoreapp3.1\01.ActivationKeys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\05.ProgrammingFundamentalsFinalExam\01.ActivationKeys\obj\Debug\netcoreapp3.1\01.ActivationKeys.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\05.ProgrammingFundamentalsFinalExam\01.ActivationKeys\obj\Debug\netcoreapp3.1\01.ActivationKeys.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\05.ProgrammingFundamentalsFinalExam\01.ActivationKeys\obj\Debug\netcoreapp3.1\01.ActivationKeys.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\05.ProgrammingFundamentalsFinalExam\01.ActivationKeys\obj\Debug\netcoreapp3.1\01.ActivationKeys.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\05.ProgrammingFundamentalsFinalExam\01.ActivationKeys\obj\Debug\netcoreapp3.1\01.ActivationKeys.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\05.ProgrammingFundamentalsFinalExam\01.ActivationKeys\obj\Debug\netcoreapp3.1\01.ActivationKeys.genruntimeconfig.cache
