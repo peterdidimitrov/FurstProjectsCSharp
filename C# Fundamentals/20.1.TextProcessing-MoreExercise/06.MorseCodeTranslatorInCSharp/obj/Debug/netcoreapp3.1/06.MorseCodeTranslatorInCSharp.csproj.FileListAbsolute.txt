@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\06.MorseCodeTranslatorInCSharp\obj\Debug\netcoreapp3.1\06.MorseCodeTranslatorInCSharp.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\06.MorseCodeTranslatorInCSharp\obj\Debug\netcoreapp3.1\06.MorseCodeTranslatorInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\06.MorseCodeTranslatorInCSharp\obj\Debug\netcoreapp3.1\06.MorseCodeTranslatorInCSharp.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\06.MorseCodeTranslatorInCSharp\obj\Debug\netcoreapp3.1\06.MorseCodeTranslatorInCSharp.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\06.MorseCodeTranslatorInCSharp\obj\Debug\netcoreapp3.1\06.MorseCodeTranslatorInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\06.MorseCodeTranslatorInCSharp\bin\Debug\netcoreapp3.1\06.MorseCodeTranslatorInCSharp.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\06.MorseCodeTranslatorInCSharp\bin\Debug\netcoreapp3.1\06.MorseCodeTranslatorInCSharp.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\06.MorseCodeTranslatorInCSharp\bin\Debug\netcoreapp3.1\06.MorseCodeTranslatorInCSharp.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\06.MorseCodeTranslatorInCSharp\bin\Debug\netcoreapp3.1\06.MorseCodeTranslatorInCSharp.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\06.MorseCodeTranslatorInCSharp\bin\Debug\netcoreapp3.1\06.MorseCodeTranslatorInCSharp.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\06.MorseCodeTranslatorInCSharp\bin\Debug\netcoreapp3.1\06.MorseCodeTranslatorInCSharp.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\06.MorseCodeTranslatorInCSharp\obj\Debug\netcoreapp3.1\06.MorseCodeTranslatorInCSharp.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\06.MorseCodeTranslatorInCSharp\obj\Debug\netcoreapp3.1\06.MorseCodeTranslatorInCSharp.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\06.MorseCodeTranslatorInCSharp\obj\Debug\netcoreapp3.1\06.MorseCodeTranslatorInCSharp.genruntimeconfig.cache

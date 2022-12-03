@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\03.TreasureFinder\bin\Debug\netcoreapp3.1\03.TreasureFinder.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\03.TreasureFinder\bin\Debug\netcoreapp3.1\03.TreasureFinder.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\03.TreasureFinder\bin\Debug\netcoreapp3.1\03.TreasureFinder.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\03.TreasureFinder\bin\Debug\netcoreapp3.1\03.TreasureFinder.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\03.TreasureFinder\bin\Debug\netcoreapp3.1\03.TreasureFinder.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\03.TreasureFinder\bin\Debug\netcoreapp3.1\03.TreasureFinder.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\03.TreasureFinder\obj\Debug\netcoreapp3.1\03.TreasureFinder.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\03.TreasureFinder\obj\Debug\netcoreapp3.1\03.TreasureFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\03.TreasureFinder\obj\Debug\netcoreapp3.1\03.TreasureFinder.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\03.TreasureFinder\obj\Debug\netcoreapp3.1\03.TreasureFinder.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\03.TreasureFinder\obj\Debug\netcoreapp3.1\03.TreasureFinder.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\03.TreasureFinder\obj\Debug\netcoreapp3.1\03.TreasureFinder.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\03.TreasureFinder\obj\Debug\netcoreapp3.1\03.TreasureFinder.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\03.TreasureFinder\obj\Debug\netcoreapp3.1\03.TreasureFinder.genruntimeconfig.cache

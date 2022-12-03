@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\01.ExtractPersonInformation\bin\Debug\netcoreapp3.1\01.ExtractPersonInformation.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\01.ExtractPersonInformation\bin\Debug\netcoreapp3.1\01.ExtractPersonInformation.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\01.ExtractPersonInformation\bin\Debug\netcoreapp3.1\01.ExtractPersonInformation.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\01.ExtractPersonInformation\bin\Debug\netcoreapp3.1\01.ExtractPersonInformation.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\01.ExtractPersonInformation\bin\Debug\netcoreapp3.1\01.ExtractPersonInformation.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\01.ExtractPersonInformation\bin\Debug\netcoreapp3.1\01.ExtractPersonInformation.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\01.ExtractPersonInformation\obj\Debug\netcoreapp3.1\01.ExtractPersonInformation.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\01.ExtractPersonInformation\obj\Debug\netcoreapp3.1\01.ExtractPersonInformation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\01.ExtractPersonInformation\obj\Debug\netcoreapp3.1\01.ExtractPersonInformation.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\01.ExtractPersonInformation\obj\Debug\netcoreapp3.1\01.ExtractPersonInformation.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\01.ExtractPersonInformation\obj\Debug\netcoreapp3.1\01.ExtractPersonInformation.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\01.ExtractPersonInformation\obj\Debug\netcoreapp3.1\01.ExtractPersonInformation.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\01.ExtractPersonInformation\obj\Debug\netcoreapp3.1\01.ExtractPersonInformation.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\01.ExtractPersonInformation\obj\Debug\netcoreapp3.1\01.ExtractPersonInformation.genruntimeconfig.cache

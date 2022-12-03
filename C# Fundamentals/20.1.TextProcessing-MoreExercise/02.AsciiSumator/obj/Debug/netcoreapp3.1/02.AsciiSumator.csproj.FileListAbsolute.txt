@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\02.AsciiSumator\bin\Debug\netcoreapp3.1\02.AsciiSumator.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\02.AsciiSumator\bin\Debug\netcoreapp3.1\02.AsciiSumator.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\02.AsciiSumator\bin\Debug\netcoreapp3.1\02.AsciiSumator.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\02.AsciiSumator\bin\Debug\netcoreapp3.1\02.AsciiSumator.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\02.AsciiSumator\bin\Debug\netcoreapp3.1\02.AsciiSumator.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\02.AsciiSumator\bin\Debug\netcoreapp3.1\02.AsciiSumator.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\02.AsciiSumator\obj\Debug\netcoreapp3.1\02.AsciiSumator.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\02.AsciiSumator\obj\Debug\netcoreapp3.1\02.AsciiSumator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\02.AsciiSumator\obj\Debug\netcoreapp3.1\02.AsciiSumator.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\02.AsciiSumator\obj\Debug\netcoreapp3.1\02.AsciiSumator.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\02.AsciiSumator\obj\Debug\netcoreapp3.1\02.AsciiSumator.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\02.AsciiSumator\obj\Debug\netcoreapp3.1\02.AsciiSumator.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\02.AsciiSumator\obj\Debug\netcoreapp3.1\02.AsciiSumator.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\02.AsciiSumator\obj\Debug\netcoreapp3.1\02.AsciiSumator.genruntimeconfig.cache

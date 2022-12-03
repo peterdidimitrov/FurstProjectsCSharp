@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\05.HTML\bin\Debug\netcoreapp3.1\05.HTML.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\05.HTML\bin\Debug\netcoreapp3.1\05.HTML.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\05.HTML\bin\Debug\netcoreapp3.1\05.HTML.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\05.HTML\bin\Debug\netcoreapp3.1\05.HTML.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\05.HTML\bin\Debug\netcoreapp3.1\05.HTML.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\05.HTML\bin\Debug\netcoreapp3.1\05.HTML.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\05.HTML\obj\Debug\netcoreapp3.1\05.HTML.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\05.HTML\obj\Debug\netcoreapp3.1\05.HTML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\05.HTML\obj\Debug\netcoreapp3.1\05.HTML.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\05.HTML\obj\Debug\netcoreapp3.1\05.HTML.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\05.HTML\obj\Debug\netcoreapp3.1\05.HTML.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\05.HTML\obj\Debug\netcoreapp3.1\05.HTML.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\05.HTML\obj\Debug\netcoreapp3.1\05.HTML.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\20.1.TextProcessing-MoreExercise\05.HTML\obj\Debug\netcoreapp3.1\05.HTML.genruntimeconfig.cache
