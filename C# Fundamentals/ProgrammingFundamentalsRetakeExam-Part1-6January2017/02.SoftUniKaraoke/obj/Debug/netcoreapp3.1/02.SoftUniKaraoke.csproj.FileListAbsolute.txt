@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\ProgrammingFundamentalsRetakeExam-Part1-6January2017\02.SoftUniKaraoke\bin\Debug\netcoreapp3.1\02.SoftUniKaraoke.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\ProgrammingFundamentalsRetakeExam-Part1-6January2017\02.SoftUniKaraoke\bin\Debug\netcoreapp3.1\02.SoftUniKaraoke.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\ProgrammingFundamentalsRetakeExam-Part1-6January2017\02.SoftUniKaraoke\bin\Debug\netcoreapp3.1\02.SoftUniKaraoke.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\ProgrammingFundamentalsRetakeExam-Part1-6January2017\02.SoftUniKaraoke\bin\Debug\netcoreapp3.1\02.SoftUniKaraoke.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\ProgrammingFundamentalsRetakeExam-Part1-6January2017\02.SoftUniKaraoke\bin\Debug\netcoreapp3.1\02.SoftUniKaraoke.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\ProgrammingFundamentalsRetakeExam-Part1-6January2017\02.SoftUniKaraoke\bin\Debug\netcoreapp3.1\02.SoftUniKaraoke.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\ProgrammingFundamentalsRetakeExam-Part1-6January2017\02.SoftUniKaraoke\obj\Debug\netcoreapp3.1\02.SoftUniKaraoke.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\ProgrammingFundamentalsRetakeExam-Part1-6January2017\02.SoftUniKaraoke\obj\Debug\netcoreapp3.1\02.SoftUniKaraoke.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\ProgrammingFundamentalsRetakeExam-Part1-6January2017\02.SoftUniKaraoke\obj\Debug\netcoreapp3.1\02.SoftUniKaraoke.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\ProgrammingFundamentalsRetakeExam-Part1-6January2017\02.SoftUniKaraoke\obj\Debug\netcoreapp3.1\02.SoftUniKaraoke.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\ProgrammingFundamentalsRetakeExam-Part1-6January2017\02.SoftUniKaraoke\obj\Debug\netcoreapp3.1\02.SoftUniKaraoke.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\ProgrammingFundamentalsRetakeExam-Part1-6January2017\02.SoftUniKaraoke\obj\Debug\netcoreapp3.1\02.SoftUniKaraoke.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\ProgrammingFundamentalsRetakeExam-Part1-6January2017\02.SoftUniKaraoke\obj\Debug\netcoreapp3.1\02.SoftUniKaraoke.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\ProgrammingFundamentalsRetakeExam-Part1-6January2017\02.SoftUniKaraoke\obj\Debug\netcoreapp3.1\02.SoftUniKaraoke.genruntimeconfig.cache

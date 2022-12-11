@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\ProgrammingFundamentaAdditionalRetakeExam-10January2019PartI\02.SantasGifts\bin\Debug\netcoreapp3.1\02.SantasGifts.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\ProgrammingFundamentaAdditionalRetakeExam-10January2019PartI\02.SantasGifts\bin\Debug\netcoreapp3.1\02.SantasGifts.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\ProgrammingFundamentaAdditionalRetakeExam-10January2019PartI\02.SantasGifts\bin\Debug\netcoreapp3.1\02.SantasGifts.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\ProgrammingFundamentaAdditionalRetakeExam-10January2019PartI\02.SantasGifts\bin\Debug\netcoreapp3.1\02.SantasGifts.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\ProgrammingFundamentaAdditionalRetakeExam-10January2019PartI\02.SantasGifts\bin\Debug\netcoreapp3.1\02.SantasGifts.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\ProgrammingFundamentaAdditionalRetakeExam-10January2019PartI\02.SantasGifts\bin\Debug\netcoreapp3.1\02.SantasGifts.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\ProgrammingFundamentaAdditionalRetakeExam-10January2019PartI\02.SantasGifts\obj\Debug\netcoreapp3.1\02.SantasGifts.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\ProgrammingFundamentaAdditionalRetakeExam-10January2019PartI\02.SantasGifts\obj\Debug\netcoreapp3.1\02.SantasGifts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\ProgrammingFundamentaAdditionalRetakeExam-10January2019PartI\02.SantasGifts\obj\Debug\netcoreapp3.1\02.SantasGifts.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\ProgrammingFundamentaAdditionalRetakeExam-10January2019PartI\02.SantasGifts\obj\Debug\netcoreapp3.1\02.SantasGifts.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\ProgrammingFundamentaAdditionalRetakeExam-10January2019PartI\02.SantasGifts\obj\Debug\netcoreapp3.1\02.SantasGifts.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\ProgrammingFundamentaAdditionalRetakeExam-10January2019PartI\02.SantasGifts\obj\Debug\netcoreapp3.1\02.SantasGifts.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\ProgrammingFundamentaAdditionalRetakeExam-10January2019PartI\02.SantasGifts\obj\Debug\netcoreapp3.1\02.SantasGifts.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\ProgrammingFundamentaAdditionalRetakeExam-10January2019PartI\02.SantasGifts\obj\Debug\netcoreapp3.1\02.SantasGifts.genruntimeconfig.cache
