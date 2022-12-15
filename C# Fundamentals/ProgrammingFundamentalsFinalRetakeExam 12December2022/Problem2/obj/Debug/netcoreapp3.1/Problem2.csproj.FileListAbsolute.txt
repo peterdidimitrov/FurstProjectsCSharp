@@ -1,0 +1,14 @@
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\ProgrammingFundamentalsFinalRetakeExam 12December2022\Problem2\bin\Debug\netcoreapp3.1\Problem2.exe
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\ProgrammingFundamentalsFinalRetakeExam 12December2022\Problem2\bin\Debug\netcoreapp3.1\Problem2.deps.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\ProgrammingFundamentalsFinalRetakeExam 12December2022\Problem2\bin\Debug\netcoreapp3.1\Problem2.runtimeconfig.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\ProgrammingFundamentalsFinalRetakeExam 12December2022\Problem2\bin\Debug\netcoreapp3.1\Problem2.runtimeconfig.dev.json
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\ProgrammingFundamentalsFinalRetakeExam 12December2022\Problem2\bin\Debug\netcoreapp3.1\Problem2.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\ProgrammingFundamentalsFinalRetakeExam 12December2022\Problem2\bin\Debug\netcoreapp3.1\Problem2.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\ProgrammingFundamentalsFinalRetakeExam 12December2022\Problem2\obj\Debug\netcoreapp3.1\Problem2.csproj.AssemblyReference.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\ProgrammingFundamentalsFinalRetakeExam 12December2022\Problem2\obj\Debug\netcoreapp3.1\Problem2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\ProgrammingFundamentalsFinalRetakeExam 12December2022\Problem2\obj\Debug\netcoreapp3.1\Problem2.AssemblyInfoInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\ProgrammingFundamentalsFinalRetakeExam 12December2022\Problem2\obj\Debug\netcoreapp3.1\Problem2.AssemblyInfo.cs
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\ProgrammingFundamentalsFinalRetakeExam 12December2022\Problem2\obj\Debug\netcoreapp3.1\Problem2.csproj.CoreCompileInputs.cache
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\ProgrammingFundamentalsFinalRetakeExam 12December2022\Problem2\obj\Debug\netcoreapp3.1\Problem2.dll
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\ProgrammingFundamentalsFinalRetakeExam 12December2022\Problem2\obj\Debug\netcoreapp3.1\Problem2.pdb
+C:\Users\fuji\Desktop\FurstProjectsC#\C# Fundamentals\ProgrammingFundamentalsFinalRetakeExam 12December2022\Problem2\obj\Debug\netcoreapp3.1\Problem2.genruntimeconfig.cache
