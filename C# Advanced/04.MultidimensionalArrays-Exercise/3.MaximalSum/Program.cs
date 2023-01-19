@@ -49,7 +49,6 @@ namespace _3.MaximalSum
             }
             return maxSum;
         }
-
         private static void ReadingMatrix(int[,] matrix)
         {
             for (int row = 0; row < matrix.GetLength(0); row++)
