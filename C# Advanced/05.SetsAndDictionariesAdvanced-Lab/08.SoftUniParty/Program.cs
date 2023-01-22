@@ -9,7 +9,6 @@
         {
             var regular = new HashSet<string>();
             var vip = new HashSet<string>();
-            var allGuests = new HashSet<string>();
             var peopleWhoCame = new HashSet<string>();
 
             string command;
@@ -18,12 +17,10 @@
                 if (Char.IsDigit(command[0]))
                 {
                     vip.Add(command);
-                    allGuests.Add(command);
                 }
                 else
                 {
                     regular.Add(command);
-                    allGuests.Add(command);
                 }
             }
             command = String.Empty;
@@ -33,9 +30,19 @@
             }
             var peopleWhoNotCame = new List<string>();
 
-            peopleWhoNotCame.Add(vip.ExceptWith(peopleWhoCame).ToString().ToList());
+            vip.ExceptWith(peopleWhoCame);
+            regular.ExceptWith(peopleWhoCame);
 
             foreach (var people in vip)
+            {
+                peopleWhoNotCame.Add(people);
+            }
+            foreach (var people in regular)
+            {
+                peopleWhoNotCame.Add(people);
+            }
+            Console.WriteLine(peopleWhoNotCame.Count);
+            foreach (var people in peopleWhoNotCame)
             {
                 Console.WriteLine(people);
             }
