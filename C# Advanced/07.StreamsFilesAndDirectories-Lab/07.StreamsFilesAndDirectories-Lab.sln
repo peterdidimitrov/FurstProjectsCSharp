@@ -3,19 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OddLines", "OddLines\OddLines.csproj", "{6D628A70-4DC3-48F2-90DF-7F4B41D9AA49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.OddLines", "OddLines\01.OddLines.csproj", "{6D628A70-4DC3-48F2-90DF-7F4B41D9AA49}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LineNumbers", "LineNumbers\LineNumbers.csproj", "{878265D4-5435-4920-8410-2D5A2E092565}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.LineNumbers", "LineNumbers\02.LineNumbers.csproj", "{878265D4-5435-4920-8410-2D5A2E092565}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WordCount", "WordCount\WordCount.csproj", "{C6A1C048-8848-4600-9966-352A2C97E688}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.WordCount", "WordCount\03.WordCount.csproj", "{C6A1C048-8848-4600-9966-352A2C97E688}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeTextFiles", "MergeTextFiles\MergeTextFiles.csproj", "{FCB58318-EBA1-4ECA-BA18-CB63C7AB7E01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.MergeTextFiles", "MergeTextFiles\04.MergeTextFiles.csproj", "{FCB58318-EBA1-4ECA-BA18-CB63C7AB7E01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtractSpecialBytes", "ExtractSpecialBytes\ExtractSpecialBytes.csproj", "{DE8CDCC0-AE43-4161-A428-6EEA40AC67AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.ExtractSpecialBytes", "ExtractSpecialBytes\05.ExtractSpecialBytes.csproj", "{DE8CDCC0-AE43-4161-A428-6EEA40AC67AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplitMergeBinaryFiles", "SplitMergeBinaryFiles\SplitMergeBinaryFiles.csproj", "{0CB96B51-CAE1-4E64-A6B6-3E46681C75A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.SplitMergeBinaryFiles", "SplitMergeBinaryFiles\06.SplitMergeBinaryFiles.csproj", "{0CB96B51-CAE1-4E64-A6B6-3E46681C75A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FolderSize", "FolderSize\FolderSize.csproj", "{1CC1A15F-4466-4CA9-9D65-E0759F7A9C97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.FolderSize", "FolderSize\07.FolderSize.csproj", "{1CC1A15F-4466-4CA9-9D65-E0759F7A9C97}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
