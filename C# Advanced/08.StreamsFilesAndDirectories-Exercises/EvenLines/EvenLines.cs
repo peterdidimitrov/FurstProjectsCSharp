@@ -17,7 +17,7 @@
         {
             StringBuilder outputText = new StringBuilder();
 
-            StreamReader text = new StreamReader(inputFilePath);
+            using StreamReader text = new StreamReader(inputFilePath);
 
             char[] symbols = { '-', ',', '.', '!', '?' };
 

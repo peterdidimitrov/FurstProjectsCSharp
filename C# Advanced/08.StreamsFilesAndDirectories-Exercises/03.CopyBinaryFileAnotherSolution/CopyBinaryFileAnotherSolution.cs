@@ -15,7 +15,16 @@
 
         public static void CopyFile(string inputFilePath, string outputFilePath)
         {
-            File.Copy(inputFilePath, outputFilePath, true);
+            using FileStream reader = new FileStream(inputFilePath, FileMode.Open);
+            using FileStream writer = new FileStream(outputFilePath, FileMode.Create);
+
+            byte[] buffer = new byte[4096];
+            int size = 0;
+
+            while ((size = reader.Read(buffer, 0, buffer.Length)) != 0)
+            {
+                writer.Write(buffer, 0, size);
+            }
         }
     }
 }
