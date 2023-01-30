@@ -4,32 +4,40 @@
     {
         static void Main(string[] args)
         {
-            int endOfRange = int.Parse(Console.ReadLine());
+            List<Predicate<int>> predicates = new();
 
-            double[] numbers = Console.ReadLine().Split()
-                .Select(double.Parse).ToArray();
+            int endRange = int.Parse(Console.ReadLine());
 
-            Predicate<int> isDivisible = n => n % numbers[n] == 0;
+            HashSet<int> dividers = Console.ReadLine()
+                .Split(" ", StringSplitOptions.RemoveEmptyEntries)
+                .Select(int.Parse)
+                .ToHashSet();
 
-            List<double> divisibleNumbers = new List<double>();
-            
-            for (int i = 1; i <= endOfRange; i++)
+            int[] numbers = Enumerable.Range(1, endRange).ToArray();
+
+            foreach (var divider in dividers)
             {
-                List<double> current = new List<double>();
+                predicates.Add(p => p % divider == 0);
+            }
 
-                for (int j = 0; j < numbers.Length; j++)
+            foreach (var number in numbers)
+            {
+                bool isDivisible = true; // predicates.All(match => match(number));
+
+                foreach (var match in predicates)
                 {
-                    if (i % numbers[j] == 0)
+                    if (!match(number))
                     {
-                        current.Add(numbers[j]);
+                        isDivisible = false;
+                        break;
                     }
                 }
-                if (current.Count == numbers.Length)
+
+                if (isDivisible)
                 {
-                    divisibleNumbers.Add(i);
+                    Console.Write($"{number} ");
                 }
             }
-            Console.WriteLine(String.Join(" ", divisibleNumbers));
         }
     }
 }

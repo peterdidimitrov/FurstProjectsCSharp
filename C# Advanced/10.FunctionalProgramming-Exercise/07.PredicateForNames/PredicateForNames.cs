@@ -5,20 +5,25 @@
         static void Main(string[] args)
         {
 
-            int n = int.Parse(Console.ReadLine());
-
-            string[] names = Console.ReadLine().Split();
-
-            List<string> listOfNames = new List<string>();
-
-            for (int i = 0; i < names.Length; i++)
+            Action<string[], Predicate<string>> printNames = (names, match) =>
             {
-                if (names[i].Length <= n)
+                foreach (var name in names)
                 {
-                    listOfNames.Add(names[i]);
+                    if (match(name))
+                    {
+                        Console.WriteLine(name);
+                    }
                 }
-            }
-            Console.WriteLine(string.Join(Environment.NewLine, listOfNames));
+            };
+
+            int length = int.Parse(Console.ReadLine());
+
+            //Predicate<string> match = name =>
+            //    name.Length <= length;
+
+            string[] names = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries);
+
+            printNames(names, n => n.Length <= length);
         }
     }
 }
