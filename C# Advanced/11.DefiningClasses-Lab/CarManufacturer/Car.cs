@@ -1,4 +1,7 @@
-﻿using System.Text;
+﻿using System;
+using System.Collections.Generic;
+using System.Runtime.InteropServices;
+using System.Text;
 
 namespace CarManufacturer
 {
@@ -11,7 +14,7 @@ namespace CarManufacturer
         private double fuelQuantity;
         private double fuelConsumption;
         private Engine engine;
-        private Tire[] tires;
+        private List<Tire> tires;
 
         //constructors
         public Car()
@@ -33,7 +36,7 @@ namespace CarManufacturer
             FuelQuantity = fuelQuantity;
             FuelConsumption = fuelConsumption;
         }
-        public Car(string make, string model, int year, double fuelQuantity, double fuelConsumption, Engine engine, Tire[] tires) : this(make, model, year, fuelQuantity, fuelConsumption)
+        public Car(string make, string model, int year, double fuelQuantity, double fuelConsumption, Engine engine, List<Tire> tires) : this(make, model, year, fuelQuantity, fuelConsumption)
         {
             this.Engine = engine;
             this.Tires = tires;
@@ -47,7 +50,7 @@ namespace CarManufacturer
         public double FuelQuantity { get { return fuelQuantity; } set { fuelQuantity = value; } }
         public double FuelConsumption { get { return fuelConsumption; } set { fuelConsumption = value; } }
         public Engine Engine { get { return engine; } set { engine = value; } }
-        public Tire[] Tires { get { return tires; } set { tires = value; } }
+        public List<Tire> Tires { get { return tires; } set { tires = value; } }
 
         //methods
         public void Drive(double distance)
@@ -65,6 +68,8 @@ namespace CarManufacturer
         public string WhoAmI()
         {
             StringBuilder stringBuilder = new StringBuilder();
+
+
             stringBuilder.AppendLine($"Make: {this.Make}");
             stringBuilder.AppendLine($"Model: {this.Model}");
             stringBuilder.AppendLine($"Year: {this.Year}");

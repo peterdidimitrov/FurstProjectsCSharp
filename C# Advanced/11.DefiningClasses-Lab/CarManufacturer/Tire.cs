@@ -1,6 +1,4 @@
-﻿using System.Text;
-
-namespace CarManufacturer
+﻿namespace CarManufacturer
 {
     public class Tire
     {
