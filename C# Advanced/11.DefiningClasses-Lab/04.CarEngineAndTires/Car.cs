@@ -69,13 +69,6 @@ namespace CarManufacturer
             stringBuilder.AppendLine($"Model: {this.Model}");
             stringBuilder.AppendLine($"Year: {this.Year}");
             stringBuilder.AppendLine($"Fuel: {this.FuelQuantity:F2}");
-            stringBuilder.AppendLine($"Engine: {Environment.NewLine}{this.Engine.ShowEngine()}");
-            stringBuilder.AppendLine($"Tires:");
-            for (int i = 0; i < 4; i++)
-            {
-                stringBuilder.AppendLine($"-> Year: {this.Tires[i].Year}");
-                stringBuilder.AppendLine($"-> Pressure: {this.Tires[i].Pressure}");
-            }
             return stringBuilder.ToString();
         }
     }
