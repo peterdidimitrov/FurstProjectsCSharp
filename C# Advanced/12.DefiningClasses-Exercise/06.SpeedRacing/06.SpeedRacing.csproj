@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -9,6 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\04.OpinionPoll\04.OpinionPoll.csproj" />
     <ProjectReference Include="..\05.DateModifier\05.DateModifier.csproj" />
   </ItemGroup>
 

@@ -47,7 +47,6 @@
             {
                 string[] carInfo = Console.ReadLine()
                     .Split(" ", StringSplitOptions.RemoveEmptyEntries);
-                //"{model} {engine} {weight} {color}"
 
                 engine = engineList.Find(x => x.Model == carInfo[1]);
 
@@ -77,25 +76,6 @@
                 }
             }
 
-            //foreach (var car in carList)
-            //{
-            //    if (engine.Efficiency == null)
-            //    {
-            //        Console.WriteLine($"{engine.Model} {engine.Power} {engine.Displacement} n/a");
-            //    }
-            //    else if (engine.Displacement == 0)
-            //    {
-            //        Console.WriteLine($"{engine.Model} {engine.Power} n/a {engine.Efficiency}");
-            //    }
-            //    else if (engine.Efficiency == null && engine.Displacement == 0)
-            //    {
-            //        Console.WriteLine($"{engine.Model} {engine.Power} n/a n/a");
-            //    }
-            //    else
-            //    {
-            //        Console.WriteLine($"{engine.Model} {engine.Power} {engine.Displacement} {engine.Efficiency}");
-            //    }
-            //}
             foreach (var car in carList)
             {
                 Console.WriteLine(car.ToString());
