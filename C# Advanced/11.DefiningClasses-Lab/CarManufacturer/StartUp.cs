@@ -1,42 +1,93 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 
-namespace CarManufacturer
+namespace Special_Cars
 {
-    public class StartUp
+    class Program
     {
-        static void Main()
+        static void Main(string[] args)
         {
-            string line = string.Empty;
+            List<List<double>> listTiresYears = new List<List<double>>();
+            List<List<double>> listTiresPressures = new List<List<double>>();
+            List<int> listHorsePowers = new List<int>();
+            List<double> listCubicCapacity = new List<double>();
 
-            List<Tire> tires = new List<Tire>();
+            List<Car> listCars = new List<Car>();
 
-            while ((line = Console.ReadLine()) != "No more tires")
+
+            string input = Console.ReadLine();
+
+            Tires tires = new Tires();
+            Engine engine = new Engine();
+
+            while (input != "No more tires")
             {
-                double[] tiresArg = line
-                .Split().Select(double.Parse).ToArray();
+                string[] splitted = input.Split();
 
-                for (int i = 0; i < tiresArg.Length; i += 2)
+                List<double> listYears = tires.GetYearInfo(splitted);
+                List<double> listPressures = tires.GetPressureInfo(splitted);
+
+                listTiresYears.Add(listYears);
+                listTiresPressures.Add(listPressures);
+
+                input = Console.ReadLine();
+            }
+
+            string secondInput = Console.ReadLine();
+
+            while (secondInput != "Engines done")
+            {
+                string[] splitted = secondInput.Split();
+
+                listHorsePowers.Add(engine.GetHorsePower(splitted));
+                listCubicCapacity.Add(engine.GetCubicCapacity(splitted));
+
+                secondInput = Console.ReadLine();
+            }
+
+            string thirdInput = Console.ReadLine();
+
+            while (thirdInput != "Show special")
+            {
+                string[] splitted = thirdInput.Split();
+                string make = splitted[0];
+                string model = splitted[1];
+                int year = int.Parse(splitted[2]);
+                double fuelQuantity = double.Parse(splitted[3]);
+                double fuelConsumption = double.Parse(splitted[4]);
+                int engineIndex = int.Parse(splitted[5]);
+                int tiresIndex = int.Parse(splitted[6]);
+
+                int horsePower = listHorsePowers[engineIndex];
+                double pressure = tires.GetSumPressure(listTiresPressures, tiresIndex);
+
+                Car car = new Car(make, model, year, horsePower, fuelQuantity, fuelConsumption,
+                    engineIndex, tiresIndex, pressure);
+
+                listCars.Add(car);
+
+
+                thirdInput = Console.ReadLine();
+            }
+
+            foreach (var car in listCars)
+            {
+                if (car.Year >= 2017 && car.HorsePower > 330
+                    && car.TotalPressure > 9 && car.TotalPressure < 10)
                 {
-                    int year = (int)tiresArg[i];
-                    double pressure = tiresArg[i + 1];
-                    var tire = new Tire(year, pressure);
-                    tires.Add(tire);
+                    car.FuelQuantity = car.Drive20Kilometers(car.FuelQuantity, car.FuelConsumption);
+
+                    Console.WriteLine($"Make: {car.Make}");
+
+                    Console.WriteLine($"Model: {car.Model}");
+
+                    Console.WriteLine($"Year: {car.Year}");
+
+                    Console.WriteLine($"HorsePowers: {car.HorsePower}");
+
+                    Console.WriteLine($"FuelQuantity: {car.FuelQuantity}");
                 }
             }
-
-            var engine = new Engine(0, 0);
-            string lineEngine = string.Empty;
-            while ((lineEngine = Console.ReadLine()) != "Engines done")
-            {
-                double[] engineArg = lineEngine
-                .Split().Select(double.Parse).ToArray();
-                engine.HorsePower = (int)engineArg[0];
-                engine.CubicCapacity = engineArg[1];
-            }
-            var car = new Car("Lanmborgini", "Urus", 2010, 250, 9, engine, tires);
-            Console.WriteLine(car.WhoAmI());
         }
     }
 }

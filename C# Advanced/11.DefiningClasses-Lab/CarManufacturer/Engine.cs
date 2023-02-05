@@ -1,31 +1,28 @@
-﻿using System.Text;
+﻿using System;
+using System.Collections.Generic;
 
-namespace CarManufacturer
+namespace Special_Cars
 {
     public class Engine
     {
-        //fields
-        private int horsePower;
-        private double cubicCapacity;
+        public int HorsePower { get; set; }
 
-        //constructor
-        public Engine(int horsePower, double cubicCapacity)
+        public double CubicCapacity { get; set; }
+
+
+
+        public int GetHorsePower(string[] splitted)
         {
-            this.HorsePower = horsePower;
-            this.CubicCapacity = cubicCapacity;
+            int horsePower = int.Parse(splitted[0]);
+
+            return horsePower;
         }
-        
-        //propurties
-        public int HorsePower { get { return horsePower; } set { horsePower = value; } }
-        public double CubicCapacity { get { return cubicCapacity; } set { cubicCapacity = value; } }
 
-        //methods
-        public string ShowEngine()
+        public double GetCubicCapacity(string[] splitted)
         {
-            StringBuilder stringBuilder = new StringBuilder();
-            stringBuilder.AppendLine($"-> Horse power: {this.HorsePower}");
-            stringBuilder.AppendLine($"-> Cubic capacity: {this.CubicCapacity}");
-            return stringBuilder.ToString();
+            double cubicCapacity = double.Parse(splitted[1]);
+
+            return cubicCapacity;
         }
     }
 }
