@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.BoxOfT", "01.BoxOfT\01.BoxOfT.csproj", "{634F39F6-1E45-4993-AD7B-E746F792B9F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.BoxOfT", "01.BoxOfT\01.BoxOfT.csproj", "{634F39F6-1E45-4993-AD7B-E746F792B9F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.GenericArrayCreator", "02,GenericArrayCreator\02.GenericArrayCreator.csproj", "{FA443936-907A-45C8-AFBB-22F255CF3518}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.GenericScale", "03.GenericScale\03.GenericScale.csproj", "{0A55FCB1-065E-4AA8-93FE-07CE03E2CB09}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{634F39F6-1E45-4993-AD7B-E746F792B9F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{634F39F6-1E45-4993-AD7B-E746F792B9F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{634F39F6-1E45-4993-AD7B-E746F792B9F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA443936-907A-45C8-AFBB-22F255CF3518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA443936-907A-45C8-AFBB-22F255CF3518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA443936-907A-45C8-AFBB-22F255CF3518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA443936-907A-45C8-AFBB-22F255CF3518}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A55FCB1-065E-4AA8-93FE-07CE03E2CB09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A55FCB1-065E-4AA8-93FE-07CE03E2CB09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A55FCB1-065E-4AA8-93FE-07CE03E2CB09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A55FCB1-065E-4AA8-93FE-07CE03E2CB09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
