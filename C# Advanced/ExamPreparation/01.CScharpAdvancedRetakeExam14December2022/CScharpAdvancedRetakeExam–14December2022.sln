@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.ClimbThePeaks", "01.Clim
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.ClimbThePeaksAnotherSolution", "01.ClimbThePeaksAnotherSolution\01.ClimbThePeaksAnotherSolution.csproj", "{E73D0480-5A5C-499F-965F-963325EF77A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ShoeStore", "03.ShoeStore\03.ShoeStore.csproj", "{4209823F-B1A5-44A4-A989-F57EB321DC8F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.ShoeStore", "03.ShoeStore\03.ShoeStore.csproj", "{4209823F-B1A5-44A4-A989-F57EB321DC8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.NavyBattle", "02.NavyBattle\02.NavyBattle.csproj", "{94E3A686-9E49-4071-A7BC-55E584BF3FE6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{4209823F-B1A5-44A4-A989-F57EB321DC8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4209823F-B1A5-44A4-A989-F57EB321DC8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4209823F-B1A5-44A4-A989-F57EB321DC8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94E3A686-9E49-4071-A7BC-55E584BF3FE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94E3A686-9E49-4071-A7BC-55E584BF3FE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94E3A686-9E49-4071-A7BC-55E584BF3FE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94E3A686-9E49-4071-A7BC-55E584BF3FE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
