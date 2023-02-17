@@ -2,14 +2,16 @@
 {
     public class Program
     {
-        private static int minerRow;
-        private static int minerCol;
-        private static char[,] field;
+        private static int playerRow;
+        private static int playerCol;
+        private static char[,] matrix;
 
         private static int countOfCoals = 0;
 
 
-        private static bool isGameOver = false;
+        private static bool isAlive = true;
+        private static bool isPlayerWin = false;
+        private static List<int> coordinatesOfBunnies = new List<int>();
         static void Main(string[] args)
         {
             string[] dementions = Console.ReadLine()
@@ -18,20 +20,151 @@
             int rows = int.Parse(dementions[0]);
             int cols = int.Parse(dementions[1]);
 
-            field = new char[rows, cols];
+            matrix = new char[rows, cols];
 
-            //reading lair - matrix
+            //read the matrix and finde the player
             for (int row = 0; row < rows; row++)
             {
                 string input = Console.ReadLine();
                 for (int col = 0; col < cols; col++)
                 {
-                    field[row, col] = input[col];
+                    matrix[row, col] = input[col];
+
+                    if (matrix[row, col] == 'P')
+                    {
+                        playerRow = row;
+                        playerCol = col;
+                    }
                 }
             }
 
-            PrintMatrix(field, e => Console.Write(e));
+            //read directions
+
+            string inputCommands = Console.ReadLine();
+
+            for (int i = 0; i < inputCommands.Length; i++)
+            {
+                //move the player
+                char command = inputCommands[i];
+
+                if (command == 'U')
+                {
+                    MovePlayer(-1, 0);
+                }
+                else if (command == 'D')
+                {
+                    MovePlayer(1, 0);
+                }
+                else if (command == 'L')
+                {
+                    MovePlayer(0, -1);
+                }
+                else if (command == 'R')
+                {
+                    MovePlayer(0, 1);
+                }
+
+                if (!isAlive)
+                {
+                    FindeAllBunnies();
+                    SpreadTheBunnies();
+                    break;
+                }
+                if (isPlayerWin)
+                {
+                    FindeAllBunnies();
+                    SpreadTheBunnies();
+                    break;
+                }
+
+                //spread the bunnies
+                ///1. finde all bunnies
+                FindeAllBunnies();
+
+                ///2. multiply the bunnies in every direction if in the matrix
+                SpreadTheBunnies();
+
+                if (!isAlive)
+                {
+                    FindeAllBunnies();
+                    SpreadTheBunnies();
+                    break;
+                }
+            }
+
+            PrintMatrix(matrix, e => Console.Write(e));
+
+            if (isAlive)
+            {
+                Console.WriteLine($"won: {playerRow} {playerCol}");
+            }
+            else
+            {
+                Console.WriteLine($"dead: {playerRow} {playerCol}");
+            }
         }
+
+        private static void FindeAllBunnies()
+        {
+            for (int row = 0; row < matrix.GetLength(0); row++)
+            {
+                for (int col = 0; col < matrix.GetLength(1); col++)
+                {
+                    if (matrix[row, col] == 'B')
+                    {
+                        coordinatesOfBunnies.Add(row);
+                        coordinatesOfBunnies.Add(col);
+                    }
+                }
+            }
+        }
+
+        private static void SpreadTheBunnies()
+        {
+            for (int i = 0; i < coordinatesOfBunnies.Count; i += 2)
+            {
+                int currentBunnysRow = coordinatesOfBunnies[i];
+                int currentBunnysCol = coordinatesOfBunnies[i + 1];
+
+                //spread up
+                if (IsInside(currentBunnysRow - 1, currentBunnysCol) && matrix[currentBunnysRow - 1, currentBunnysCol] != 'B')
+                {
+                    if (matrix[currentBunnysRow - 1, currentBunnysCol] == 'P')
+                    {
+                        isAlive = false;
+                    }
+                    matrix[currentBunnysRow - 1, currentBunnysCol] = 'B';
+                }
+                //spread down
+                if (IsInside(currentBunnysRow + 1, currentBunnysCol) && matrix[currentBunnysRow + 1, currentBunnysCol] != 'B')
+                {
+                    if (matrix[currentBunnysRow + 1, currentBunnysCol] == 'P')
+                    {
+                        isAlive = false;
+                    }
+                    matrix[currentBunnysRow + 1, currentBunnysCol] = 'B';
+                }
+                //spread left
+                if (IsInside(currentBunnysRow, currentBunnysCol - 1) && matrix[currentBunnysRow, currentBunnysCol - 1] != 'B')
+                {
+                    if (matrix[currentBunnysRow, currentBunnysCol - 1] == 'P')
+                    {
+                        isAlive = false;
+                    }
+                    matrix[currentBunnysRow, currentBunnysCol - 1] = 'B';
+                }
+                //spread right
+                if (IsInside(currentBunnysRow, currentBunnysCol + 1) && matrix[currentBunnysRow, currentBunnysCol + 1] != 'B')
+                {
+                    if (matrix[currentBunnysRow, currentBunnysCol + 1] == 'P')
+                    {
+                        isAlive = false;
+                    }
+                    matrix[currentBunnysRow, currentBunnysCol + 1] = 'B';
+                }
+            }
+        }
+
         static T[,] ReadMatrix<T>(Func<T[]> rowDataGetter, int rows, int cols)
         {
             T[,] matrix = new T[rows, cols];
@@ -47,36 +180,34 @@
 
             return matrix;
         }
-        private static void Move(int row, int col)
+        private static void MovePlayer(int row, int col)
         {
-            if (IsInside(minerRow + row, minerCol + col))
+            if (IsInside(playerRow + row, playerCol + col))
             {
-                if (field[minerRow + row, minerCol + col] == 'e')
+                if (matrix[playerRow + row, playerCol + col] == 'B')
                 {
-                    field[minerRow, minerCol] = '*';
-                    minerRow += row;
-                    minerCol += col;
-                    isGameOver = true;
+                    matrix[playerRow, playerCol] = '.';
+                    playerRow += row;
+                    playerCol += col;
+                    isAlive = false;
                 }
-                else if (field[minerRow + row, minerCol + col] == '*')
+                else if (matrix[playerRow + row, playerCol + col] == '.')
                 {
-                    field[minerRow, minerCol] = 'p';
-                    minerRow += row;
-                    minerCol += col;
-                    field[minerRow, minerCol] = 'p';
-                    countOfCoals++;
-                }
-                else if (field[minerRow + row, minerCol + col] == 'p')
-                {
-                    minerRow += row;
-                    minerCol += col;
+                    matrix[playerRow, playerCol] = '.';
+                    playerRow += row;
+                    playerCol += col;
+                    matrix[playerRow, playerCol] = 'P';
                 }
             }
-
+            else
+            {
+                isPlayerWin = true;
+                matrix[playerRow, playerCol] = '.';
+            }
         }
         private static bool IsInside(int row, int col)
         {
-            return row >= 0 && row < field.GetLength(0) && col >= 0 && col < field.GetLength(1);
+            return row >= 0 && row < matrix.GetLength(0) && col >= 0 && col < matrix.GetLength(1);
         }
         static void PrintMatrix<T>(T[,] matrix, Action<T> printer)
         {
