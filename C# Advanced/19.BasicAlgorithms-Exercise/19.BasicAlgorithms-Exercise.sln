@@ -9,7 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.RecursiveFactorial", "02
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.SumOfCoins", "03.SumOfCoins\03.SumOfCoins.csproj", "{6702C548-9C9E-42AE-9AC5-64B5209A1EFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.SetCover", "04.SetCover\04.SetCover.csproj", "{F9096C60-4547-4879-BC35-DB30ED106045}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.SetCover", "04.SetCover\04.SetCover.csproj", "{F9096C60-4547-4879-BC35-DB30ED106045}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.MergeSort", "05.MergeSort\05.MergeSort.csproj", "{3A737B9C-FB81-4F7E-A120-FD27F7309EE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.QuickSort", "06.QuickSort\06.QuickSort.csproj", "{9E81FFBC-35B2-4EF5-89A6-B747AC31E564}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{F9096C60-4547-4879-BC35-DB30ED106045}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9096C60-4547-4879-BC35-DB30ED106045}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9096C60-4547-4879-BC35-DB30ED106045}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A737B9C-FB81-4F7E-A120-FD27F7309EE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A737B9C-FB81-4F7E-A120-FD27F7309EE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A737B9C-FB81-4F7E-A120-FD27F7309EE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A737B9C-FB81-4F7E-A120-FD27F7309EE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E81FFBC-35B2-4EF5-89A6-B747AC31E564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E81FFBC-35B2-4EF5-89A6-B747AC31E564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E81FFBC-35B2-4EF5-89A6-B747AC31E564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E81FFBC-35B2-4EF5-89A6-B747AC31E564}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
