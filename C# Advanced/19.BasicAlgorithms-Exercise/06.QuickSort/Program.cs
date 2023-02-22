@@ -2,7 +2,7 @@
 {
     public class Quick
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             int[] input = Console.ReadLine()
                 .Split()
@@ -13,7 +13,7 @@
 
             Console.WriteLine(string.Join(" ", input));
         }
-        public static int[] SortArray(int[] array, int leftIndex, int rightIndex)
+        private static int[] SortArray(int[] array, int leftIndex, int rightIndex)
         {
             var i = leftIndex;
             var j = rightIndex;
