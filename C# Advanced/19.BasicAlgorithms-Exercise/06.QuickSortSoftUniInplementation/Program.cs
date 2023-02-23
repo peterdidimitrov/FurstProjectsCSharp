@@ -73,9 +73,9 @@
             array[left] = array[right];
             array[right] = temp;
         }
-        private static bool Less<T>(T t1, T t2) where T : IComparable<T>
+        private static bool Less<T>(T arrayOne, T arrayTwo) where T : IComparable<T>
         {
-            return t1.CompareTo(t2) < 0;
+            return arrayOne.CompareTo(arrayTwo) < 0;
         }
         private static void Shuffle<T>(T[] array) where T : IComparable<T>
         {
