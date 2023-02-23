@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.HierarchicalInheritance"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.RandomList", "04.RandomList\04.RandomList.csproj", "{DF29959E-17AA-4746-BD60-0FEE59BC99B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.StackOfStrings", "05.StackOfStrings\05.StackOfStrings.csproj", "{56EB4A32-A66C-4C67-850B-60FDFE84B869}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{DF29959E-17AA-4746-BD60-0FEE59BC99B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF29959E-17AA-4746-BD60-0FEE59BC99B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF29959E-17AA-4746-BD60-0FEE59BC99B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56EB4A32-A66C-4C67-850B-60FDFE84B869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56EB4A32-A66C-4C67-850B-60FDFE84B869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56EB4A32-A66C-4C67-850B-60FDFE84B869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56EB4A32-A66C-4C67-850B-60FDFE84B869}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

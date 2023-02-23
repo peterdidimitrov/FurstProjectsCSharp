@@ -8,13 +8,13 @@ namespace CustomRandomList
 {
     public class RandomList : List<string>
     {
-        public string RandomString(List<string> list)
+        public string RandomString()
         {
             Random random = new Random();
-            int index = random.Next(0, list.Count);
-            string str = list[index];
+            int index = random.Next(0, this.Count);
+            string str = this[index];
             
-            list.RemoveAt(index);
+            this.RemoveAt(index);
             
             return str;
         }

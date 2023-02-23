@@ -4,16 +4,13 @@
     {
         static void Main(string[] args)
         {
-            RandomList strings = new RandomList();
-            List<string> list = new List<string>()
-            {
-                "edno",
-                "dve",
-                "tri",
-                "chetiri"
-            };
+            RandomList list = new RandomList();
             list.Add("1");
-            Console.WriteLine(strings.RandomString(list));
+            list.Add("2");
+            list.Add("3");
+            list.Add("4");
+
+            Console.WriteLine(list.RandomString());
         }
     }
 }
