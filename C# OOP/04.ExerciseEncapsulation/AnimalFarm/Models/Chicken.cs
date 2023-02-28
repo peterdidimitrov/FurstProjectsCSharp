@@ -44,7 +44,7 @@ namespace AnimalFarm.Models
             {
                 if (value <= MinAge || value >= MaxAge)
                 {
-                    throw new ArgumentException($"Age should be between 0 and 15.");
+                    throw new ArgumentException($"Age should be between {MinAge} and {MaxAge}.");
                 }
                 this.age = value;
             }

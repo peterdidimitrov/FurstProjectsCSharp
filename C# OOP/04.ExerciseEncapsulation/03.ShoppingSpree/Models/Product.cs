@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShoppingSpree
+namespace ShoppingSpree.Models
 {
-    public class Product : Person
+    public class Product
     {
         private string name;
         private decimal cost;
@@ -38,15 +38,15 @@ namespace ShoppingSpree
         public decimal Cost
         {
             get { return cost; }
-            private set 
+            private set
             {
                 if (value < 0)
                 {
                     Console.WriteLine("Money cannot be negative");
                 }
-                cost = value; 
+                cost = value;
             }
         }
-
+        public override string ToString() => Name;
     }
 }

@@ -8,6 +8,7 @@ namespace ClassBoxData
 {
     public class Box
     {
+        private const string PropertyValueExceptionMessage = "{0} cannot be zero or negative.";
         private double length;
         private double width;
         private double height;
@@ -26,7 +27,7 @@ namespace ClassBoxData
             {
                 if (value <= 0)
                 {
-                    throw new ArgumentException($"Length cannot be zero or negative.");
+                    throw new ArgumentException(string.Format(PropertyValueExceptionMessage, nameof(Length)));
                 }
                 length = value;
             }
@@ -38,7 +39,7 @@ namespace ClassBoxData
             {
                 if (value <= 0)
                 {
-                    throw new ArgumentException($"Width cannot be zero or negative.");
+                    throw new ArgumentException(string.Format(PropertyValueExceptionMessage, nameof(Width)));
                 }
                 width = value; 
             }
@@ -50,7 +51,7 @@ namespace ClassBoxData
             {
                 if (value <= 0)
                 {
-                    throw new ArgumentException($"Height cannot be zero or negative.");
+                    throw new ArgumentException(string.Format(PropertyValueExceptionMessage, nameof(Height)));
                 }
                 height = value;
             }

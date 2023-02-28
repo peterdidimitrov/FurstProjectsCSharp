@@ -4,17 +4,19 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShoppingSpree
+namespace ShoppingSpree.Models
 {
     public class Person
     {
         private string name;
         private decimal money;
+        private List<Product> products;
 
         public Person(string name, decimal money)
         {
             Name = name;
             Money = money;
+            products = new List<Product>();
         }
 
         public string Name
@@ -32,13 +34,13 @@ namespace ShoppingSpree
         public decimal Money
         {
             get { return money; }
-            private set 
+            private set
             {
                 if (value < 0)
                 {
                     Console.WriteLine("Money cannot be negative");
                 }
-                money = value; 
+                money = value;
             }
         }
         public bool BuyProduct(Person person)
@@ -47,7 +49,15 @@ namespace ShoppingSpree
             {
 
             }
-            return 
+            return
+        }
+        public override string ToString()
+        {
+            string productsToString = products.Any()
+                ? string.Join(", ", products)
+                : "Nothing bought";
+
+            return $"{Name} - {productsToString}";
         }
     }
 }
