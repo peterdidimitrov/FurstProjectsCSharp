@@ -26,7 +26,7 @@ namespace ShoppingSpree.Models
             {
                 if (string.IsNullOrWhiteSpace(value))
                 {
-                    Console.WriteLine("Name cannot be empty");
+                    throw new ArgumentException(ExceptionMessages.NameExceptionMessage);
                 }
                 name = value;
             }
@@ -38,18 +38,10 @@ namespace ShoppingSpree.Models
             {
                 if (value < 0)
                 {
-                    Console.WriteLine("Money cannot be negative");
+                    throw new ArgumentException(ExceptionMessages.MoneyExeptionMessage);
                 }
                 money = value;
             }
-        }
-        public bool BuyProduct(Person person)
-        {
-            if (person.money)
-            {
-
-            }
-            return
         }
         public override string ToString()
         {
@@ -58,6 +50,16 @@ namespace ShoppingSpree.Models
                 : "Nothing bought";
 
             return $"{Name} - {productsToString}";
+        }
+        public string AddProduct(Product product)
+        {
+            if (Money >= product.Cost)
+            {
+                products.Add(product);
+                Money -= product.Cost;
+                return $"{Name} bought {product}";
+            }
+            return $"{Name} can't afford {product}";
         }
     }
 }

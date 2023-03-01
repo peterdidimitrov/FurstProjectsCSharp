@@ -24,15 +24,10 @@ namespace ShoppingSpree.Models
             {
                 if (string.IsNullOrWhiteSpace(value))
                 {
-                    Console.WriteLine("Name cannot be empty");
+                    throw new ArgumentException(ExceptionMessages.NameExceptionMessage);
                 }
                 name = value;
             }
-        }
-
-        public Product(string name)
-        {
-            Name = name;
         }
 
         public decimal Cost
@@ -42,7 +37,7 @@ namespace ShoppingSpree.Models
             {
                 if (value < 0)
                 {
-                    Console.WriteLine("Money cannot be negative");
+                    throw new ArgumentException(ExceptionMessages.MoneyExeptionMessage);
                 }
                 cost = value;
             }
