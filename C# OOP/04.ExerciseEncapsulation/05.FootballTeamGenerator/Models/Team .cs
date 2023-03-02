@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FootballTeamGenerator
+namespace FootballTeamGenerator.Models
 {
     public class Team
     {
