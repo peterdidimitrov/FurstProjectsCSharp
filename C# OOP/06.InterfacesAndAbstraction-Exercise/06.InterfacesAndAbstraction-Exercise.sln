@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.DefineAnInterfaceIPerson", "01.DefineAnInterfaceIPerson\01.DefineAnInterfaceIPerson.csproj", "{565E917D-9D43-4FBD-B560-C399C4EFA389}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.DefineAnInterfaceIPerson", "01.DefineAnInterfaceIPerson\01.DefineAnInterfaceIPerson.csproj", "{565E917D-9D43-4FBD-B560-C399C4EFA389}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.MultipleImplementation", "02.MultipleImplementation\02.MultipleImplementation.csproj", "{93CDC1B0-6400-422F-B50B-CCE410C6CCD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.MultipleImplementation", "02.MultipleImplementation\02.MultipleImplementation.csproj", "{93CDC1B0-6400-422F-B50B-CCE410C6CCD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Telephony", "03.Telephony\03.Telephony.csproj", "{FFDD2663-4EBB-4797-B809-AD16C0EF11AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Telephony", "03.Telephony\03.Telephony.csproj", "{FFDD2663-4EBB-4797-B809-AD16C0EF11AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.TelephonyAnotherSolution", "03.TelephonyAnotherSolution\03.TelephonyAnotherSolution.csproj", "{6D04930D-F99E-49A7-B4DB-71F85C957DAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.TelephonyAnotherSolution", "03.TelephonyAnotherSolution\03.TelephonyAnotherSolution.csproj", "{6D04930D-F99E-49A7-B4DB-71F85C957DAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.BorderControl", "04.BorderControl\04.BorderControl.csproj", "{8CB0E18B-3B8A-4592-85B6-892C9EDA8AD1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{6D04930D-F99E-49A7-B4DB-71F85C957DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D04930D-F99E-49A7-B4DB-71F85C957DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D04930D-F99E-49A7-B4DB-71F85C957DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CB0E18B-3B8A-4592-85B6-892C9EDA8AD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CB0E18B-3B8A-4592-85B6-892C9EDA8AD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CB0E18B-3B8A-4592-85B6-892C9EDA8AD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CB0E18B-3B8A-4592-85B6-892C9EDA8AD1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
