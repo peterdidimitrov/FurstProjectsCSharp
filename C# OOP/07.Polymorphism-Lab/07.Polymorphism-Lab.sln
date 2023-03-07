@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.MathOperations", "01.MathOperations\01.MathOperations.csproj", "{1659021F-39D9-47C8-BA28-CDBC23D19456}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Animals", "02.Animals\02.Animals.csproj", "{812D5A92-0DD4-4BB6-A017-8B306637B07A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1659021F-39D9-47C8-BA28-CDBC23D19456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1659021F-39D9-47C8-BA28-CDBC23D19456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1659021F-39D9-47C8-BA28-CDBC23D19456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1659021F-39D9-47C8-BA28-CDBC23D19456}.Release|Any CPU.Build.0 = Release|Any CPU
+		{812D5A92-0DD4-4BB6-A017-8B306637B07A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{812D5A92-0DD4-4BB6-A017-8B306637B07A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{812D5A92-0DD4-4BB6-A017-8B306637B07A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{812D5A92-0DD4-4BB6-A017-8B306637B07A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0814836E-4693-4DE9-A970-FA9929518435}
+	EndGlobalSection
+EndGlobal
