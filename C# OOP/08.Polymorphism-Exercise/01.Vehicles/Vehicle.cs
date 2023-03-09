@@ -24,5 +24,7 @@
         }
         public abstract string Drive(double distance);
         public abstract void Refuel(double refueledFuel);
+        public override string ToString()
+        => $"{this.GetType().Name}: {FuelQuantity:F2}";
     }
 }
