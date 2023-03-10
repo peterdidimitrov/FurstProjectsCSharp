@@ -2,7 +2,7 @@
 
 namespace WildFarm.Factories.Interfaces;
 
-public interface IHeroFactory
+public interface IAnimalFactory
 {
-    IAnimal Create(string name, string type);
+    IAnimal Create(string[] commandArguments);
 }

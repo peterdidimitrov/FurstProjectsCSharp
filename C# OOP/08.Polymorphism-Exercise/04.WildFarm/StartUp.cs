@@ -13,9 +13,10 @@ namespace WildFarm
         {
             IReader reader = new ConsoleReader();
             IWriter writer = new ConsoleWriter();
-            IAnimalFactory heroFactory = new AnimalFactory();
+            IAnimalFactory animalFactory = new AnimalFactory();
+            IFoodFactory foodFactory = new FoodFactory();
 
-            IEngine engine = new Engine(reader, writer, heroFactory);
+            IEngine engine = new Engine(reader, writer, animalFactory, foodFactory);
 
             engine.Run();
         }

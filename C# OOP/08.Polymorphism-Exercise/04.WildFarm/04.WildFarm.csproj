@@ -8,4 +8,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Models\Animals\Hen.cs~RF2666f49.TMP" />
+  </ItemGroup>
+
 </Project>

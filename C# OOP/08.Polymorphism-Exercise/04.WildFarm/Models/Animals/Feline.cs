@@ -1,12 +1,13 @@
 ﻿using WildFarm.Models.Interfaces;
 
-namespace WildFarm.Models
+namespace WildFarm.Models.Animals
 {
     public abstract class Feline : Animal, IFeline, IMammal
     {
-        protected Feline(string name, int weight, string livingRegion, string breed)
+        protected Feline(string name, double weight, string livingRegion, string breed)
             : base(name, weight)
         {
+            LivingRegion = livingRegion;
             Breed = breed;
         }
         public string LivingRegion { get; private set; }

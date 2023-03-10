@@ -3,11 +3,10 @@
     public interface IAnimal
     {
         string Name { get; }
-        int Weight { get; }
+        double Weight { get; }
         int FoodEaten { get; }
 
         string ProducingSound();
-        void Eat();
-        string ToString();
+        void Eat(IFood food);
     }
 }
