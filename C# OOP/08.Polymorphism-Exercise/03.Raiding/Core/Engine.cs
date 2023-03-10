@@ -48,7 +48,7 @@ public class Engine : IEngine
 
         foreach (var hero in heroes)
         {
-            Console.WriteLine(hero.CastAbility());
+            writer.WriteLine(hero.CastAbility());
         }
 
         int bossPower = int.Parse(reader.ReadLine());
