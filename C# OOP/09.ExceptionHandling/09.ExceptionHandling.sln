@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SquareRoot", "01.SquareRoot\01.SquareRoot.csproj", "{ECB370B5-966E-4C00-AA8A-D59E6F411EE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SquareRootSimpleSolution", "01.SquareRootSimpleSolution\01.SquareRootSimpleSolution.csproj", "{042AA249-680A-4818-AB15-B5F72A5B81FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECB370B5-966E-4C00-AA8A-D59E6F411EE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECB370B5-966E-4C00-AA8A-D59E6F411EE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECB370B5-966E-4C00-AA8A-D59E6F411EE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECB370B5-966E-4C00-AA8A-D59E6F411EE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{042AA249-680A-4818-AB15-B5F72A5B81FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{042AA249-680A-4818-AB15-B5F72A5B81FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{042AA249-680A-4818-AB15-B5F72A5B81FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{042AA249-680A-4818-AB15-B5F72A5B81FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76B641D2-B2B8-4950-BA7D-094D6346D854}
+	EndGlobalSection
+EndGlobal
