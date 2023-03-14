@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SquareRoot", "01.SquareR
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SquareRootSimpleSolution", "01.SquareRootSimpleSolution\01.SquareRootSimpleSolution.csproj", "{042AA249-680A-4818-AB15-B5F72A5B81FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.EnterNumbers", "02.EnterNumbers\02.EnterNumbers.csproj", "{B6F572EF-9E86-4408-BF4D-8230F160A740}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Cards", "03.Cards\03.Cards.csproj", "{F075F371-707F-4417-8272-A2DE3928AD31}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{042AA249-680A-4818-AB15-B5F72A5B81FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{042AA249-680A-4818-AB15-B5F72A5B81FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{042AA249-680A-4818-AB15-B5F72A5B81FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6F572EF-9E86-4408-BF4D-8230F160A740}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6F572EF-9E86-4408-BF4D-8230F160A740}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6F572EF-9E86-4408-BF4D-8230F160A740}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6F572EF-9E86-4408-BF4D-8230F160A740}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F075F371-707F-4417-8272-A2DE3928AD31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F075F371-707F-4417-8272-A2DE3928AD31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F075F371-707F-4417-8272-A2DE3928AD31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F075F371-707F-4417-8272-A2DE3928AD31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

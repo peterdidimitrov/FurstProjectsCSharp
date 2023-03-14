@@ -1,7 +1,7 @@
 ﻿using SquareRoots.Core.Interfaces;
 using SquareRoots.Factories.Interfaces;
 using SquareRoots.IO.Interfaces;
-using SquareRoots.Models.Interfaces;
+using SquareRoots.Models;
 
 namespace SquareRoots.Core
 {
@@ -11,14 +11,12 @@ namespace SquareRoots.Core
         private readonly IWriter writer;
         private readonly ISquqreRootFactory squareRootFactory;
 
-        private readonly ICollection<ISquareRoot> squareRoots;
         public Engine(IReader reader, IWriter writer, ISquqreRootFactory squareRootFactory)
         {
             this.reader = reader;
             this.writer = writer;
             this.squareRootFactory = squareRootFactory;
 
-            squareRoots = new List<ISquareRoot>();
         }
 
         public void Run()
@@ -27,11 +25,10 @@ namespace SquareRoots.Core
 
             try
             {
-                squareRootFactory.Create(number);
-                squareRoots.Add(squareRootFactory.Create(number));
+                var squareRoot = squareRootFactory.Create(number) as SquareRoot;
 
-                double result = squareRoots.First().GetSquareRoot();
-                writer.WriteLine(result.ToString());
+                writer.WriteLine(squareRoot.GetSquareRoot().ToString());
+
             }
             catch (Exception ex)
             {
