@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Spy spy = new Spy();
+            string result = spy.AnalyzeAccessModifiers("Stealer.Hacker");
+            Console.WriteLine(result);
         }
     }
 }
