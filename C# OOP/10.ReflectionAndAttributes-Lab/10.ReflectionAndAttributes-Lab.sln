@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.HighQualityMistakes", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.MissionPrivateImpossible", "03.MissionPrivateImpossible\03.MissionPrivateImpossible.csproj", "{6719CCDD-9EDE-4E14-AA20-0A4456D45729}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Collector", "04.Collector\04.Collector.csproj", "{57C6611E-3801-4A4C-AF2F-AF6FF8731DBE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{6719CCDD-9EDE-4E14-AA20-0A4456D45729}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6719CCDD-9EDE-4E14-AA20-0A4456D45729}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6719CCDD-9EDE-4E14-AA20-0A4456D45729}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57C6611E-3801-4A4C-AF2F-AF6FF8731DBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57C6611E-3801-4A4C-AF2F-AF6FF8731DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57C6611E-3801-4A4C-AF2F-AF6FF8731DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57C6611E-3801-4A4C-AF2F-AF6FF8731DBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
