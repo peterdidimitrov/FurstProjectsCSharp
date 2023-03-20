@@ -3,13 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Stealer", "01.Stealer\01.Stealer.csproj", "{E72FEA02-229B-4531-8786-241529B88249}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Stealer", "01.Stealer\01.Stealer.csproj", "{E72FEA02-229B-4531-8786-241529B88249}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.HighQualityMistakes", "02.HighQualityMistakes\02.HighQualityMistakes.csproj", "{00B0593F-9F63-464D-9D04-F509F2A9976F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.HighQualityMistakes", "02.HighQualityMistakes\02.HighQualityMistakes.csproj", "{00B0593F-9F63-464D-9D04-F509F2A9976F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.MissionPrivateImpossible", "03.MissionPrivateImpossible\03.MissionPrivateImpossible.csproj", "{6719CCDD-9EDE-4E14-AA20-0A4456D45729}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.MissionPrivateImpossible", "03.MissionPrivateImpossible\03.MissionPrivateImpossible.csproj", "{6719CCDD-9EDE-4E14-AA20-0A4456D45729}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Collector", "04.Collector\04.Collector.csproj", "{57C6611E-3801-4A4C-AF2F-AF6FF8731DBE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.Collector", "04.Collector\04.Collector.csproj", "{57C6611E-3801-4A4C-AF2F-AF6FF8731DBE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.CreateAttribute", "05.CreateAttribute\05.CreateAttribute.csproj", "{31E028B1-1D26-4A16-B796-940F86910706}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.CodeTracker", "06.CodeTracker\06.CodeTracker.csproj", "{19CCBE1E-FB1F-4C26-9580-807AAB0E16B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{57C6611E-3801-4A4C-AF2F-AF6FF8731DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57C6611E-3801-4A4C-AF2F-AF6FF8731DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57C6611E-3801-4A4C-AF2F-AF6FF8731DBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31E028B1-1D26-4A16-B796-940F86910706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31E028B1-1D26-4A16-B796-940F86910706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31E028B1-1D26-4A16-B796-940F86910706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31E028B1-1D26-4A16-B796-940F86910706}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19CCBE1E-FB1F-4C26-9580-807AAB0E16B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19CCBE1E-FB1F-4C26-9580-807AAB0E16B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19CCBE1E-FB1F-4C26-9580-807AAB0E16B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19CCBE1E-FB1F-4C26-9580-807AAB0E16B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
