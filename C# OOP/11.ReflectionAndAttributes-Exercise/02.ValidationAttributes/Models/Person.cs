@@ -1,7 +1,4 @@
-﻿
-
-using ValidationAttributes.Utilities;
-using ValidationAttributes.Utilities.Attributes;
+﻿using ValidationAttributes.Utilities.Attributes;
 
 namespace ValidationAttributes.Models
 {

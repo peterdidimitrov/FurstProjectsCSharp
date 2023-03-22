@@ -19,8 +19,8 @@ namespace ValidationAttributes.Utilities
                 object propValue = property.GetValue(obj);
                 foreach (CustomAttributeData customAttributeData in property.CustomAttributes)
                 {
-                    Type customAttrType
-                    = customAttributeData.AttributeType;
+                    Type customAttrType = customAttributeData.AttributeType;
+                    //create an instance of current custom attribute
                     object attributeInstance = property.GetCustomAttribute(customAttrType);
 
                     MethodInfo validationMethod = customAttrType.GetMethods()
