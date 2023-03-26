@@ -210,8 +210,6 @@ namespace PlanetWars.Tests
             [Test]
             public void Weapon_PriceCannotBeNagative()
             {
-
-
                 Assert.Throws<ArgumentException>(() => new Weapon("Weapon", -5, 8), "Price can not be negative.");
             }
         }
