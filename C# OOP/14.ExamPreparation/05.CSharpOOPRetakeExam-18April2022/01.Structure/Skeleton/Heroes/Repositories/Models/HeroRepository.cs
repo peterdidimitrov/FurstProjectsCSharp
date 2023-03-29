@@ -14,7 +14,7 @@ namespace Heroes.Repositories.Models
         {
             heroes = new List<IHero>();
         }
-        public IReadOnlyCollection<IHero> Models => this.heroes;
+        public IReadOnlyCollection<IHero> Models => this.heroes.AsReadOnly();
 
         public void Add(IHero model) => heroes.Add(model);
 

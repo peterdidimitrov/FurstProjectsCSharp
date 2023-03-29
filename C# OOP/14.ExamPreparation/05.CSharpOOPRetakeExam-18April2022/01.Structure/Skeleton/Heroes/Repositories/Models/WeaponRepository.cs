@@ -14,7 +14,7 @@ namespace Heroes.Repositories.Models
         {
             this.weapons  =  new List<IWeapon>();
         }
-        public IReadOnlyCollection<IWeapon> Models => this.weapons;
+        public IReadOnlyCollection<IWeapon> Models => this.weapons.AsReadOnly();
 
         public void Add(IWeapon model) => weapons.Add(model);
 
