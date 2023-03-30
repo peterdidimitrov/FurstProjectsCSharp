@@ -77,7 +77,7 @@ namespace Formula1.Core
             {
                 throw new InvalidOperationException(string.Format(ExceptionMessages.PilotDoesNotExistOrHasCarErrorMessage, pilotName));
             }
-            
+
             if (car == null)
             {
                 throw new NullReferenceException(string.Format(ExceptionMessages.CarDoesNotExistErrorMessage, car.GetType().Name));
@@ -108,11 +108,57 @@ namespace Formula1.Core
 
         public string StartRace(string raceName)
         {
-            throw new NotImplementedException();
+            var race = raceRepository.Models.FirstOrDefault(r => r.RaceName == raceName);
+
+            if (race == null)
+            {
+                throw new NullReferenceException(string.Format(ExceptionMessages.RaceDoesNotExistErrorMessage, raceName));
+            }
+            if (race.Pilots.Count < 3)
+            {
+                throw new InvalidOperationException(string.Format(ExceptionMessages.InvalidRaceParticipants, raceName));
+            }
+            if (race.TookPlace == true)
+            {
+                throw new InvalidOperationException(string.Format(ExceptionMessages.RaceTookPlaceErrorMessage, raceName));
+            }
+
+            var pilots = race.Pilots;
+            List<IPilot> pilotsFinalResult = new();
+            foreach (var pilot in pilots.OrderByDescending(c => c.Car.RaceScoreCalculator(race.NumberOfLaps)))
+            {
+                pilotsFinalResult.Add(pilot);
+            }
+            race.TookPlace = true;
+
+            List<string> orderedFinalist = new();
+
+            foreach (var pilot in pilotsFinalResult.Take(3))
+            {
+                orderedFinalist.Add(pilot.FullName);
+            }
+
+            StringBuilder sb = new StringBuilder();
+
+            sb.AppendLine($"Pilot {orderedFinalist[0]} wins the {raceName} race.");
+            sb.AppendLine($"Pilot {orderedFinalist[1]} is second in the {raceName} race.");
+            sb.AppendLine($"Pilot {orderedFinalist[2]} is third in the {raceName} race.");
+
+            return sb.ToString().TrimEnd();
         }
         public string RaceReport()
         {
-            throw new NotImplementedException();
+            StringBuilder sb = new StringBuilder();
+
+            foreach (var race in raceRepository.Models)
+            {
+                if (race.TookPlace == true)
+                {
+                    sb.AppendLine(race.RaceInfo());
+                }
+            }
+
+            return sb.ToString().TrimEnd();
         }
 
         public string PilotReport()

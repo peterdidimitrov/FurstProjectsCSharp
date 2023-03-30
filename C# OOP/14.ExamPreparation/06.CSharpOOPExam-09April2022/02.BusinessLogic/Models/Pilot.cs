@@ -12,10 +12,13 @@ namespace Formula1.Models
     {
         private string fullName;
         private IFormulaOneCar car;
+        private bool canRase;
 
         public Pilot(string fullName)
         {
             FullName = fullName;
+
+            CanRace = canRase;
         }
 
         public string FullName
@@ -34,8 +37,8 @@ namespace Formula1.Models
 
         public bool CanRace 
         { 
-            get => false; 
-            private set { value = false; }
+            get => this.canRase; 
+            set { this.canRase = value; }
         }
 
         public IFormulaOneCar Car

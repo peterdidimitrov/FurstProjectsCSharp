@@ -12,11 +12,14 @@ namespace Formula1.Models
     {
         private string raceName;
         private int numberOfLaps;
+        private bool tookPlace;
 
         public Race(string raceName, int numberOfLaps)
         {
             RaceName = raceName;
             NumberOfLaps = numberOfLaps;
+
+            TookPlace = tookPlace;
         }
         public string RaceName
         {
@@ -41,12 +44,12 @@ namespace Formula1.Models
                     throw new ArgumentException(ExceptionMessages.InvalidLapNumbers, this.numberOfLaps.ToString());
                 }
 
-                numberOfLaps = value; 
+                numberOfLaps = value;
             }
         }
         private List<IPilot> pilots = new List<IPilot>();
 
-        public bool TookPlace { get => false; set { value = false; } }
+        public bool TookPlace { get => tookPlace; set { tookPlace = value; } }
 
         public ICollection<IPilot> Pilots => pilots.AsReadOnly();
 
@@ -59,7 +62,14 @@ namespace Formula1.Models
             sb.AppendLine($"The {RaceName} race has:");
             sb.AppendLine($"Participants: {pilots.Count}");
             sb.AppendLine($"Number of laps: {NumberOfLaps}");
-            sb.AppendLine($"Took place: {TookPlace}");
+            if (TookPlace == false)
+            {
+                sb.AppendLine($"Took place: No");
+            }
+            else
+            {
+                sb.AppendLine($"Took place: Yes");
+            }
 
             return sb.ToString().TrimEnd();
         }
