@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FightingArena", "FightingArena.csproj", "{BA15EFE7-13AA-4B80-836F-48CE6A2ABE30}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FightingArena.Tests", "..\FightingArena.Tests\FightingArena.Tests.csproj", "{11546F5F-E8D4-4D1E-A5FD-C0CB5D4C9CC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA15EFE7-13AA-4B80-836F-48CE6A2ABE30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA15EFE7-13AA-4B80-836F-48CE6A2ABE30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA15EFE7-13AA-4B80-836F-48CE6A2ABE30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA15EFE7-13AA-4B80-836F-48CE6A2ABE30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11546F5F-E8D4-4D1E-A5FD-C0CB5D4C9CC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11546F5F-E8D4-4D1E-A5FD-C0CB5D4C9CC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11546F5F-E8D4-4D1E-A5FD-C0CB5D4C9CC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11546F5F-E8D4-4D1E-A5FD-C0CB5D4C9CC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE41A178-1336-4E0C-B5B6-E3E65DDFB25F}
+	EndGlobalSection
+EndGlobal

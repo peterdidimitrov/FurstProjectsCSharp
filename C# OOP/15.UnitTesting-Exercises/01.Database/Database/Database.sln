@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Database", "Database.csproj", "{A8FBE641-63AE-43AC-B021-C7262988B84E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Database.Tests", "..\Database.Tests\Database.Tests.csproj", "{BD015A6F-768F-49F6-A773-44AA8F30651B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8FBE641-63AE-43AC-B021-C7262988B84E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8FBE641-63AE-43AC-B021-C7262988B84E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8FBE641-63AE-43AC-B021-C7262988B84E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8FBE641-63AE-43AC-B021-C7262988B84E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD015A6F-768F-49F6-A773-44AA8F30651B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD015A6F-768F-49F6-A773-44AA8F30651B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD015A6F-768F-49F6-A773-44AA8F30651B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD015A6F-768F-49F6-A773-44AA8F30651B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0CB4959-338A-4262-B1BB-20178B72F24F}
+	EndGlobalSection
+EndGlobal

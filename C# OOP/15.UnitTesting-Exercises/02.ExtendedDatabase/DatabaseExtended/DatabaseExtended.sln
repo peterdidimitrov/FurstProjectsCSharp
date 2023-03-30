@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DatabaseExtended", "DatabaseExtended.csproj", "{4842D382-03F8-44DB-A488-8A1D25895645}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DatabaseExtended.Tests", "..\DatabaseExtended.Tests\DatabaseExtended.Tests.csproj", "{2B8CCC3C-65ED-4D18-8F53-83A6232DED91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4842D382-03F8-44DB-A488-8A1D25895645}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4842D382-03F8-44DB-A488-8A1D25895645}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4842D382-03F8-44DB-A488-8A1D25895645}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4842D382-03F8-44DB-A488-8A1D25895645}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B8CCC3C-65ED-4D18-8F53-83A6232DED91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B8CCC3C-65ED-4D18-8F53-83A6232DED91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B8CCC3C-65ED-4D18-8F53-83A6232DED91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B8CCC3C-65ED-4D18-8F53-83A6232DED91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13229765-5DBE-45CD-853E-ABB3B51A0B7C}
+	EndGlobalSection
+EndGlobal
