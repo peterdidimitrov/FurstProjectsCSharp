@@ -11,6 +11,7 @@ namespace Formula1.Models
     public class Pilot : IPilot
     {
         private string fullName;
+        private IFormulaOneCar car;
 
         public Pilot(string fullName)
         {
@@ -39,14 +40,14 @@ namespace Formula1.Models
 
         public IFormulaOneCar Car
         {
-            get { return this.Car; }
+            get { return this.car; }
             private set
             {
                 if (value == null)
                 {
                     throw new NullReferenceException(ExceptionMessages.InvalidCarForPilot);
                 }
-                Car = value;
+                car = value;
             }
         }
 
