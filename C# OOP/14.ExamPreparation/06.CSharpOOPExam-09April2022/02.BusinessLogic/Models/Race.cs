@@ -1,10 +1,8 @@
-﻿using Formula1.Models.Contracts;
-using Formula1.Utilities;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
+using Formula1.Models.Contracts;
 
 namespace Formula1.Models
 {
@@ -13,22 +11,27 @@ namespace Formula1.Models
         private string raceName;
         private int numberOfLaps;
         private bool tookPlace;
+        private readonly List<IPilot> pilots;
 
         public Race(string raceName, int numberOfLaps)
         {
             RaceName = raceName;
             NumberOfLaps = numberOfLaps;
-
-            TookPlace = tookPlace;
+            tookPlace = false;
+            pilots = new List<IPilot>();
         }
+
         public string RaceName
         {
-            get { return raceName; }
+            get
+            {
+                return raceName;
+            }
             private set
             {
-                if (string.IsNullOrEmpty(value))
+                if (string.IsNullOrWhiteSpace(value) || value.Length < 5)
                 {
-                    throw new ArgumentException(ExceptionMessages.InvalidRaceName, raceName);
+                    throw new ArgumentException($"Invalid race name: {value}.");
                 }
                 raceName = value;
             }
@@ -36,42 +39,56 @@ namespace Formula1.Models
 
         public int NumberOfLaps
         {
-            get { return numberOfLaps; }
+            get
+            {
+                return numberOfLaps;
+            }
             private set
             {
                 if (value < 1)
                 {
-                    throw new ArgumentException(ExceptionMessages.InvalidLapNumbers, this.numberOfLaps.ToString());
+                    throw new ArgumentException($"Invalid lap numbers: {value}.");
                 }
-
                 numberOfLaps = value;
             }
         }
-        private List<IPilot> pilots = new List<IPilot>();
 
-        public bool TookPlace { get => tookPlace; set { tookPlace = value; } }
+        public bool TookPlace
+        {
+            get
+            {
+                return tookPlace;
+            }
+            set
+            {
+                tookPlace = value;
+            }
+        }
 
-        public ICollection<IPilot> Pilots => pilots.AsReadOnly();
+        public ICollection<IPilot> Pilots
+        {
+            get
+            {
+                return pilots;
+            }
+        }
 
-        public void AddPilot(IPilot pilot) => pilots.Add(pilot);
+        public void AddPilot(IPilot pilot)
+        {
+            pilots.Add(pilot);
+        }
 
         public string RaceInfo()
         {
-            StringBuilder sb = new StringBuilder();
+            var builder = new StringBuilder();
 
-            sb.AppendLine($"The {RaceName} race has:");
-            sb.AppendLine($"Participants: {pilots.Count}");
-            sb.AppendLine($"Number of laps: {NumberOfLaps}");
-            if (TookPlace == false)
-            {
-                sb.AppendLine($"Took place: No");
-            }
-            else
-            {
-                sb.AppendLine($"Took place: Yes");
-            }
+            builder.AppendLine($"The {RaceName} race has:");
+            builder.AppendLine($"Participants: {Pilots.Count(x => x.CanRace == true)}");
+            builder.AppendLine($"Number of laps: {NumberOfLaps}");
+            var place = TookPlace == true ? "Yes" : "No";
+            builder.AppendLine($"TookPlace: {place}");
 
-            return sb.ToString().TrimEnd();
+            return builder.ToString().TrimEnd();
         }
     }
 }

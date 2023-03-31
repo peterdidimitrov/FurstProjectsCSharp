@@ -1,10 +1,5 @@
-﻿using Formula1.Models.Contracts;
-using Formula1.Utilities;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System;
+using Formula1.Models.Contracts;
 
 namespace Formula1.Models
 {
@@ -23,12 +18,15 @@ namespace Formula1.Models
 
         public string Model
         {
-            get { return model; }
+            get
+            {
+                return model;
+            }
             private set
             {
-                if (string.IsNullOrEmpty(value))
+                if (string.IsNullOrWhiteSpace(value) || value.Length < 3)
                 {
-                    throw new ArgumentException(ExceptionMessages.InvalidF1CarModel, this.model);
+                    throw new ArgumentException($"Invalid car model: {value}.");
                 }
                 model = value;
             }
@@ -36,12 +34,15 @@ namespace Formula1.Models
 
         public int Horsepower
         {
-            get { return horsepower; }
+            get
+            {
+                return horsepower;
+            }
             private set
             {
                 if (value < 900 || value > 1050)
                 {
-                    throw new ArgumentException(ExceptionMessages.InvalidF1HorsePower, horsepower.ToString());
+                    throw new ArgumentException($"Invalid car horsepower: {value}.");
                 }
                 horsepower = value;
             }
@@ -49,18 +50,23 @@ namespace Formula1.Models
 
         public double EngineDisplacement
         {
-            get { return engineDisplacement; }
+            get
+            {
+                return engineDisplacement;
+            }
             private set
             {
-                if (value < 1.6 || value > 2.00)
+                if (value < 1.6 || value > 2.0)
                 {
-                    throw new ArgumentException(ExceptionMessages.InvalidF1EngineDisplacement, engineDisplacement.ToString());
+                    throw new ArgumentException($"Invalid car engine displacement: {value}.");
                 }
                 engineDisplacement = value;
             }
         }
 
-        //engine displacement / horsepower * laps
-        public double RaceScoreCalculator(int laps) => EngineDisplacement / Horsepower * laps;
+        public double RaceScoreCalculator(int laps)
+        {
+            return EngineDisplacement / Horsepower * laps;
+        }
     }
 }
