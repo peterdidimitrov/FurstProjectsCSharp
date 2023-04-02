@@ -16,7 +16,7 @@ namespace Gym.Models.Gyms
         private List<IEquipment> equipments;
         private List<IAthlete> athletes;
 
-        protected Gym(string name, int capacity)
+        public Gym(string name, int capacity)
         {
             Name = name;
             Capacity = capacity;

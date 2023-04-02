@@ -14,7 +14,7 @@ namespace Gym.Repositories
         {
             models = new List<IEquipment>();
         }
-        public IReadOnlyCollection<IEquipment> Models => models;
+        public IReadOnlyCollection<IEquipment> Models => models.AsReadOnly();
 
         public void Add(IEquipment model) => models.Add(model);
 

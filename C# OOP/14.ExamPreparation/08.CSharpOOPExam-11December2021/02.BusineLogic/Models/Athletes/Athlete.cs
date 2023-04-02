@@ -73,7 +73,7 @@ namespace Gym.Models.Athletes
         }
 
         public abstract void Exercise();
-        public void IncreaseStamina(int amount)
+        protected void IncreaseStamina(int amount)
         {
             Stamina += amount;
             if (Stamina > 100)

@@ -10,7 +10,7 @@ namespace Gym.Models.Equipment
         private double weight;
         private decimal price;
 
-        protected Equipment(double weight, decimal price)
+        public Equipment(double weight, decimal price)
         {
             Weight = weight;
             Price = price;
