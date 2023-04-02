@@ -27,13 +27,17 @@ namespace NavalVessels.Models
             {
                 if (string.IsNullOrWhiteSpace(value))
                 {
-                    throw new ArgumentNullException(String.Format(ExceptionMessages.InvalidCaptainName));
+                    throw new ArgumentNullException(string.Format(ExceptionMessages.InvalidCaptainName));
                 }
                 fullName = value;
             }
         }
 
-        public int CombatExperience { get => combatExperience; private set { combatExperience = value; } }
+        public int CombatExperience 
+        { 
+            get => combatExperience; 
+            private set { combatExperience = value; } 
+        }
 
         public ICollection<IVessel> Vessels => vessels;
 

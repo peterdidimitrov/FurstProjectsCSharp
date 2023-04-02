@@ -33,7 +33,11 @@ namespace NavalVessels.Models
             }
         }
 
-        public int CombatExperience { get => combatExperience; private set { combatExperience = value; } }
+        public int CombatExperience 
+        { 
+            get => combatExperience; 
+            private set { combatExperience = value; } 
+        }
 
         public ICollection<IVessel> Vessels => vessels;
 

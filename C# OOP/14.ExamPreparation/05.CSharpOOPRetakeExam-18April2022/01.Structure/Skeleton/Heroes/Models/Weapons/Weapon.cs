@@ -31,7 +31,7 @@ namespace Heroes.Models.Weapons
         public int Durability 
         { 
             get => durability;
-            set
+            protected set
             {
                 if (value < 0)
                 {

@@ -33,7 +33,7 @@ namespace NavalVessels.Models
             {
                 if (string.IsNullOrWhiteSpace(value))
                 {
-                    throw new ArgumentException(string.Format(ExceptionMessages.InvalidVesselName));
+                    throw new ArgumentNullException(string.Format(ExceptionMessages.InvalidVesselName));
                 }
                 name = value;
             }
@@ -52,11 +52,29 @@ namespace NavalVessels.Models
             }
         }
 
-        public double ArmorThickness { get { return armorThickness; } set { armorThickness = value; } }
+        public double ArmorThickness 
+        { 
+            get 
+            { return armorThickness; } 
+            set 
+            { armorThickness = value; } 
+        }
 
-        public double MainWeaponCaliber { get { return mainWeaponCaliber; } private set { mainWeaponCaliber = value; } }
+        public double MainWeaponCaliber 
+        { 
+            get 
+            { return mainWeaponCaliber; } 
+            protected set 
+            { mainWeaponCaliber = value; } 
+        }
 
-        public double Speed { get { return speed; } private set { speed = value; } }
+        public double Speed 
+        {
+            get 
+            { return speed; } 
+            protected set 
+            { speed = value; }
+        }
 
         public ICollection<string> Targets => targets;
 
@@ -76,16 +94,16 @@ namespace NavalVessels.Models
 
         public abstract void RepairVessel();
 
-        public void DecreaseMainWeaponCaliberAndInceaseSpeed(double bonus, double penalty)
-        {
-            MainWeaponCaliber -= bonus;
-            Speed += penalty;
-        }
-        public void InceaseMainWeaponCaliberDecreaseSpeed(double bonus, double penalty)
-        {
-            MainWeaponCaliber += bonus;
-            Speed -= penalty;
-        }
+        //public void DecreaseMainWeaponCaliberAndInceaseSpeed(double bonus, double penalty)
+        //{
+        //    MainWeaponCaliber -= bonus;
+        //    Speed += penalty;
+        //}
+        //public void InceaseMainWeaponCaliberDecreaseSpeed(double bonus, double penalty)
+        //{
+        //    MainWeaponCaliber += bonus;
+        //    Speed -= penalty;
+        //}
 
         public override string ToString()
         {

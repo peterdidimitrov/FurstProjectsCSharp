@@ -53,7 +53,7 @@ namespace NavalVessels.Core
             }
             if (defendingVessel == null)
             {
-                return string.Format(OutputMessages.VesselNotFound, defendingVessel);
+                return string.Format(OutputMessages.VesselNotFound, defendingVesselName);
             }
             if (attackingVessel.ArmorThickness == 0 || defendingVessel.ArmorThickness == 0)
             {
@@ -132,7 +132,7 @@ namespace NavalVessels.Core
 
         public string ToggleSpecialMode(string vesselName)
         {
-            IVessel vessel = vesselRepository.FindByName(vesselName);
+            var vessel = vesselRepository.FindByName(vesselName);
             if (vessel.GetType().Name == "Battleship" && vesselRepository.Models.Any(v => v.Name == vesselName))
             {
                 var battleship = vessel as Battleship;

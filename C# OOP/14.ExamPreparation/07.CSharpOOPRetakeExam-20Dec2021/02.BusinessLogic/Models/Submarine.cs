@@ -9,12 +9,12 @@ namespace NavalVessels.Models
 {
     public class Submarine : Vessel, ISubmarine
     {
-        private const double InitialArmorThicknessSubmarine = 200;
+        private const double InitialSubmarineArmorThickness = 200;
         private const double SubmergeModeWeaponCaliberBonus = 40;
         private const double SubmergeModeSpeedPenalty = 4;
         private bool submarineMode;
         public Submarine(string name, double mainWeaponCaliber, double speed)
-            : base(name, mainWeaponCaliber, speed, InitialArmorThicknessSubmarine)
+            : base(name, mainWeaponCaliber, speed, InitialSubmarineArmorThickness)
         {
             submarineMode = false;
         }
@@ -33,9 +33,9 @@ namespace NavalVessels.Models
 
         public override void RepairVessel()
         {
-            if (ArmorThickness < InitialArmorThicknessSubmarine)
+            if (ArmorThickness < InitialSubmarineArmorThickness)
             {
-                ArmorThickness = InitialArmorThicknessSubmarine;
+                ArmorThickness = InitialSubmarineArmorThickness;
             }
         }
 
@@ -43,11 +43,13 @@ namespace NavalVessels.Models
         {
             if (SubmergeMode)
             {
-                DecreaseMainWeaponCaliberAndInceaseSpeed(SubmergeModeWeaponCaliberBonus, SubmergeModeSpeedPenalty);
+                MainWeaponCaliber -= SubmergeModeWeaponCaliberBonus;
+                Speed += SubmergeModeSpeedPenalty;
             }
             else
             {
-                InceaseMainWeaponCaliberDecreaseSpeed(SubmergeModeWeaponCaliberBonus, SubmergeModeSpeedPenalty);
+                MainWeaponCaliber += SubmergeModeWeaponCaliberBonus;
+                Speed -= SubmergeModeSpeedPenalty;
             }
 
             SubmergeMode = !SubmergeMode;

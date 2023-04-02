@@ -9,12 +9,12 @@ namespace NavalVessels.Models
 {
     public class Battleship : Vessel, IBattleship
     {
-        private const double InitialArmorThickness = 300;
+        private const double InitialBattleshipArmorThickness = 300;
         private const double SonarModeWeaponCaliberBonus = 40;
         private const double SonarModeSpeedPenalty = 5;
         private bool sonarMode;
         public Battleship(string name, double mainWeaponCaliber, double speed)
-            : base(name, mainWeaponCaliber, speed, InitialArmorThickness)
+            : base(name, mainWeaponCaliber, speed, InitialBattleshipArmorThickness)
         {
             sonarMode = false;
         }
@@ -33,9 +33,9 @@ namespace NavalVessels.Models
 
         public override void RepairVessel()
         {
-            if (ArmorThickness < InitialArmorThickness)
+            if (ArmorThickness < InitialBattleshipArmorThickness)
             {
-                ArmorThickness = InitialArmorThickness;
+                ArmorThickness = InitialBattleshipArmorThickness;
             }
         }
 
@@ -43,11 +43,13 @@ namespace NavalVessels.Models
         {
             if (SonarMode)
             {
-                DecreaseMainWeaponCaliberAndInceaseSpeed(SonarModeWeaponCaliberBonus, SonarModeSpeedPenalty);
+                MainWeaponCaliber -= SonarModeWeaponCaliberBonus;
+                Speed += SonarModeSpeedPenalty;
             }
             else
             {
-                InceaseMainWeaponCaliberDecreaseSpeed(SonarModeWeaponCaliberBonus, SonarModeSpeedPenalty);
+                MainWeaponCaliber += SonarModeWeaponCaliberBonus;
+                Speed -= SonarModeSpeedPenalty;
             }
 
             SonarMode = !SonarMode;
