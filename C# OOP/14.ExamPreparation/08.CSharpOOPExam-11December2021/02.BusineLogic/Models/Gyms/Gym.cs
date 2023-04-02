@@ -70,13 +70,26 @@ namespace Gym.Models.Gyms
 
             string[] typeOfGym = type.ToString().Split(".").TakeLast(1).ToArray();
 
-            StringBuilder sb = new StringBuilder();
+            List<string> names = new List<string>();
+
+            foreach (var athlete in athletes)
+            {
+                names.Add(athlete.FullName);
+            }
+
             var builder = new StringBuilder();
 
             builder.AppendLine($"{Name} is a {typeOfGym[0]}:");
-            builder.AppendLine($"Athletes: {string.Join(", ", athletes)}");
+            if (names.Count == 0)
+            {
+                builder.AppendLine("Athletes: No athletes");
+            }
+            else
+            {
+                builder.AppendLine($"Athletes: {string.Join(", ", names)}");
+            }
             builder.AppendLine($"Equipment total count: {equipments.Count}");
-            builder.AppendLine($"Equipment total weight: {EquipmentWeight} grams");
+            builder.AppendLine($"Equipment total weight: {EquipmentWeight:f2} grams");
 
             return builder.ToString().TrimEnd();
         }
