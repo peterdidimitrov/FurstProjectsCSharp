@@ -1,0 +1,23 @@
+Value cannot be null. (Parameter 'Captain full name cannot be null or empty string.')
+Index was outside the bounds of the array.
+Battleship USS_Colorado is manufactured with the main weapon caliber of 16 inches and a maximum speed of 21 knots.
+Input string was not in a correct format.
+Battleship vessel USS_Colorado is already manufactured.
+Captain Karl_Donitz is hired.
+Captain Chester_Nimitz could not be found.
+Captain Chester_Nimitz is hired.
+Vessel  could not be found.
+Value cannot be null. (Parameter 'Captain full name cannot be null or empty string.')
+Value cannot be null. (Parameter 'Captain full name cannot be null or empty string.')
+Captain Karl_Donitz is hired.
+Captain Karl_Donitz is already hired.
+Index was outside the bounds of the array.
+Value cannot be null. (Parameter 'Captain full name cannot be null or empty string.')
+Invalid vessel type.
+Index was outside the bounds of the array.
+Invalid vessel type.
+Input string was not in a correct format.
+Battleship null is manufactured with the main weapon caliber of 12 inches and a maximum speed of 12 knots.
+Battleship "" is manufactured with the main weapon caliber of 12 inches and a maximum speed of 12 knots.
+Battleship USS_Colorado is manufactured with the main weapon caliber of 16 inches and a maximum speed of 21 knots.
+Battleship vessel USS_Colorado is already manufactured.

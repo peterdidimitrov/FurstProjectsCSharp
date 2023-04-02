@@ -1,0 +1,12 @@
+Captain Chester_Nimitz is hired.
+Captain Harald_Lange is hired.
+Submarine USS_Colorado is manufactured with the main weapon caliber of 100 inches and a maximum speed of 21 knots.
+Battleship U-505 is manufactured with the main weapon caliber of 200 inches and a maximum speed of 18.2 knots.
+Captain Chester_Nimitz command vessel USS_Colorado.
+Captain Harald_Lange command vessel U-505.
+Vessel U-505 was attacked by vessel USS_Colorado - current armor thickness: 200.
+Vessel U-505 was repaired.
+Vessel USS_Colorado was attacked by vessel U-505 - current armor thickness: 0.
+Unarmored vessel USS_Colorado cannot attack or be attacked.
+Vessel USS_Colorado was repaired.
+Vessel USS_Colorado was attacked by vessel U-505 - current armor thickness: 0.
