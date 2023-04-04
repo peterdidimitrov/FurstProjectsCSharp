@@ -18,10 +18,13 @@ namespace SpaceStation.Core
     {
         private AstronautRepository astronauts;
         private PlanetRepository planets;
+        private readonly IMission missionRepo;
+        private int exploredPlanet;
         public Controller()
         {
             astronauts = new AstronautRepository();
             planets = new PlanetRepository();
+            missionRepo = new Mission();
         }
         public string AddAstronaut(string type, string astronautName)
         {
@@ -62,42 +65,43 @@ namespace SpaceStation.Core
 
         public string ExplorePlanet(string planetName)
         {
-            IMission mission = new Mission();
-
-            var planet = planets.FindByName(planetName);
             int deadAstrounauts = 0;
-            var IsThereOneAstronautSuitableForTheMission = astronauts.Models.Any(a => a.Oxygen > 60);
-            if (!IsThereOneAstronautSuitableForTheMission)
+
+            var astronautsForMission = astronauts.Models.Where(x => x.Oxygen > 60).ToList();
+
+            if(!astronautsForMission.Any())
             {
-                throw new InvalidOperationException(string.Format(ExceptionMessages.InvalidAstronautCount));
+                throw new InvalidOperationException("You need at least one astronaut to explore the planet!");
             }
-
-            List<IAstronaut> astronautsForTheMission = new List<IAstronaut>();
-
-            foreach (var astronaut in astronauts.Models)
+            else
             {
-                if (astronaut.Oxygen > 60)
+                var planet = planets.FindByName(planetName);
+                missionRepo.Explore(planet, astronautsForMission);
+                exploredPlanet++;
+
+                foreach (var astronaut in astronautsForMission)
                 {
-                    astronautsForTheMission.Add(astronaut);
+                    if (!astronaut.CanBreath)
+                    {
+                        deadAstrounauts++;
+                    }
                 }
             }
-
-            mission.Explore(planet, astronautsForTheMission);
-
-            foreach (var astronaut in astronauts.Models)
-            {
-                if (astronaut.Oxygen == 0)
-                {
-                    deadAstrounauts++;
-                }
-            }
-
             return string.Format(OutputMessages.PlanetExplored, planetName, deadAstrounauts);
         }
 
         public string Report()
         {
-            throw new NotImplementedException();
+            StringBuilder sb = new StringBuilder();
+
+            sb.AppendLine($"{exploredPlanet} planets were explored!");
+            sb.AppendLine($"Astronauts info:");
+
+            foreach (var astronaut in astronauts.Models)
+            {
+                sb.AppendLine(astronaut.ToString());
+            }
+            return sb.ToString().TrimEnd();
         }
 
         public string RetireAstronaut(string astronautName)

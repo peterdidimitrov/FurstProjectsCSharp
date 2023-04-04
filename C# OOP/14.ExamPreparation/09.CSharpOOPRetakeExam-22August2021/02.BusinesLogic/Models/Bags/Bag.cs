@@ -5,10 +5,10 @@ using System.Text;
 
 namespace SpaceStation.Models.Bags
 {
-    public class Backpack : IBag
+    public class Bag : IBag
     {
         private List<string> items;
-        public Backpack()
+        public Bag()
         {
             items = new List<string>();
         }

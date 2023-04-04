@@ -1,4 +1,5 @@
 ﻿using SpaceStation.Models.Astronauts.Contracts;
+using SpaceStation.Models.Bags;
 using SpaceStation.Models.Mission.Contracts;
 using SpaceStation.Models.Planets.Contracts;
 using System;
@@ -12,14 +13,19 @@ namespace SpaceStation.Models.Mission
     {
         public void Explore(IPlanet planet, ICollection<IAstronaut> astronauts)
         {
-            foreach (var astronaut in astronauts)
+            foreach (var astrounaut in astronauts)
             {
-                if (astronaut.Oxygen > 0)
+                while (astrounaut.CanBreath && planet.Items.Any())
                 {
-                    var item = planet.Items.First();
-                    astronaut.Bag.Items.Add(item);
-                    astronaut.Breath();
-                    planet.Items.Remove(planet.Items.Last());
+                    var item = planet.Items.FirstOrDefault();
+                    astrounaut.Bag.Items.Add(item);
+                    planet.Items.Remove(item);
+                    astrounaut.Breath();
+                }
+
+                if (!planet.Items.Any())
+                {
+                    break;
                 }
             }
         }
