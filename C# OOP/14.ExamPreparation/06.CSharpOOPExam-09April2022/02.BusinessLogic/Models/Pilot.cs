@@ -1,33 +1,28 @@
 ﻿using System;
 using Formula1.Models.Contracts;
+using Formula1.Utilities;
 
 namespace Formula1.Models
 {
     public class Pilot : IPilot
     {
         private string fullName;
-        private bool canRace;
+        private IFormulaOneCar car;
         private int numberOfWins;
-        IFormulaOneCar car;
+        private bool canRace;
 
         public Pilot(string fullName)
         {
-            FullName = fullName;
-            canRace = false;
-            NumberOfWins = 0;
+            this.FullName = fullName;
         }
-
         public string FullName
         {
-            get
-            {
-                return fullName;
-            }
+            get { return fullName; }
             private set
             {
                 if (string.IsNullOrWhiteSpace(value) || value.Length < 5)
                 {
-                    throw new ArgumentException($"Invalid pilot name: {value}.");
+                    throw new ArgumentException(string.Format(ExceptionMessages.InvalidPilot, value));
                 }
                 fullName = value;
             }
@@ -35,15 +30,12 @@ namespace Formula1.Models
 
         public IFormulaOneCar Car
         {
-            get
-            {
-                return car;
-            }
+            get { return car; }
             private set
             {
                 if (value == null)
                 {
-                    throw new NullReferenceException("Pilot car can not be null.");
+                    throw new NullReferenceException(ExceptionMessages.InvalidCarForPilot);
                 }
                 car = value;
             }
@@ -51,41 +43,27 @@ namespace Formula1.Models
 
         public int NumberOfWins
         {
-            get
-            {
-                return numberOfWins;
-            }
-            private set
-            {
-                numberOfWins = value;
-            }
+            get { return numberOfWins; }
+            private set { numberOfWins = value; }
         }
+
         public bool CanRace
         {
-            get
-            {
-                return canRace;
-            }
-            private set
-            {
-                canRace = value;
-            }
+            get { return canRace; }
+            private set { canRace = value; }
         }
 
         public void AddCar(IFormulaOneCar car)
         {
-            Car = car;
-            CanRace = true;
+            this.Car = car;
+            this.CanRace = true;
         }
 
-        public void WinRace()
-        {
-            NumberOfWins++;
-        }
+        public void WinRace() => this.NumberOfWins++;
 
         public override string ToString()
         {
-            return $"Pilot {FullName} has {NumberOfWins} wins.";
+            return $"Pilot {this.FullName} has {this.NumberOfWins} wins.";
         }
     }
 }

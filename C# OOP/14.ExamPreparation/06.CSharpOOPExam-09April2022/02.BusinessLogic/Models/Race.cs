@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using Formula1.Models.Contracts;
+using Formula1.Utilities;
 
 namespace Formula1.Models
 {
@@ -11,27 +12,22 @@ namespace Formula1.Models
         private string raceName;
         private int numberOfLaps;
         private bool tookPlace;
-        private readonly List<IPilot> pilots;
+        private List<IPilot> pilots = new List<IPilot>();
 
         public Race(string raceName, int numberOfLaps)
         {
-            RaceName = raceName;
-            NumberOfLaps = numberOfLaps;
-            tookPlace = false;
-            pilots = new List<IPilot>();
+            this.RaceName = raceName;
+            this.NumberOfLaps = numberOfLaps;
+            this.pilots = new List<IPilot>();
         }
-
         public string RaceName
         {
-            get
-            {
-                return raceName;
-            }
+            get { return raceName; }
             private set
             {
                 if (string.IsNullOrWhiteSpace(value) || value.Length < 5)
                 {
-                    throw new ArgumentException($"Invalid race name: {value}.");
+                    throw new ArgumentException(string.Format(ExceptionMessages.InvalidRaceName, value));
                 }
                 raceName = value;
             }
@@ -39,15 +35,12 @@ namespace Formula1.Models
 
         public int NumberOfLaps
         {
-            get
-            {
-                return numberOfLaps;
-            }
+            get { return numberOfLaps; }
             private set
             {
                 if (value < 1)
                 {
-                    throw new ArgumentException($"Invalid lap numbers: {value}.");
+                    throw new ArgumentException(string.Format(ExceptionMessages.InvalidLapNumbers, value));
                 }
                 numberOfLaps = value;
             }
@@ -55,40 +48,26 @@ namespace Formula1.Models
 
         public bool TookPlace
         {
-            get
-            {
-                return tookPlace;
-            }
-            set
-            {
-                tookPlace = value;
-            }
+            get { return tookPlace; }
+            set { tookPlace = value; }
         }
 
-        public ICollection<IPilot> Pilots
-        {
-            get
-            {
-                return pilots;
-            }
-        }
+        public ICollection<IPilot> Pilots => this.pilots;
 
-        public void AddPilot(IPilot pilot)
-        {
-            pilots.Add(pilot);
-        }
+        public void AddPilot(IPilot pilot) => this.pilots.Add(pilot);
 
         public string RaceInfo()
         {
-            var builder = new StringBuilder();
+            StringBuilder sb = new StringBuilder();
 
-            builder.AppendLine($"The {RaceName} race has:");
-            builder.AppendLine($"Participants: {Pilots.Count(x => x.CanRace == true)}");
-            builder.AppendLine($"Number of laps: {NumberOfLaps}");
-            var place = TookPlace == true ? "Yes" : "No";
-            builder.AppendLine($"TookPlace: {place}");
+            string tookPlaceAsString = TookPlace ? "Yes" : "No";
+            sb
+                .AppendLine($"The {this.RaceName} race has:")
+                .AppendLine($"Participants: {this.Pilots.Count}")
+                .AppendLine($"Number of laps: {this.NumberOfLaps}")
+                .AppendLine($"Took place: {tookPlaceAsString}");
 
-            return builder.ToString().TrimEnd();
+            return sb.ToString().Trim();
         }
     }
 }

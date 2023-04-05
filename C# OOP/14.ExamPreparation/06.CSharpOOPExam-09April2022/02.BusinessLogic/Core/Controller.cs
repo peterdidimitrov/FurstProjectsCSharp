@@ -1,10 +1,12 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using Formula1.Core.Contracts;
 using Formula1.Models;
 using Formula1.Models.Contracts;
 using Formula1.Repositories;
+using Formula1.Utilities;
 
 namespace Formula1.Core
 {
@@ -16,162 +18,154 @@ namespace Formula1.Core
 
         public Controller()
         {
-            pilotRepository = new PilotRepository();
-            raceRepository = new RaceRepository();
-            carRepository = new FormulaOneCarRepository();
+            this.pilotRepository = new PilotRepository();
+            this.raceRepository = new RaceRepository();
+            this.carRepository = new FormulaOneCarRepository();
         }
 
         public string AddCarToPilot(string pilotName, string carModel)
         {
             IPilot pilot = pilotRepository.FindByName(pilotName);
-            IFormulaOneCar car = carRepository.FindByName(carModel);
-
             if (pilot == null || pilot.Car != null)
             {
-                throw new InvalidOperationException($"Pilot {pilotName} does not exist or has a car.");
+                throw new InvalidOperationException(string.Format(ExceptionMessages.PilotDoesNotExistOrHasCarErrorMessage, pilotName));
             }
 
+            IFormulaOneCar car = carRepository.FindByName(carModel);
             if (car == null)
             {
-                throw new NullReferenceException($"Car {carModel} does not exist.");
+                throw new NullReferenceException(string.Format(ExceptionMessages.CarDoesNotExistErrorMessage, carModel));
             }
 
             pilot.AddCar(car);
-            carRepository.Remove(car);
-            return $"Pilot {pilotName} will drive a {car.GetType().Name} {carModel} car.";
+            return string.Format(OutputMessages.SuccessfullyPilotToCar, pilotName, car.GetType().Name, carModel);
         }
 
         public string AddPilotToRace(string raceName, string pilotFullName)
         {
-            IPilot pilot = pilotRepository.FindByName(pilotFullName);
             IRace race = raceRepository.FindByName(raceName);
-
             if (race == null)
             {
-                throw new NullReferenceException($"Race {raceName} does not exist.");
+                throw new NullReferenceException(string.Format(ExceptionMessages.RaceDoesNotExistErrorMessage, raceName));
             }
 
-            if (pilot == null || !pilot.CanRace || race.Pilots.Contains(pilot))
+            IPilot pilot = pilotRepository.FindByName(pilotFullName);
+            if (pilot == null || pilot.CanRace == false || race.Pilots.Contains(pilot))
             {
-                throw new InvalidOperationException($"Can not add pilot {pilotFullName} to the race.");
+                throw new InvalidOperationException(string.Format(ExceptionMessages.PilotDoesNotExistErrorMessage, pilotFullName));
             }
 
             race.AddPilot(pilot);
-            return $"Pilot {pilotFullName} is added to the {raceName} race.";
+            return string.Format(OutputMessages.SuccessfullyAddPilotToRace, pilotFullName, raceName);
         }
 
         public string CreateCar(string type, string model, int horsepower, double engineDisplacement)
         {
-            IFormulaOneCar car;
-
-            if (type == "Ferrari")
+            IFormulaOneCar car = carRepository.FindByName(model);
+            if (car != null)
             {
-                car = new Ferrari(model, horsepower, engineDisplacement);
-            }
-            else if (type == "Williams")
-            {
-                car = new Williams(model, horsepower, engineDisplacement);
-            }
-            else
-            {
-                throw new InvalidOperationException($"Formula one car type {type} is not valid.");
+                throw new InvalidOperationException(string.Format(ExceptionMessages.CarExistErrorMessage, model));
             }
 
-            if (carRepository.Models.Any(x => x.Model == model))
+            switch (type)
             {
-                throw new InvalidOperationException($"Formula one car {model} is already created.");
+                case nameof(Ferrari):
+                    car = new Ferrari(model, horsepower, engineDisplacement);
+                    break;
+                case nameof(Williams):
+                    car = new Williams(model, horsepower, engineDisplacement);
+                    break;
+                default:
+                    throw new InvalidOperationException(string.Format(ExceptionMessages.InvalidTypeCar, type));
             }
 
             carRepository.Add(car);
-            return $"Car {type}, model {model} is created.";
+            return string.Format(OutputMessages.SuccessfullyCreateCar, type, model);
         }
 
         public string CreatePilot(string fullName)
         {
-            var pilot = new Pilot(fullName);
-
-            if (pilotRepository.Models.Any(x => x.FullName == fullName))
+            IPilot pilot = pilotRepository.FindByName(fullName);
+            if (pilot != null)
             {
-                throw new InvalidOperationException($"Pilot {fullName} is already created.");
+                throw new InvalidOperationException(string.Format(ExceptionMessages.PilotExistErrorMessage, fullName));
             }
 
+            pilot = new Pilot(fullName);
             pilotRepository.Add(pilot);
-            return $"Pilot {fullName} is created.";
+            return string.Format(OutputMessages.SuccessfullyCreatePilot, fullName);
         }
 
         public string CreateRace(string raceName, int numberOfLaps)
         {
-            var race = new Race(raceName, numberOfLaps);
-
-            if (raceRepository.Models.Any(x => x.RaceName == raceName))
+            IRace race = raceRepository.FindByName(raceName);
+            if (race != null)
             {
-                throw new InvalidOperationException($"Race {raceName} is already created.");
+                throw new InvalidOperationException(string.Format(ExceptionMessages.RaceExistErrorMessage, raceName));
             }
 
+            race = new Race(raceName, numberOfLaps);
             raceRepository.Add(race);
-            return $"Race {raceName} is created.";
+            return string.Format(OutputMessages.SuccessfullyCreateRace, raceName);
         }
 
         public string PilotReport()
         {
-            var builder = new StringBuilder();
-            var pilots = pilotRepository.Models.OrderByDescending(x => x.NumberOfWins).ToList();
-
-            foreach (var pilot in pilots)
+            StringBuilder sb = new StringBuilder();
+            foreach (IPilot pilot in pilotRepository.Models.OrderByDescending(p => p.NumberOfWins))
             {
-                builder.AppendLine(pilot.ToString());
+                sb.AppendLine(pilot.ToString());
             }
 
-            return builder.ToString().TrimEnd();
+            return sb.ToString().TrimEnd();
         }
 
         public string RaceReport()
         {
-            var builder = new StringBuilder();
-
-            foreach (var race in raceRepository.Models.Where(x => x.TookPlace == true))
+            StringBuilder sb = new StringBuilder();
+            foreach (IRace race in raceRepository.Models.Where(r => r.TookPlace))
             {
-                builder.AppendLine(race.RaceInfo().TrimEnd());
+                sb.AppendLine(race.RaceInfo());
             }
 
-            return builder.ToString().TrimEnd();
+            return sb.ToString().TrimEnd();
         }
 
         public string StartRace(string raceName)
         {
-            var race = raceRepository.FindByName(raceName);
+            StringBuilder sb = new StringBuilder();
 
+            IRace race = raceRepository.FindByName(raceName);
             if (race == null)
             {
-                throw new InvalidOperationException($"Race {raceName} does not exist.");
+                throw new NullReferenceException(string.Format(ExceptionMessages.RaceDoesNotExistErrorMessage, raceName));
             }
 
             if (race.Pilots.Count < 3)
             {
-                throw new InvalidOperationException($"Race {raceName} cannot start with less than three participants.");
+                throw new InvalidOperationException(string.Format(ExceptionMessages.InvalidRaceParticipants, raceName));
             }
 
-            if (race.TookPlace == true)
+            if (race.TookPlace)
             {
-                throw new InvalidOperationException($"Can not execute race {raceName}.");
+                throw new InvalidOperationException(string.Format(ExceptionMessages.RaceTookPlaceErrorMessage, raceName));
             }
 
-            var topDrivers = race.Pilots.OrderByDescending(x => x.Car.RaceScoreCalculator(race.NumberOfLaps)).ToList();
+            List<IPilot> winners = race.Pilots.OrderByDescending(m => m.Car.RaceScoreCalculator(race.NumberOfLaps)).Take(3).ToList();
 
-            var first = topDrivers[0];
-            var second = topDrivers[1];
-            var third = topDrivers[2];
+            IPilot first = winners[0];
+            IPilot second = winners[1];
+            IPilot third = winners[2];
+
             first.WinRace();
 
+            sb
+                .AppendLine($"Pilot {first.FullName} wins the {raceName} race.")
+                .AppendLine($"Pilot {second.FullName} is second in the {raceName} race.")
+                .AppendLine($"Pilot {third.FullName} is third in the {raceName} race.");
+
             race.TookPlace = true;
-
-            var builder = new StringBuilder();
-
-            builder.AppendLine($"Pilot {first.FullName} wins the {race.RaceName} race.");
-            builder.AppendLine($"Pilot {second.FullName} is second in {race.RaceName} race.");
-            builder.AppendLine($"Pilot {third.FullName} is third in {race.RaceName} race.");
-
-            return builder.ToString().TrimEnd();
+            return sb.ToString().Trim();
         }
     }
 }
