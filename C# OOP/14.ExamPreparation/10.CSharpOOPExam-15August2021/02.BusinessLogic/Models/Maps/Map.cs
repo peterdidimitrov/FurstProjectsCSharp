@@ -11,37 +11,35 @@ namespace CarRacing.Models.Maps
     {
         public string StartRace(IRacer racerOne, IRacer racerTwo)
         {
-            IRacer winner;
-
             if (!racerOne.IsAvailable() && !racerTwo.IsAvailable())
             {
-                return string.Format(OutputMessages.RaceCannotBeCompleted);
+                return OutputMessages.RaceCannotBeCompleted;
             }
-            else if (!racerOne.IsAvailable() && racerTwo.IsAvailable())
+
+            if (!racerOne.IsAvailable())
             {
-                winner = racerTwo;
-                return string.Format(OutputMessages.OneRacerIsNotAvailable, winner, racerOne);
+                return string.Format(OutputMessages.OneRacerIsNotAvailable, racerTwo.Username, racerOne.Username);
             }
-            else if (racerOne.IsAvailable() && !racerTwo.IsAvailable())
+
+            if (!racerTwo.IsAvailable())
             {
-                winner = racerOne;
-                return string.Format(OutputMessages.OneRacerIsNotAvailable, winner, racerTwo);
+                return string.Format(OutputMessages.OneRacerIsNotAvailable, racerOne.Username, racerTwo.Username);
             }
 
             racerOne.Race();
             racerTwo.Race();
 
+            double r1Chances = CalculateChances(racerOne);
+            double r2Chances = CalculateChances(racerTwo);
 
-            if ((racerOne.Car.HorsePower * racerOne.DrivingExperience * BrehaviorMultiplier(racerOne)) > racerTwo.Car.HorsePower * racerTwo.DrivingExperience * BrehaviorMultiplier(racerTwo))
+            if (r1Chances > r2Chances)
             {
-                winner = racerOne;
+                return string.Format(OutputMessages.RacerWinsRace, racerOne.Username, racerTwo.Username, racerOne.Username);
             }
             else
             {
-                winner = racerTwo;
+                return string.Format(OutputMessages.RacerWinsRace, racerOne.Username, racerTwo.Username, racerTwo.Username);
             }
-
-            return string.Format(OutputMessages.RacerWinsRace, racerOne.Username, racerTwo.Username, winner.Username);
         }
         private double BrehaviorMultiplier(IRacer racer)
         {
@@ -56,5 +54,6 @@ namespace CarRacing.Models.Maps
             }
             return racerBrehaviorMultiplier;
         }
+        private double CalculateChances(IRacer racer) => racer.Car.HorsePower * racer.DrivingExperience * (racer.RacingBehavior == "strict" ? 1.2 : 1.1);
     }
 }
