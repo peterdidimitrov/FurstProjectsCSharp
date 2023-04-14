@@ -4,13 +4,8 @@ using System.Collections.Generic;
 
 namespace FootballTeam.Tests
 {
-    public class Tests
+    public class FootballTeamTests
     {
-        [SetUp]
-        public void Setup()
-        {
-        }
-
         [Test]
         public void CreateFootballTeam_ValidParameters()
         {
@@ -27,53 +22,57 @@ namespace FootballTeam.Tests
 
             Assert.That(expectedType, Is.EqualTo(t));
         }
+
         [Test]
-        public void CreateFootballTeam_InvalidName()
+        public void Name_SetToNull_ThrowsArgumentException()
         {
-            FootballTeam team;
-
-            Assert.Throws<ArgumentException>(() => team = new FootballTeam("", 15));
-        }
-        [Test]
-        public void CreateFootballTeam_InvalidCapacity()
-        {
-            FootballTeam team;
-
-            Assert.Throws<ArgumentException>(() => team = new FootballTeam("Barcelona", 14));
-        }
-        [Test]
-        public void AddNewPlayer_ValidParameters()
-        {
-            FootballPlayer player = new FootballPlayer("PlayerName", 8, "Forward");
-            FootballTeam team = new FootballTeam("Chocago Fire", 20);
-
-            var actualOutput = team.AddNewPlayer(player);
-            var expectedOutput = "Added player PlayerName in position Forward with number 8";
-
-            Assert.That(actualOutput, Is.EqualTo(expectedOutput));
+            Assert.Throws<ArgumentException>(() => new FootballTeam(null, 15));
         }
 
         [Test]
-        public void AddNewPlayer_CapacityFull()
+        public void Name_SetToEmptyString_ThrowsArgumentException()
         {
-            FootballPlayer player1 = new FootballPlayer("Player1Name", 1, "Goalkeeper");
-            FootballPlayer player2 = new FootballPlayer("Playe2rName", 2, "Goalkeeper");
-            FootballPlayer player3 = new FootballPlayer("Player3Name", 3, "Midfielder");
-            FootballPlayer player4 = new FootballPlayer("Player4Name", 4, "Midfielder");
-            FootballPlayer player5 = new FootballPlayer("Player5Name", 5, "Midfielder");
-            FootballPlayer player6 = new FootballPlayer("Player6Name", 6, "Midfielder");
-            FootballPlayer player7 = new FootballPlayer("Player7Name", 7, "Midfielder");
-            FootballPlayer player8 = new FootballPlayer("Player8Name", 8, "Midfielder");
-            FootballPlayer player9 = new FootballPlayer("Player9Name", 9, "Midfielder");
-            FootballPlayer player10 = new FootballPlayer("Player10Name", 10, "Midfielder");
-            FootballPlayer player11 = new FootballPlayer("Player11Name", 11, "Midfielder");
-            FootballPlayer player12 = new FootballPlayer("Player12Name", 12, "Forward");
-            FootballPlayer player13 = new FootballPlayer("Player13Name", 13, "Forward");
-            FootballPlayer player14 = new FootballPlayer("Player14Name", 14, "Forward");
-            FootballPlayer player15 = new FootballPlayer("Player15Name", 15, "Forward");
-            FootballPlayer player16 = new FootballPlayer("Player16Name", 16, "Forward");
-            FootballTeam team = new FootballTeam("Chocago Fire", 15);
+            Assert.Throws<ArgumentException>(() => new FootballTeam(string.Empty, 15));
+        }
 
+        [Test]
+        public void Capacity_SetToLessThan15_ThrowsArgumentException()
+        {
+            Assert.Throws<ArgumentException>(() => new FootballTeam("Team", 10));
+        }
+
+        [Test]
+        public void AddNewPlayer_AddsPlayerToTeam()
+        {
+            var team = new FootballTeam("Team", 15);
+            var player = new FootballPlayer("Player1", 1, "Midfielder");
+
+            var result = team.AddNewPlayer(player);
+
+            Assert.That(team.Players.Count, Is.EqualTo(1));
+            Assert.That(result, Is.EqualTo($"Added player {player.Name} in position {player.Position} with number {player.PlayerNumber}"));
+        }
+
+        [Test]
+        public void AddNewPlayer_TeamIsFull_ReturnsNoMorePositionsAvailable()
+        {
+            var team = new FootballTeam("Team", 15);
+            var player1 = new FootballPlayer("Player1", 1, "Midfielder");
+            var player2 = new FootballPlayer("Player2", 2, "Midfielder");
+            var player3 = new FootballPlayer("Player3", 2, "Midfielder");
+            var player4 = new FootballPlayer("Player4", 2, "Midfielder");
+            var player5 = new FootballPlayer("Player5", 2, "Midfielder");
+            var player6 = new FootballPlayer("Player6", 2, "Midfielder");
+            var player7 = new FootballPlayer("Player7", 2, "Midfielder");
+            var player8 = new FootballPlayer("Player8", 2, "Midfielder");
+            var player9 = new FootballPlayer("Player9", 2, "Midfielder");
+            var player10 = new FootballPlayer("Player10", 2, "Midfielder");
+            var player11 = new FootballPlayer("Player2", 2, "Midfielder");
+            var player12 = new FootballPlayer("Player2", 2, "Midfielder");
+            var player13 = new FootballPlayer("Player2", 2, "Midfielder");
+            var player14 = new FootballPlayer("Player2", 2, "Midfielder");
+            var player15 = new FootballPlayer("Player2", 2, "Midfielder");
+            var player16 = new FootballPlayer("Player2", 2, "Midfielder");
             team.AddNewPlayer(player1);
             team.AddNewPlayer(player2);
             team.AddNewPlayer(player3);
@@ -89,41 +88,49 @@ namespace FootballTeam.Tests
             team.AddNewPlayer(player13);
             team.AddNewPlayer(player14);
             team.AddNewPlayer(player15);
-            var actualResult = team.AddNewPlayer(player16);
 
-            var expectedResult = "No more positions available!";
+            var result = team.AddNewPlayer(player16);
 
-            Assert.That(expectedResult, Is.EqualTo(actualResult));
-        }
-        [Test]
-        public void PickPlayer_ValidParameters()
-        {
-            FootballPlayer player = new FootballPlayer("PlayerName", 8, "Forward");
-            FootballPlayer player2 = new FootballPlayer("PlayerName2", 8, "Forward");
-            FootballTeam team = new FootballTeam("Chocago Fire", 20);
-            team.AddNewPlayer(player);
-            team.AddNewPlayer(player2);
-
-            var expectedPlayer = team.PickPlayer("PlayerName");
-
-
-            Assert.That(player, Is.SameAs(expectedPlayer));
+            Assert.That(team.Players.Count, Is.EqualTo(15));
+            Assert.That(result, Is.EqualTo("No more positions available!"));
         }
 
         [Test]
-        public void PlayerScore_IncreasesStatistics()
+        public void PickPlayer_ReturnsPlayerWithMatchingName()
         {
-            FootballPlayer player = new FootballPlayer("PlayerName", 8, "Forward");
-            FootballPlayer player2 = new FootballPlayer("PlayerName2", 9, "Forward");
-            FootballTeam team = new FootballTeam("Chocago Fire", 20);
-            team.AddNewPlayer(player);
+            var team = new FootballTeam("Team", 15);
+            var player1 = new FootballPlayer("Player1", 1, "Midfielder");
+            var player2 = new FootballPlayer("Player2", 2, "Midfielder");
+            team.AddNewPlayer(player1);
             team.AddNewPlayer(player2);
 
-            string actualOutput = team.PlayerScore(8);
+            var result = team.PickPlayer("Player1");
 
-            var expectedOutput = "PlayerName scored and now has 1 for this season!";
+            Assert.That(result, Is.EqualTo(player1));
+        }
 
-            Assert.That(expectedOutput, Is.EqualTo(actualOutput));
+        [Test]
+        public void PlayerScore_IncrementsScoredGoalsAndReturnsCorrectString()
+        {
+            var team = new FootballTeam("Team", 15);
+            var player = new FootballPlayer("Player1", 1, "Midfielder");
+            team.AddNewPlayer(player);
+
+            var result = team.PlayerScore(1);
+
+            Assert.That(player.ScoredGoals, Is.EqualTo(1));
+            Assert.That(result, Is.EqualTo($"{player.Name} scored and now has {player.ScoredGoals} for this season!"));
+        }
+
+        [Test]
+        public void PlayerScore_PlayerNumberNotFound_ThrowsNullReferenceException()
+        {
+            var team = new FootballTeam("Team", 15);
+
+            Assert.Throws<NullReferenceException>(() => team.PlayerScore(1));
         }
     }
 }
+
+
+

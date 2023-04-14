@@ -1,15 +1,26 @@
-namespace UniversityLibrary.Test
-{
-    using NUnit.Framework;
-    using System.Text;
+using NUnit.Framework;
+using System;
+using System.Text;
 
-    public class Tests
+namespace UniversityLibrary.Tests
+{
+    [TestFixture]
+    public class UniversityLibraryTests
     {
+        private TextBook book1;
+        private TextBook book2;
+        private TextBook book3;
+        private UniversityLibrary library;
+
         [SetUp]
         public void Setup()
         {
-        }
+            book1 = new TextBook("C# in Depth", "Jon Skeet", "Programming");
+            book2 = new TextBook("The Art of Computer Programming", "Donald Knuth", "Programming");
+            book3 = new TextBook("Operating System Concepts", "Abraham Silberschatz", "Computer Science");
 
+            library = new UniversityLibrary();
+        }
         [Test]
         public void Test1()
         {
@@ -27,80 +38,11 @@ namespace UniversityLibrary.Test
 
             var expectedResult = sb.ToString().TrimEnd();
 
-            Assert.AreEqual(expectedResult, actualResult);
+            Assert.That(actualResult, Is.EqualTo(expectedResult));
         }
 
         [Test]
         public void Test2()
-        {
-            TextBook textBook = new TextBook("History", "Balabanov", "Humanity");
-            TextBook textBook2 = new TextBook("History2", "Balabanov", "Humanity");
-            TextBook textBook3 = new TextBook("History3", "Balabanov", "Humanity");
-
-            UniversityLibrary library = new UniversityLibrary();
-
-            library.AddTextBookToLibrary(textBook);
-            library.AddTextBookToLibrary(textBook2);
-            library.AddTextBookToLibrary(textBook3);
-
-            var expectedResult = textBook3.InventoryNumber;
-
-            Assert.AreEqual(expectedResult, 3);
-        }
-
-        [Test]
-        public void Test3()
-        {
-            TextBook textBook = new TextBook("History", "Balabanov", "Humanity");
-
-            UniversityLibrary library = new UniversityLibrary();
-
-            library.AddTextBookToLibrary(textBook);
-
-            var expectedResult = library.Catalogue.Count;
-
-            Assert.AreEqual(expectedResult, 1);
-        }
-
-
-        [Test]
-        public void Test4()
-        {
-            TextBook textBook = new TextBook("History", "Balabanov", "Humanity");
-            TextBook textBook2 = new TextBook("History2", "Balabanov", "Humanity");
-            TextBook textBook3 = new TextBook("History3", "Balabanov", "Humanity");
-
-            UniversityLibrary library = new UniversityLibrary();
-
-            library.AddTextBookToLibrary(textBook);
-            library.AddTextBookToLibrary(textBook2);
-            library.AddTextBookToLibrary(textBook3);
-
-            var actualResult = library.LoanTextBook(2, "George Bush");
-            var expectedResult = "History2 loaned to George Bush.";
-
-            Assert.AreEqual(expectedResult, actualResult);
-            Assert.AreEqual(textBook2.Holder, "George Bush");
-        }
-
-        [Test]
-        public void Test5()
-        {
-            TextBook textBook = new TextBook("History", "Balabanov", "Humanity");
-
-            UniversityLibrary library = new UniversityLibrary();
-
-            library.AddTextBookToLibrary(textBook);
-
-            library.LoanTextBook(1, "George Bush");
-            var actualResult = library.LoanTextBook(1, "George Bush");
-            var expectedResult = "George Bush still hasn't returned History!";
-
-            Assert.AreEqual(expectedResult, actualResult);
-        }
-
-        [Test]
-        public void Test6()
         {
             TextBook textBook = new TextBook("History", "Balabanov", "Humanity");
 
@@ -112,8 +54,80 @@ namespace UniversityLibrary.Test
             var actualResult = library.ReturnTextBook(1);
             var expectedResult = "History is returned to the library.";
 
-            Assert.AreEqual(expectedResult, actualResult);
-            Assert.AreEqual(textBook.Holder, string.Empty);
+            Assert.That(actualResult, Is.EqualTo(expectedResult));
+            Assert.That(string.Empty, Is.EqualTo(textBook.Holder));
+        }
+
+        [Test]
+        public void AddTextBookToLibrary_ShouldAddBookToCatalogue()
+        {
+            // Arrange
+            int expectedCount = 1;
+
+            // Act
+            library.AddTextBookToLibrary(book1);
+
+            // Assert
+            Assert.That(library.Catalogue.Count, Is.EqualTo(expectedCount));
+        }
+
+        [Test]
+        public void LoanTextBook_ShouldLoanBookToStudent()
+        {
+            // Arrange
+            string studentName = "John";
+            string expectedMessage = $"{book1.Title} loaned to {studentName}.";
+
+            // Act
+            library.AddTextBookToLibrary(book1);
+            string actualMessage = library.LoanTextBook(book1.InventoryNumber, studentName);
+
+            // Assert
+            Assert.That(actualMessage, Is.EqualTo(expectedMessage));
+        }
+
+        [Test]
+        public void LoanTextBook_ShouldNotLoanBookToSameStudent()
+        {
+            // Arrange
+            string studentName = "John";
+            library.AddTextBookToLibrary(book1);
+            library.LoanTextBook(book1.InventoryNumber, studentName);
+            string expectedMessage = $"{studentName} still hasn't returned {book1.Title}!";
+
+            // Act
+            string actualMessage = library.LoanTextBook(book1.InventoryNumber, studentName);
+
+            // Assert
+            Assert.That(actualMessage, Is.EqualTo(expectedMessage));
+        }
+
+        [Test]
+        public void ReturnTextBook_ShouldReturnBookToLibrary()
+        {
+            // Arrange
+            string expectedMessage = $"{book1.Title} is returned to the library.";
+            library.AddTextBookToLibrary(book1);
+            library.LoanTextBook(book1.InventoryNumber, "John");
+
+            // Act
+            string actualMessage = library.ReturnTextBook(book1.InventoryNumber);
+
+            // Assert
+            Assert.That(actualMessage, Is.EqualTo(expectedMessage));
+        }
+
+        [Test]
+        public void TextBookToString_ShouldReturnFormattedString()
+        {
+            // Arrange
+            string expectedString = $"Book: {book1.Title} - {book1.InventoryNumber}{Environment.NewLine}Category: {book1.Category}{Environment.NewLine}Author: {book1.Author}";
+
+            // Act
+            string actualString = book1.ToString();
+
+            // Assert
+            Assert.That(actualString, Is.EqualTo(expectedString));
         }
     }
 }
