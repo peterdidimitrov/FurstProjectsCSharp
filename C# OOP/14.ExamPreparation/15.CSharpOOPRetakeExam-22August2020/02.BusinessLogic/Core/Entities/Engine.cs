@@ -6,11 +6,11 @@ namespace EasterRaces.Core.Entities
 {
     public class Engine
     {
-        private readonly Contracts.IChampionshipController controller;
+        private readonly IChampionshipController controller;
         private readonly IReader reader;
         private readonly IWriter writer;
 
-        public Engine(Contracts.IChampionshipController championshipController, IReader reader, IWriter writer)
+        public Engine(IChampionshipController championshipController, IReader reader, IWriter writer)
         {
             this.controller = championshipController;
             this.reader = reader;
