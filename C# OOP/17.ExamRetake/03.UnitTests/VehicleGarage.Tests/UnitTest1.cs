@@ -29,7 +29,7 @@ namespace VehicleGarage.Tests
         [Test]
         public void VehicleConstructorShouldWorks()
         {
-            Vehicle vehicle = new Vehicle("Tesla", "Y", "PB9999XX", 300);
+            Vehicle vehicle = new Vehicle("Tesla", "Y", "PB9999XX");
 
             Assert.That(vehicle.Brand, Is.EqualTo("Tesla"));
             Assert.That(vehicle.Model, Is.EqualTo("Y"));
@@ -43,7 +43,7 @@ namespace VehicleGarage.Tests
         public void AddVehicleMethodShouldWork()
         {
             Garage garage = new Garage(5);
-            Vehicle vehicle = new Vehicle("Tesla", "Y", "PB9999XX", 300);
+            Vehicle vehicle = new Vehicle("Tesla", "Y", "PB9999XX");
 
             Assert.That(garage.AddVehicle(vehicle), Is.EqualTo(true));
 
@@ -56,7 +56,7 @@ namespace VehicleGarage.Tests
         public void AddVehicleMethodShouldReturnFalse()
         {
             Garage garage = new Garage(0);
-            Vehicle vehicle = new Vehicle("Tesla", "Y", "PB9999XX", 300);
+            Vehicle vehicle = new Vehicle("Tesla", "Y", "PB9999XX");
 
             Assert.That(garage.AddVehicle(vehicle), Is.EqualTo(false));
 
@@ -69,7 +69,7 @@ namespace VehicleGarage.Tests
         public void AddVehicleMethodShouldReturnFalseWhenAlreadyAddedCar()
         {
             Garage garage = new Garage(5);
-            Vehicle vehicle = new Vehicle("Tesla", "Y", "PB9999XX", 300);
+            Vehicle vehicle = new Vehicle("Tesla", "Y", "PB9999XX");
 
             Assert.That(garage.AddVehicle(vehicle), Is.EqualTo(true));
 
@@ -86,7 +86,7 @@ namespace VehicleGarage.Tests
         public void DriveVehicleMethodShoudWork()
         {
             Garage garage = new Garage(5);
-            Vehicle vehicle = new Vehicle("Tesla", "Y", "PB9999XX", 300);
+            Vehicle vehicle = new Vehicle("Tesla", "Y", "PB9999XX");
             garage.AddVehicle(vehicle);
 
             Assert.That(vehicle.IsDamaged, Is.EqualTo(false));
@@ -104,7 +104,7 @@ namespace VehicleGarage.Tests
         public void DriveVehicleMethodTestInvalidInputs()
         {
             Garage garage = new Garage(5);
-            Vehicle vehicle = new Vehicle("Tesla", "Y", "PB9999XX", 300);
+            Vehicle vehicle = new Vehicle("Tesla", "Y", "PB9999XX");
             garage.AddVehicle(vehicle);
 
             garage.DriveVehicle("PB9999XX",110, true);
@@ -123,10 +123,10 @@ namespace VehicleGarage.Tests
         public void ChargeVehiclesMethodShouldWork()
         {
             Garage garage = new Garage(5);
-            Vehicle vehicle = new Vehicle("Tesla", "Y", "PB9999XX", 100.0);
+            Vehicle vehicle = new Vehicle("Tesla", "Y", "PB9999XX");
             garage.AddVehicle(vehicle);
 
-            Vehicle vehicle2 = new Vehicle("Golf", "5", "EA8888EA", 100.0);
+            Vehicle vehicle2 = new Vehicle("Golf", "5", "EA8888EA");
             garage.AddVehicle(vehicle2);
 
             garage.DriveVehicle("PB9999XX", 70, false);
@@ -151,10 +151,10 @@ namespace VehicleGarage.Tests
         public void RepairVehiclesMethodShouldWork()
         {
             Garage garage = new Garage(5);
-            Vehicle vehicle = new Vehicle("Tesla", "Y", "PB9999XX", 100.0);
+            Vehicle vehicle = new Vehicle("Tesla", "Y", "PB9999XX");
             garage.AddVehicle(vehicle);
 
-            Vehicle vehicle2 = new Vehicle("Golf", "5", "EA8888EA", 100.0);
+            Vehicle vehicle2 = new Vehicle("Golf", "5", "EA8888EA");
             garage.AddVehicle(vehicle2);
 
             garage.DriveVehicle("PB9999XX", 70, true);

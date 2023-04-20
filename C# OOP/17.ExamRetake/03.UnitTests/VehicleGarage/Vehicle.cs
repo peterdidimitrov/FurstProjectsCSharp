@@ -6,7 +6,7 @@ namespace VehicleGarage
 {
     public class Vehicle
     {
-        public Vehicle(string brand, string model, string licensePlateNumber, double maxMileage)
+        public Vehicle(string brand, string model, string licensePlateNumber)
         {
             Brand = brand;
             Model = model;
