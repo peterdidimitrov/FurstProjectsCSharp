@@ -1,4 +1,5 @@
-﻿using SoftUniDIFramework.Injectors;
+﻿using Microsoft.Extensions.DependencyInjection;
+using SoftUniDIFramework.Injectors;
 
 namespace SoftUniDIFramework
 {
@@ -7,7 +8,6 @@ namespace SoftUniDIFramework
         public static void Main()
         {
             
-
         }
     }
 }
