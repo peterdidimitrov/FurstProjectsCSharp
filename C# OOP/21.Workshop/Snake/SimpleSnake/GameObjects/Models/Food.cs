@@ -9,10 +9,9 @@ namespace SimpleSnake.GameObjects.Models
 {
     public abstract class Food : Point
     {
+        private Wall wall;
         private char foodSymbol;
         private Random random;
-        //private IServiceProvider serviceProvider;
-        private Wall wall;
         protected Food(Wall wall, char foodSymbol, int points) 
             : base(wall.LeftX, wall.TopY)
         {
@@ -20,12 +19,11 @@ namespace SimpleSnake.GameObjects.Models
             this.foodSymbol = foodSymbol;
             FoodPoints = points;
             random = new Random();
-            //serviceProvider = ServiceConfigurator.ConfigureServices();
         }
 
         public int FoodPoints { get; set; }
 
-        public void SetRandomPosition(Queue<Point> snakeElements)
+        public void DrawFoodOnRandomPosition(Queue<Point> snakeElements)
         {
             LeftX = random.Next(2, wall.LeftX - 2);
             TopY = random.Next(2, wall.TopY - 2);
@@ -45,9 +43,9 @@ namespace SimpleSnake.GameObjects.Models
             Draw(foodSymbol);
             Console.BackgroundColor = ConsoleColor.White;
         }
-        public bool IsFoodPoint(Point snake)
+        public bool IsFoodPoint(Point snakeHead)
         {
-            return snake.TopY == TopY && snake.LeftX == LeftX;
+            return snakeHead.TopY == TopY && snakeHead.LeftX == LeftX;
         }
     }
 }

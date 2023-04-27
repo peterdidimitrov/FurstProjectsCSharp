@@ -1,6 +1,7 @@
 ﻿namespace SimpleSnake;
 
 using Microsoft.Extensions.DependencyInjection;
+using SimpleSnake.Core;
 using SimpleSnake.Core.Contracts;
 using SimpleSnake.GameObjects.Models;
 using System;
@@ -14,9 +15,10 @@ public class StartUp
         IServiceProvider serviceProvider = ServiceConfigurator.ConfigureServices();
         var wall = serviceProvider.GetService<Wall>();
 
-        //var snake = serviceProvider.GetService<ISnake>();
+        Snake snake = new Snake(wall);
 
-        var engine = serviceProvider.GetService<IEngine>();
+        IEngine engine = new Engine(wall, snake);
+
         engine.Run();
     }
 }

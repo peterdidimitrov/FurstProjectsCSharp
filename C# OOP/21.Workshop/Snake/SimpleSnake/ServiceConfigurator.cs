@@ -18,6 +18,7 @@ public class ServiceConfigurator
         serviceCollection.AddTransient<IWriter<char>, ConsoleWriter>();
         serviceCollection.AddTransient<IPoint, Point>();
         serviceCollection.AddTransient<Wall>(w => new Wall(60, 20));
+        serviceCollection.AddTransient<Snake, Snake>();
 
         serviceCollection.AddTransient<IEngine, Engine>();
         return serviceCollection.BuildServiceProvider();

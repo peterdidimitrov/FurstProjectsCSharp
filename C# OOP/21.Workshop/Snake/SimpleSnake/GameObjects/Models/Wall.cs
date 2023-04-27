@@ -29,4 +29,7 @@ public class Wall : Point
         DrawVerticalLine(0);
         DrawVerticalLine(LeftX - 1);
     }
+    public bool IsPointOfWall(Point snake)
+       => snake.TopY == 0 || snake.LeftX == 0 || 
+          snake.LeftX == LeftX - 1 || snake.TopY == TopY - 1;
 }
