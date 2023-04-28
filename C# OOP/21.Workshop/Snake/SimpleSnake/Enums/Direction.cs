@@ -1,10 +1,9 @@
-﻿namespace SimpleSnake.Enums
+﻿namespace SimpleSnake.Enums;
+
+public enum Direction
 {
-    public enum Direction
-    {
-        Right,
-        Left,
-        Down,
-        Up,
-    }
+    Right,
+    Left,
+    Down,
+    Up,
 }

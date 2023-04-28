@@ -2,7 +2,6 @@
 
 using SimpleSnake.Core.Contracts;
 using SimpleSnake.Enums;
-using SimpleSnake.GameObjects.Contracts;
 using SimpleSnake.GameObjects.Models;
 using System;
 using System.Threading;
@@ -12,16 +11,18 @@ public class Engine : IEngine
     private Wall wall;
     private Snake snake;
     private Direction direction;
-    private double sleepTime;
+    private decimal sleepTime;
     private readonly Point[] pointsOfDirection;
     public Engine(Wall wall, Snake snake)
     {
         this.wall = wall;
         this.snake = snake;
-        
-        sleepTime = 100;
+
+        sleepTime = 200;
         pointsOfDirection = new Point[4];
+        Spead = 1;
     }
+    public int Spead { get; set; }
     public void Run()
     {
         CreateDirections();
@@ -41,8 +42,13 @@ public class Engine : IEngine
                 AskUserForRestart();
             }
 
-            sleepTime -= 0.01;
+            sleepTime -= 0.05m;
+            if (sleepTime % 10 == 0)
+            {
+                Spead++;
+            }
             Thread.Sleep((int)sleepTime);
+
         }
     }
     private void CreateDirections()
@@ -122,7 +128,7 @@ public class Engine : IEngine
     private void ShowSpead()
     {
         Console.SetCursorPosition(wall.LeftX + 1, 1);
-        Console.Write($"Spead: {snake.Spead}");
+        Console.Write($"Spead: {Spead}");
         Console.CursorVisible = false;
     }
 }

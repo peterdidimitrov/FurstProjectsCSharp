@@ -23,12 +23,12 @@ public class Snake
         snakeElements = new Queue<Point>();
         foods = new List<Food>();
         foodIndex = RandomFoodNumner;
+
         GetFoods();
         CreateFood();
         CreateSnake();
     }
     public int FoodEaten { get; set; }
-    public int Spead { get; set; }
 
     private int RandomFoodNumner => new Random().Next(0, foods.Count);
     private void CreateSnake()
@@ -92,7 +92,6 @@ public class Snake
         }
 
         FoodEaten += length;
-        Spead++;
         
         GetNextPoint(direction, currentSnakeHead);
         CreateFood();
