@@ -29,7 +29,7 @@ public class Engine : IEngine
         while (true)
         {
             ShowScore();
-            ShowSpead();
+            ShowSpeed();
             if (Console.KeyAvailable)
             {
                 GetNextDirection();
@@ -125,7 +125,7 @@ public class Engine : IEngine
         Console.Write($"Score: {snake.FoodEaten}");
         Console.CursorVisible = false;
     }
-    private void ShowSpead()
+    private void ShowSpeed()
     {
         Console.SetCursorPosition(wall.LeftX + 1, 1);
         Console.Write($"Speed: {Speed}");
