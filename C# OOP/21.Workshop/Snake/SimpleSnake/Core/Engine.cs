@@ -20,9 +20,9 @@ public class Engine : IEngine
 
         sleepTime = 200;
         pointsOfDirection = new Point[4];
-        Spead = 1;
+        Speed = 1;
     }
-    public int Spead { get; set; }
+    public int Speed { get; set; }
     public void Run()
     {
         CreateDirections();
@@ -45,7 +45,7 @@ public class Engine : IEngine
             sleepTime -= 0.05m;
             if (sleepTime % 10 == 0)
             {
-                Spead++;
+                Speed++;
             }
             Thread.Sleep((int)sleepTime);
 
@@ -128,7 +128,7 @@ public class Engine : IEngine
     private void ShowSpead()
     {
         Console.SetCursorPosition(wall.LeftX + 1, 1);
-        Console.Write($"Spead: {Spead}");
+        Console.Write($"Speed: {Speed}");
         Console.CursorVisible = false;
     }
 }
